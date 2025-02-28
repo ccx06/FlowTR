@@ -20,7 +20,6 @@ class QueryAnalyst(Role):
     async def _act(self) -> Message:
         logger.info(f"{self._setting}: to do {self.rc.todo}({self.rc.todo.name})")
         # By choosing the Action by order under the hood
-        # todo will be first SimpleWriteCode() then SimpleRunCode()
         todo = self.rc.todo
 
         msg = self.get_memories(k=1)[0]  # find the most k recent messages
@@ -45,12 +44,11 @@ class QueryDecomposer(Role):
     async def _act(self) -> Message:
         logger.info(f"{self._setting}: to do {self.rc.todo}({self.rc.todo.name})")
         # By choosing the Action by order under the hood
-        # todo will be first SimpleWriteCode() then SimpleRunCode()
         todo = self.rc.todo
 
         msg = self.get_memories(k=1)[0]  # find the most k recent messages
         result = await todo.run(msg.content)
         msg = Message(content=result, role=self.profile, cause_by=type(todo))
-        self.rc.memory.add(msg)   # 如果注释掉记忆模块 速度会不会快一点
+        self.rc.memory.add(msg)  
         return msg
 

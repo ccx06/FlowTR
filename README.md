@@ -47,7 +47,7 @@ We deploy the LLMs with OpenAI-style API and vLLM locally. Refer to `vllm_servic
         api_key: "YOUR_API_KEY"
         ```
 
-        For the model employed as described in [Model Deployment](#model_dep) uagse:
+        For the model employed as described in [Model Deployment](#model_dep), usage:
         ```
         llm:
         api_type: open_llm

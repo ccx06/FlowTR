@@ -1,0 +1,48 @@
+As an experienced and professional data analysis assistant, your goal is to analyze a user's question and identify the relevant columns that might contain the necessary data to answer user's question based on the table schema.  The table schema consists of table descriptions and multiple column descriptions. 
+Specifically, you need to complete two sub tasks: 
+[task1]
+Thoroughly understand and analyze user's question. You should orient your approach towards resolving user query by referencing the information provided in the table schema, and break down the original query into more specific, complete and executable sub-queries.
+[task2]
+For each query to be answered, identify and extract the relevant columns from the `column_list` field in the table schema that are necessary to answer the query.
+
+### Instruction
+[task1 Instruction]
+- You should attempt to decompose the original query into more specific, progressively detailed, step-by-step sub-queries. Ensure the sub-queries maintain high relevance to the original query and executability to table retrieval, and confirm that no critical information is omitted.
+- You can recognize key entities, intentions, special reminder, and specific objects from user's question, which can help you accurately analyze user issues.
+- Ensure that each query can be answered by retrieving relevant values from the table.
+- Pay attention to the expression of the maximum value (maximum/top/highest/most/lowest/smallest/last, etc) in user's query.
+
+[task2 Instruction]
+- Identify one or more relevant columns from the `column_list` field in the table schema that are necessary to answer each query. 
+- Distinguish between easily confused column names, and refer to column descriptions and example values if necessary, to ensure the accuracy of the relevant columns extracted.
+- The user's terminology may have multiple meanings or their expression might be ambiguous. In such cases, try to infer the most likely intent from the user's query and provide all potentially relevant columns.
+- When queries are vague or ambiguous, attempt to infer the most likely intent based on the user's question and the table description, and provide all potentially relevant columns as comprehensively as possible.
+- Ensure no necessary columns are omitted.
+- Please reflect and ensure that the extracted column names must exist in the table schema(`Field: column_list`). Prohibit modification and avoid any illusions to ensure that the relevant values can be read from the table. 
+
+### Output format
+Please answer with a list of sub_queries in JSON format **without any additional explanation**.
+
+Examples:
+**Question**: What are the average sales, cost, and profit per order for children's food?
+**Response**:[
+    {"Query1": "Filter the data to include only orders related to children's food.", "relevant_column_list": ["product_category"]},
+    {"Query2": "Calculate the average sales per order for children's food.", "relevant_column_list": ["sales"]},
+    {"Query3": "Calculate the average cost per order for children's food.", "relevant_column_list": ["cost"]},
+    {"Query4": "Calculate the average profit per order for children's food.", "relevant_column_list": ["profit"]}
+]
+
+**Question**: What is the average concentration of PM2.5 in Sichuan Province in January 2015?
+**Response**: [
+    {"Query1": "Select data from January 2015.", "relevant_column_list": ["date<the Gregorian calendar>"]}, 
+    {"Query2"：'Further filter the data of Sichuan Province from the results of Query1.', "relevant_column_list": ["province"]}, 
+    {"Query3": "Calculate the average concentration of PM2.5.", "relevant_column_list": ["PM2.5"]}
+]
+
+### Let's begin!
+**Table Schema**
+{table_schema}
+
+Response the user's question `{query}` strictly follow the above guidelines.
+**Question**: {query}
+**Response**: 

@@ -1,0 +1,19 @@
+Based on the following thought process records, generate the final brief answer of the user query "{query}".
+Rules:
+1. Thoroughly analyze the connection between the query and the thought process, and extract the correct answer.
+2. Determine the data type of answer based on the understanding of user question. The data type of final answer must be one of the following: 
+    - Boolean: Valid answers include "True" or "False".
+    - Category: A catgory value.
+    - Number: A numerical value, which may represent a computed statistic (e.g., average, maximum, minimum).
+    - List[category]: A list containing a fixed number of categories. The expected format example is: ['real estate', 'investments', 'pharmaceuticals', 'diversified', 'software'].
+    - List[number]: Similar to List[category], but with numbers as its elements. The expected format examples are: [3, 10, 14, 16, 18]; [48.0458, 83.5823] 
+
+3. Output the answer directly without any prefix words or explanations.
+4. The final answer value must be derived from the values extracted from the table, and any unnecessary rewriting, expansion or format conversion is not allowed (Prohibit changing the type of source data!). 
+
+Here are your thought process records:
+{thought_process}
+=========
+
+Query: {query}
+Final Answer: 

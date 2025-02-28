@@ -1,0 +1,5 @@
+workspace/
+metagpt/
+__pycache__/
+logs/
+results/

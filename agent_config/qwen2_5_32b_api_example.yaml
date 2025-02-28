@@ -1,0 +1,7 @@
+llm:
+  api_type: open_llm
+  base_url: "http://{ip}:{port}/v1"
+  model: "{model}"        # keep the same with the served-model-name parameter in the vllm startup service script
+  temperature: 0
+  calc_usage: false
+  api_key: "{api_key}"

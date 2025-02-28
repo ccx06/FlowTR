@@ -1,0 +1,2090 @@
+[
+    {
+        "question": "Is our average employee older than 35?",
+        "dataset": "066_IBM_HR"
+    },
+    {
+        "question": "Is the most frequent travel value rarely traveling?",
+        "dataset": "066_IBM_HR"
+    },
+    {
+        "question": "Is the highest DailyRate equal to 1499?",
+        "dataset": "066_IBM_HR"
+    },
+    {
+        "question": "Is the highest DailyRate negative?",
+        "dataset": "066_IBM_HR"
+    },
+    {
+        "question": "Is our research dept bigger than sales?",
+        "dataset": "066_IBM_HR"
+    },
+    {
+        "question": "Is the highest rating given to any performance to 4?",
+        "dataset": "066_IBM_HR"
+    },
+    {
+        "question": "Are there more employees who travel frequently than those who work in the HR department?",
+        "dataset": "066_IBM_HR"
+    },
+    {
+        "question": "Is the average MonthlyIncome of employees affected by attrition less than those not affected?",
+        "dataset": "066_IBM_HR"
+    },
+    {
+        "question": "Is the standard number of working hours the same across all employees?",
+        "dataset": "066_IBM_HR"
+    },
+    {
+        "question": "What is the most common role?",
+        "dataset": "066_IBM_HR"
+    },
+    {
+        "question": "Which department has the highest average YearsAtCompany?",
+        "dataset": "066_IBM_HR"
+    },
+    {
+        "question": "What is the least common marital status?",
+        "dataset": "066_IBM_HR"
+    },
+    {
+        "question": "What is the most frequent field of education for our employees?",
+        "dataset": "066_IBM_HR"
+    },
+    {
+        "question": "Which travel category has the highest average income?",
+        "dataset": "066_IBM_HR"
+    },
+    {
+        "question": " Which gender is most satisfied with the job on average?",
+        "dataset": "066_IBM_HR"
+    },
+    {
+        "question": "What is the most common score given work and life balance?",
+        "dataset": "066_IBM_HR"
+    },
+    {
+        "question": "Which EducationField do we employ the least?",
+        "dataset": "066_IBM_HR"
+    },
+    {
+        "question": "What is the average age of our employees?",
+        "dataset": "066_IBM_HR"
+    },
+    {
+        "question": "What is the total number of different job roles offered by IBM?",
+        "dataset": "066_IBM_HR"
+    },
+    {
+        "question": "What is the maximum years someone has been at IBM?",
+        "dataset": "066_IBM_HR"
+    },
+    {
+        "question": "What is the median monthly income of our employees?",
+        "dataset": "066_IBM_HR"
+    },
+    {
+        "question": "What is the sum of the miles employees have to travel to get to work?",
+        "dataset": "066_IBM_HR"
+    },
+    {
+        "question": "What is the average number of total working years for employees who are working in sales?",
+        "dataset": "066_IBM_HR"
+    },
+    {
+        "question": "How many employees rate their satisfaction with their environment with a score of 4?",
+        "dataset": "066_IBM_HR"
+    },
+    {
+        "question": "What is the range (max - min) of YearsSinceLastPromotion?",
+        "dataset": "066_IBM_HR"
+    },
+    {
+        "question": "What is the longest time someone has been without a promotion?",
+        "dataset": "066_IBM_HR"
+    },
+    {
+        "question": "List the unique different grades received by anyone for their performance.",
+        "dataset": "066_IBM_HR"
+    },
+    {
+        "question": "List the amounts of the lowest 5 monthly incomes.",
+        "dataset": "066_IBM_HR"
+    },
+    {
+        "question": "List all the different education levels of our employees can be classified into.",
+        "dataset": "066_IBM_HR"
+    },
+    {
+        "question": "List the top 5 highest PercentSalaryHike values. The answer is a list with five values, even if they are repeated.",
+        "dataset": "066_IBM_HR"
+    },
+    {
+        "question": "List the 5 most common ages of our employees.",
+        "dataset": "066_IBM_HR"
+    },
+    {
+        "question": "List the top 3 most common job roles our company has.",
+        "dataset": "066_IBM_HR"
+    },
+    {
+        "question": "List the 2 departments that employ the most people.",
+        "dataset": "066_IBM_HR"
+    },
+    {
+        "question": "List the different marital status values in our database.",
+        "dataset": "066_IBM_HR"
+    },
+    {
+        "question": "List all the different (unique) values we use to classify the field of education of our employees.",
+        "dataset": "066_IBM_HR"
+    },
+    {
+        "question": "List the top 5 BusinessTravel categories.",
+        "dataset": "066_IBM_HR"
+    },
+    {
+        "question": "List all the unique possible values overtime can take.",
+        "dataset": "066_IBM_HR"
+    },
+    {
+        "question": "List the 4 most common JobLevels.",
+        "dataset": "066_IBM_HR"
+    },
+    {
+        "question": "List the 3 most common JobLevels.",
+        "dataset": "066_IBM_HR"
+    },
+    {
+        "question": "Does the dataset contain any review that more than forty users have labeled as helpful?",
+        "dataset": "067_TripAdvisor"
+    },
+    {
+        "question": "Are all the reviews sources (phone or not phone) non-null?",
+        "dataset": "067_TripAdvisor"
+    },
+    {
+        "question": "Is 1 the least frequent overall rating given in a review?",
+        "dataset": "067_TripAdvisor"
+    },
+    {
+        "question": "How many reviews give ratings related to the location?",
+        "dataset": "067_TripAdvisor"
+    },
+    {
+        "question": "Is there more overall ratings given than ratings related to the location?",
+        "dataset": "067_TripAdvisor"
+    },
+    {
+        "question": "Is there any review written in 2024?",
+        "dataset": "067_TripAdvisor"
+    },
+    {
+        "question": "Are all of our reviews labelled helpful by someone?",
+        "dataset": "067_TripAdvisor"
+    },
+    {
+        "question": "Are there more reviews marked as being made from a phone than not?",
+        "dataset": "067_TripAdvisor"
+    },
+    {
+        "question": "Is the maximum number of helpful votes found in only one review?",
+        "dataset": "067_TripAdvisor"
+    },
+    {
+        "question": "Is the best possible review for room ratings found in more than fifteen reviews?",
+        "dataset": "067_TripAdvisor"
+    },
+    {
+        "question": "Which year had the highest number of reviews made?",
+        "dataset": "067_TripAdvisor"
+    },
+    {
+        "question": "What is the average rating given to rooms?",
+        "dataset": "067_TripAdvisor"
+    },
+    {
+        "question": "What (non-null) room rating is most common?",
+        "dataset": "067_TripAdvisor"
+    },
+    {
+        "question": "Which value is most frequent for num_helpful_votes`?",
+        "dataset": "067_TripAdvisor"
+    },
+    {
+        "question": "Who is the author of 'value with a view'?",
+        "dataset": "067_TripAdvisor"
+    },
+    {
+        "question": "What is the average review length (in characters) without taking the title into account?",
+        "dataset": "067_TripAdvisor"
+    },
+    {
+        "question": "What is the total number of reviews?",
+        "dataset": "067_TripAdvisor"
+    },
+    {
+        "question": "What is the highest number of users that has labeled a single review as helpful?",
+        "dataset": "067_TripAdvisor"
+    },
+    {
+        "question": "What is the average number of helpful votes?",
+        "dataset": "067_TripAdvisor"
+    },
+    {
+        "question": "What is the length of the longest text of a review (in chars)?",
+        "dataset": "067_TripAdvisor"
+    },
+    {
+        "question": "What is the year of the first review made?",
+        "dataset": "067_TripAdvisor"
+    },
+    {
+        "question": "How many reviews did family fun guru write?",
+        "dataset": "067_TripAdvisor"
+    },
+    {
+        "question": "What is the sum of all helpful votes for these reviews?",
+        "dataset": "067_TripAdvisor"
+    },
+    {
+        "question": "List the top 4 years according to the number of reviews.",
+        "dataset": "067_TripAdvisor"
+    },
+    {
+        "question": "List the 5 (non-unique) highest values of `num_helpful_votes`.",
+        "dataset": "067_TripAdvisor"
+    },
+    {
+        "question": "List the usernames of the authors who provided a username and wrote more than 3 reviews. If there are none answer with an empty list.",
+        "dataset": "067_TripAdvisor"
+    },
+    {
+        "question": "List the usernames of the authors who provided a username and wrote more than 4 reviews. If there are none answer with an empty list.",
+        "dataset": "067_TripAdvisor"
+    },
+    {
+        "question": "List the 5 largest non-unique (they can be repeated) offering IDs.",
+        "dataset": "067_TripAdvisor"
+    },
+    {
+        "question": "List the 4 most common years a guest stayed at a property.",
+        "dataset": "067_TripAdvisor"
+    },
+    {
+        "question": "Does any entry in the dataset have a supplier contract greater than one million dollars?",
+        "dataset": "068_WorldBank_Awards"
+    },
+    {
+        "question": "Is there any region which was awarded only one contract?",
+        "dataset": "068_WorldBank_Awards"
+    },
+    {
+        "question": "Is India amongst the borrower countries?",
+        "dataset": "068_WorldBank_Awards"
+    },
+    {
+        "question": "Is India the borrower country with the most contracts awarded?",
+        "dataset": "068_WorldBank_Awards"
+    },
+    {
+        "question": "Is there any project where the review is made before its execution?",
+        "dataset": "068_WorldBank_Awards"
+    },
+    {
+        "question": "Is there any project where the review is made after its execution?",
+        "dataset": "068_WorldBank_Awards"
+    },
+    {
+        "question": "Is any supplier from the US?",
+        "dataset": "068_WorldBank_Awards"
+    },
+    {
+        "question": "What is the most frequent method of procurement for a given contract?",
+        "dataset": "068_WorldBank_Awards"
+    },
+    {
+        "question": "Which region has the most contracts?",
+        "dataset": "068_WorldBank_Awards"
+    },
+    {
+        "question": "What is the longest name amongst the countries which have borrowed money? ",
+        "dataset": "068_WorldBank_Awards"
+    },
+    {
+        "question": "What is the procurement category associated with the largest contract?",
+        "dataset": "068_WorldBank_Awards"
+    },
+    {
+        "question": "Which region has the largest contracts on average?",
+        "dataset": "068_WorldBank_Awards"
+    },
+    {
+        "question": "Who is the most frequent country of borrowers present in the dataset?",
+        "dataset": "068_WorldBank_Awards"
+    },
+    {
+        "question": "Which global project practice would appear first if we sorted the columnn from A to Z?",
+        "dataset": "068_WorldBank_Awards"
+    },
+    {
+        "question": "How big is the biggest contract in the dataset? Answer in USD.",
+        "dataset": "068_WorldBank_Awards"
+    },
+    {
+        "question": "How many different fiscal years the contracts belong to?",
+        "dataset": "068_WorldBank_Awards"
+    },
+    {
+        "question": "What is the total number of procurements in the dataset?",
+        "dataset": "068_WorldBank_Awards"
+    },
+    {
+        "question": "How big is the average procurement across all entries?",
+        "dataset": "068_WorldBank_Awards"
+    },
+    {
+        "question": "Assuming supplier IDs are assigned from lowest to highest, what is the ID of the oldest supplier present in the dataset?",
+        "dataset": "068_WorldBank_Awards"
+    },
+    {
+        "question": "What is the standard deviation of the contracts awarded?",
+        "dataset": "068_WorldBank_Awards"
+    },
+    {
+        "question": "What is the total number of supplier contracts in the 2024 fiscal year?",
+        "dataset": "068_WorldBank_Awards"
+    },
+    {
+        "question": "List the 3 quantities of usd associated with the top 3 biggest contracts.",
+        "dataset": "068_WorldBank_Awards"
+    },
+    {
+        "question": "Are there contracts awarded after the 2020 fiscal year had ended?",
+        "dataset": "068_WorldBank_Awards"
+    },
+    {
+        "question": "Assuming new suppliers get the last assigned id + 1, what are the unique IDs of the earliest 5 different suppliers we have in the dataset?",
+        "dataset": "068_WorldBank_Awards"
+    },
+    {
+        "question": "What are the 3 fiscal years that had the most procurements?",
+        "dataset": "068_WorldBank_Awards"
+    },
+    {
+        "question": "For each of the first three fiscal years present in this dataset list the total amount of dollars awarded.",
+        "dataset": "068_WorldBank_Awards"
+    },
+    {
+        "question": "List the amounts awarded to the 2 contracts that are strictly over 100k dollars but closest to 100,000USD.",
+        "dataset": "068_WorldBank_Awards"
+    },
+    {
+        "question": " How much were the 4 largest contracts in central and west africa awarded for? Answer with a list with one amount per contract",
+        "dataset": "068_WorldBank_Awards"
+    },
+    {
+        "question": "List the 5 countries which most frequently borrow money through a procurement.",
+        "dataset": "068_WorldBank_Awards"
+    },
+    {
+        "question": "List the 4 regions the countries most frequently belong to.",
+        "dataset": "068_WorldBank_Awards"
+    },
+    {
+        "question": "List the 4 most frequent methods of procurement.",
+        "dataset": "068_WorldBank_Awards"
+    },
+    {
+        "question": "What are the first 4 (row-wise) distinct 'Supplier Countries' we can find in the dataset?",
+        "dataset": "068_WorldBank_Awards"
+    },
+    {
+        "question": "List the unique review methods for contracts awarded above five hundred thousand dollars",
+        "dataset": "068_WorldBank_Awards"
+    },
+    {
+        "question": "List the unique review methods for contracts awarded more than 500000USD",
+        "dataset": "068_WorldBank_Awards"
+    },
+    {
+        "question": "Is there a first tier category with a name related to attractions?",
+        "dataset": "069_Taxonomy"
+    },
+    {
+        "question": "Are there more than five first tier categories?",
+        "dataset": "069_Taxonomy"
+    },
+    {
+        "question": "Is any entry in the third tier a (direct or otherwise) descendant of 150?",
+        "dataset": "069_Taxonomy"
+    },
+    {
+        "question": "Are all rows named?",
+        "dataset": "069_Taxonomy"
+    },
+    {
+        "question": "Are there any fourth level entities in the taxonomy?",
+        "dataset": "069_Taxonomy"
+    },
+    {
+        "question": "Are there more entities with a valid parent ID than third tier entities?",
+        "dataset": "069_Taxonomy"
+    },
+    {
+        "question": "Does the dataset contain exactly 703 entries?",
+        "dataset": "069_Taxonomy"
+    },
+    {
+        "question": "Do all entities have a valid unique value associated?",
+        "dataset": "069_Taxonomy"
+    },
+    {
+        "question": "Which first tier category name has the most descendants? (direct or otherwise)",
+        "dataset": "069_Taxonomy"
+    },
+    {
+        "question": "What is most common category name among the first level categories?",
+        "dataset": "069_Taxonomy"
+    },
+    {
+        "question": "Which first tier category has the second largest amount of descendants (direct or otherwise)?",
+        "dataset": "069_Taxonomy"
+    },
+    {
+        "question": "What is the second most popular category name among the first level categories?",
+        "dataset": "069_Taxonomy"
+    },
+    {
+        "question": "What is the most common unique parent ID found in the dataset?",
+        "dataset": "069_Taxonomy"
+    },
+    {
+        "question": "What is the non-null third level value in the dataset that appears first?",
+        "dataset": "069_Taxonomy"
+    },
+    {
+        "question": "What is the name of the direct ascendant of the bars and restaurants entity?",
+        "dataset": "069_Taxonomy"
+    },
+    {
+        "question": "How many elements are there in our taxonomy?",
+        "dataset": "069_Taxonomy"
+    },
+    {
+        "question": "How many elements in the taxonomy do not have a parent id associated?",
+        "dataset": "069_Taxonomy"
+    },
+    {
+        "question": "What is the total number of unique non-null Parent values?",
+        "dataset": "069_Taxonomy"
+    },
+    {
+        "question": "How many entries belong to the third or fourth tiers?",
+        "dataset": "069_Taxonomy"
+    },
+    {
+        "question": "How many unique entries exist in the first level of our taxonomy?",
+        "dataset": "069_Taxonomy"
+    },
+    {
+        "question": "How many rows contain null values in Tier 2?",
+        "dataset": "069_Taxonomy"
+    },
+    {
+        "question": "How many Parent IDs appear exactly once?",
+        "dataset": "069_Taxonomy"
+    },
+    {
+        "question": "Are all names unique?",
+        "dataset": "069_Taxonomy"
+    },
+    {
+        "question": "What is the number of unique names?",
+        "dataset": "069_Taxonomy"
+    },
+    {
+        "question": "List the 3 Parent values associated the 3 highest number of descendants (direct or otherwise).",
+        "dataset": "069_Taxonomy"
+    },
+    {
+        "question": "List the entry counts for the attractions and automotive entities.",
+        "dataset": "069_Taxonomy"
+    },
+    {
+        "question": "List the number of children for the categories of commercial trucks and convertibles. Answer with a two element list.",
+        "dataset": "069_Taxonomy"
+    },
+    {
+        "question": "List counts of non-null values for each Tier column.",
+        "dataset": "069_Taxonomy"
+    },
+    {
+        "question": "List the first (by number of appearance) 3 different values in the highest tier of the dataset. If there are less than 3 list as many as there are.",
+        "dataset": "069_Taxonomy"
+    },
+    {
+        "question": "List the first (by row number) 2 different level 1 values found in the dataset. If there are less than 2 list as many as there are.",
+        "dataset": "069_Taxonomy"
+    },
+    {
+        "question": "List the first (by number of appearance) 4 different second highest level values.",
+        "dataset": "069_Taxonomy"
+    },
+    {
+        "question": "List all (unique) highest tier values present in the first 4 rows.",
+        "dataset": "069_Taxonomy"
+    },
+    {
+        "question": "List the 4 first tier values present in the first 4 rows.",
+        "dataset": "069_Taxonomy"
+    },
+    {
+        "question": "List the first 4 different non-null parent values found in the dataset. If there are less than 4 list as many as there are.",
+        "dataset": "069_Taxonomy"
+    },
+    {
+        "question": "List the first 3 different non-null parent values found in the dataset. If there are less than 3 list as many as there are.",
+        "dataset": "069_Taxonomy"
+    },
+    {
+        "question": "Is there any vegan product in our dataset?",
+        "dataset": "070_OpenFoodFacts"
+    },
+    {
+        "question": "Did Eduardo create upload any products to the database?",
+        "dataset": "070_OpenFoodFacts"
+    },
+    {
+        "question": "Is the product with code 00001522 apt for vegans?",
+        "dataset": "070_OpenFoodFacts"
+    },
+    {
+        "question": "Is any product palm oil free?",
+        "dataset": "070_OpenFoodFacts"
+    },
+    {
+        "question": "Are there any products belonging to the category 'Plant-based foods and beverages'?",
+        "dataset": "070_OpenFoodFacts"
+    },
+    {
+        "question": "Are all products created by the openfoodfacts contributors labeled as vegan?",
+        "dataset": "070_OpenFoodFacts"
+    },
+    {
+        "question": " Are more than a 1000 products sold in Mercadona stores?",
+        "dataset": "070_OpenFoodFacts"
+    },
+    {
+        "question": "Are there products from the 'Hacendado' brand in more than one country?",
+        "dataset": "070_OpenFoodFacts"
+    },
+    {
+        "question": "What is the most frequent brand name? Answer with a single category.",
+        "dataset": "070_OpenFoodFacts"
+    },
+    {
+        "question": "Which country has the most products listed? Answer with a single category.",
+        "dataset": "070_OpenFoodFacts"
+    },
+    {
+        "question": "What is the single label associated with the most products? Answer with a single category.",
+        "dataset": "070_OpenFoodFacts"
+    },
+    {
+        "question": "How many products are labeled as 'Vegan'?",
+        "dataset": "070_OpenFoodFacts"
+    },
+    {
+        "question": "Which store has the most products listed?",
+        "dataset": "070_OpenFoodFacts"
+    },
+    {
+        "question": "Which creator has contributed the most to the database?",
+        "dataset": "070_OpenFoodFacts"
+    },
+    {
+        "question": "How many products belong to the 'Hacendado' brand?",
+        "dataset": "070_OpenFoodFacts"
+    },
+    {
+        "question": "How many unique countries exist in the dataset?",
+        "dataset": "070_OpenFoodFacts"
+    },
+    {
+        "question": "How many products have no labels?",
+        "dataset": "070_OpenFoodFacts"
+    },
+    {
+        "question": "How many products are associated with the 'Mercadona' type of store?",
+        "dataset": "070_OpenFoodFacts"
+    },
+    {
+        "question": "What is the total number of products in the dataset that have a non-empty product name?",
+        "dataset": "070_OpenFoodFacts"
+    },
+    {
+        "question": "What is the total number of products in the dataset that have a unique product code?",
+        "dataset": "070_OpenFoodFacts"
+    },
+    {
+        "question": "How many products are listed under 'Plant-based foods and beverages'?",
+        "dataset": "070_OpenFoodFacts"
+    },
+    {
+        "question": " List the product codes associated with the Seitan category",
+        "dataset": "070_OpenFoodFacts"
+    },
+    {
+        "question": " List the product names associated with the Seitan category",
+        "dataset": "070_OpenFoodFacts"
+    },
+    {
+        "question": "List the two most frequent labels in the dataset",
+        "dataset": "070_OpenFoodFacts"
+    },
+    {
+        "question": " \"List the five most frequent labels in the dataset. If there are less than five list as many as there are.\"",
+        "dataset": "070_OpenFoodFacts"
+    },
+    {
+        "question": " List the two most frequent store names in the dataset",
+        "dataset": "070_OpenFoodFacts"
+    },
+    {
+        "question": " List the two number of stores for the two most frequent store names in the dataset",
+        "dataset": "070_OpenFoodFacts"
+    },
+    {
+        "question": " List the 3 most frequent countries in the dataset",
+        "dataset": "070_OpenFoodFacts"
+    },
+    {
+        "question": " List the 3 number of products present for the 3 most frequent countries in the dataset",
+        "dataset": "070_OpenFoodFacts"
+    },
+    {
+        "question": "Is Switzerland the country with the highest Cost of Living Index?",
+        "dataset": "071_COL"
+    },
+    {
+        "question": "Is the Bahamas ranked second in the dataset?",
+        "dataset": "071_COL"
+    },
+    {
+        "question": "Is there any country with a Rent Index above 65?",
+        "dataset": "071_COL"
+    },
+    {
+        "question": "Does Iceland have more purchasing power than a country that has a 100 in that index?",
+        "dataset": "071_COL"
+    },
+    {
+        "question": "Is Barbados considered overall more expensive than the country ranked in the 10th place?",
+        "dataset": "071_COL"
+    },
+    {
+        "question": "Does the dataset include at least 120 countries?",
+        "dataset": "071_COL"
+    },
+    {
+        "question": "If I am from Iceland and I move to Singapore, would I expect my rent to be more expensive according to the index?",
+        "dataset": "071_COL"
+    },
+    {
+        "question": "Is Switzerland considered to be the most expensive country regardless if I rent or own my home?",
+        "dataset": "071_COL"
+    },
+    {
+        "question": "Which country ranks the most expensive in terms of overall cost of living?",
+        "dataset": "071_COL"
+    },
+    {
+        "question": "In which country would it be cheaper to buy groceries?",
+        "dataset": "071_COL"
+    },
+    {
+        "question": "If I have to rent but I want to move to the cheapest country to live in, where should I move to?",
+        "dataset": "071_COL"
+    },
+    {
+        "question": "In which country would it be most expensive to eat in a restaurant?",
+        "dataset": "071_COL"
+    },
+    {
+        "question": "Which country has the second-highest world rent?",
+        "dataset": "071_COL"
+    },
+    {
+        "question": "Which country is the second most expensive destination to move to considering I am not a home owner in the country?",
+        "dataset": "071_COL"
+    },
+    {
+        "question": "Which country has a Groceries Index closest to 80?",
+        "dataset": "071_COL"
+    },
+    {
+        "question": "What is the Cost of Living Index assigned to the most expensive country to live in?",
+        "dataset": "071_COL"
+    },
+    {
+        "question": "What is the Rent Index of the top-ranked country?",
+        "dataset": "071_COL"
+    },
+    {
+        "question": "What is the total number of countries in the dataset?",
+        "dataset": "071_COL"
+    },
+    {
+        "question": "What is the average Groceries Index across all countries?",
+        "dataset": "071_COL"
+    },
+    {
+        "question": "What is the difference between the highest and lowest Restaurant Price Index?",
+        "dataset": "071_COL"
+    },
+    {
+        "question": "If I'm moving to Singapore and I have to rent there, what would my associated index for cost of living be?",
+        "dataset": "071_COL"
+    },
+    {
+        "question": "What is the mean Local Purchasing Power Index of the top 10 countries by rank?",
+        "dataset": "071_COL"
+    },
+    {
+        "question": "What is Iceland's rank?",
+        "dataset": "071_COL"
+    },
+    {
+        "question": "List the Rent Index values of the top 5 overall most expensive countries excluding rent.",
+        "dataset": "071_COL"
+    },
+    {
+        "question": "List the Cost of Living Index values of the 5 countries that are ranked the cheapest.",
+        "dataset": "071_COL"
+    },
+    {
+        "question": "List the Local Purchasing Power Index values of countries ranked 1st to 5th.",
+        "dataset": "071_COL"
+    },
+    {
+        "question": "List the 3 associated index values for the countries where groceries are most expensive.",
+        "dataset": "071_COL"
+    },
+    {
+        "question": "List the index given to restaurant prices for the top 5 overall most expensive countries for home owners.",
+        "dataset": "071_COL"
+    },
+    {
+        "question": "List the 5 lowest indices for cost of life for a person who have to rent.",
+        "dataset": "071_COL"
+    },
+    {
+        "question": "List the 5 Local Purchasing Power Index values closest to 100.",
+        "dataset": "071_COL"
+    },
+    {
+        "question": "List the names of the top 5 ranked countries.",
+        "dataset": "071_COL"
+    },
+    {
+        "question": "List the 3 countries where I would pay the most for groceries.",
+        "dataset": "071_COL"
+    },
+    {
+        "question": "List the 3 countries where it's cheapest to rent.",
+        "dataset": "071_COL"
+    },
+    {
+        "question": "List the countries ranked 10th to 15th.",
+        "dataset": "071_COL"
+    },
+    {
+        "question": "List the top 5 countries by Local Purchasing Power Index.",
+        "dataset": "071_COL"
+    },
+    {
+        "question": "List the 3 countries where restaurants are the cheapest.",
+        "dataset": "071_COL"
+    },
+    {
+        "question": "Is there any applicant who got a grade better than 330 in their graduate record examination?",
+        "dataset": "072_Admissions"
+    },
+    {
+        "question": "Is there any applicant who got a score worse than 100 in their English test?",
+        "dataset": "072_Admissions"
+    },
+    {
+        "question": "Is the best CGPA greater than 9.5?",
+        "dataset": "072_Admissions"
+    },
+    {
+        "question": "Did any applicant with a perfect university rating score get a grade below 320 in their graduate record examination?",
+        "dataset": "072_Admissions"
+    },
+    {
+        "question": "Is there an applicant with a chance above 95 per cent of getting into the university they applied to?",
+        "dataset": "072_Admissions"
+    },
+    {
+        "question": "Is the lowest score assigned to a student's stated purpose for admission worse than 2?",
+        "dataset": "072_Admissions"
+    },
+    {
+        "question": "Are there any applicants who don't have any research experience previous to their application?",
+        "dataset": "072_Admissions"
+    },
+    {
+        "question": "Is the average English score better than 105?",
+        "dataset": "072_Admissions"
+    },
+    {
+        "question": "What is the rating given by the college they applied to to the applicant with the highest CGPA?",
+        "dataset": "072_Admissions"
+    },
+    {
+        "question": "What is the university rating of the applicant with the lowest GRE score?",
+        "dataset": "072_Admissions"
+    },
+    {
+        "question": "Which score given to the stated purpose of admission of the student is most common among applications?",
+        "dataset": "072_Admissions"
+    },
+    {
+        "question": "What is the score for the recommendation letters presented by the student with the lowest English score?",
+        "dataset": "072_Admissions"
+    },
+    {
+        "question": "What is the university rating of the applicant who is less likely to be admitted?",
+        "dataset": "072_Admissions"
+    },
+    {
+        "question": "Which rating given to the stated purpose of students is associated with the highest accumulated grade point average?",
+        "dataset": "072_Admissions"
+    },
+    {
+        "question": "Which rating number is most commonly given by universities?",
+        "dataset": "072_Admissions"
+    },
+    {
+        "question": "Do most students have some research experience prior to the application?",
+        "dataset": "072_Admissions"
+    },
+    {
+        "question": "What is the highest graduate record score in the dataset?",
+        "dataset": "072_Admissions"
+    },
+    {
+        "question": "What is the average English score of applicants who have at least some research experience?",
+        "dataset": "072_Admissions"
+    },
+    {
+        "question": "What is the total number of applicants with a university rating of 3?",
+        "dataset": "072_Admissions"
+    },
+    {
+        "question": "What is the maximum grade point average among applicants without research experience?",
+        "dataset": "072_Admissions"
+    },
+    {
+        "question": "What is the minimum score of letters presented among applicants who have over an eighty per cent chance of admission?",
+        "dataset": "072_Admissions"
+    },
+    {
+        "question": "What is the standard deviation of CGPA scores?",
+        "dataset": "072_Admissions"
+    },
+    {
+        "question": "What is the sum of English test scores for applicants with an stated purpose better than 4?",
+        "dataset": "072_Admissions"
+    },
+    {
+        "question": "How many applicants have a graduate record score between 300 and 310 (including both)?",
+        "dataset": "072_Admissions"
+    },
+    {
+        "question": "List the 5 highest graduate record scores in the dataset.",
+        "dataset": "072_Admissions"
+    },
+    {
+        "question": "How many people in the dataset got a perfect English score?",
+        "dataset": "072_Admissions"
+    },
+    {
+        "question": "How many applicants got a perfect score in their statement of purpose?",
+        "dataset": "072_Admissions"
+    },
+    {
+        "question": "List the top 5 English scores in the dataset.",
+        "dataset": "072_Admissions"
+    },
+    {
+        "question": "List the 5 lowest grade point average scores in the dataset.",
+        "dataset": "072_Admissions"
+    },
+    {
+        "question": "List the top 5 stated purpose scores in the dataset.",
+        "dataset": "072_Admissions"
+    },
+    {
+        "question": "List the top 5 scores assigned to endorsement letters in the dataset.",
+        "dataset": "072_Admissions"
+    },
+    {
+        "question": "List the top 5 English scores of applicants who have experience as researchers.",
+        "dataset": "072_Admissions"
+    },
+    {
+        "question": "List the best 2 graduate record scores of applicants whose stated motivation to enter got a rating better than 4.",
+        "dataset": "072_Admissions"
+    },
+    {
+        "question": "List the 2 worst grade point average scores of applicants who received the second worst possible rating from their university.",
+        "dataset": "072_Admissions"
+    },
+    {
+        "question": "List the university ratings associated with the top 5 CGPA scores.",
+        "dataset": "072_Admissions"
+    },
+    {
+        "question": "List the university ratings of the lowest 5 grade point average scores.",
+        "dataset": "072_Admissions"
+    },
+    {
+        "question": "List the scores given to the stated motivations of the 4 applicants who have the best shot at getting into the university they applied to.",
+        "dataset": "072_Admissions"
+    },
+    {
+        "question": "List the SOP ratings of applicants with the top 5 English scores.",
+        "dataset": "072_Admissions"
+    },
+    {
+        "question": "List the LOR ratings of applicants with the lowest 5 gpa scores.",
+        "dataset": "072_Admissions"
+    },
+    {
+        "question": "Is there any individual in the dataset with a body mass index greater than 50?",
+        "dataset": "073_Med_Cost"
+    },
+    {
+        "question": "Is it true that the number of regions represented are more than 3?",
+        "dataset": "073_Med_Cost"
+    },
+    {
+        "question": "Is it true that there are no centenarians in this dataset? ",
+        "dataset": "073_Med_Cost"
+    },
+    {
+        "question": "Is the average BMI found in this dataset considered not to be obese?",
+        "dataset": "073_Med_Cost"
+    },
+    {
+        "question": "Are there any childless individuals?",
+        "dataset": "073_Med_Cost"
+    },
+    {
+        "question": "Does the dataset contain people who do not consume tobacco?",
+        "dataset": "073_Med_Cost"
+    },
+    {
+        "question": "Is there anyone that is a northeastern?",
+        "dataset": "073_Med_Cost"
+    },
+    {
+        "question": "Would an individual with the median BMI of the dataset considered to be underweight?",
+        "dataset": "073_Med_Cost"
+    },
+    {
+        "question": "Is the maximum medical charge in the dataset greater than $60,000?",
+        "dataset": "073_Med_Cost"
+    },
+    {
+        "question": "What is the location most represented in this dataset?",
+        "dataset": "073_Med_Cost"
+    },
+    {
+        "question": "Which gender has the highest number of individuals?",
+        "dataset": "073_Med_Cost"
+    },
+    {
+        "question": "What is the smoking status of the individual who paid the most money?",
+        "dataset": "073_Med_Cost"
+    },
+    {
+        "question": "What is the region the youngest teenager comes from?",
+        "dataset": "073_Med_Cost"
+    },
+    {
+        "question": "What is the gender of the person with the highest body mass index?",
+        "dataset": "073_Med_Cost"
+    },
+    {
+        "question": "Is being childless the most common state for people in the dataset? True",
+        "dataset": "073_Med_Cost"
+    },
+    {
+        "question": "What is the most frequent number of children?",
+        "dataset": "073_Med_Cost"
+    },
+    {
+        "question": "What region is represented least in the dataset?",
+        "dataset": "073_Med_Cost"
+    },
+    {
+        "question": "What is the smoking status of the individual with the lowest BMI?",
+        "dataset": "073_Med_Cost"
+    },
+    {
+        "question": "What is the maximum BMI in the dataset?",
+        "dataset": "073_Med_Cost"
+    },
+    {
+        "question": "What is the average number of children?",
+        "dataset": "073_Med_Cost"
+    },
+    {
+        "question": "How many unique regions are in the dataset?",
+        "dataset": "073_Med_Cost"
+    },
+    {
+        "question": "What is the sum of all medically related charges in the dataset?",
+        "dataset": "073_Med_Cost"
+    },
+    {
+        "question": "How old is the youngest teenager in the dataset?",
+        "dataset": "073_Med_Cost"
+    },
+    {
+        "question": "How many people in the dataset have lived for more than six decades?",
+        "dataset": "073_Med_Cost"
+    },
+    {
+        "question": "How many people could be considered smokers?",
+        "dataset": "073_Med_Cost"
+    },
+    {
+        "question": "What is the median BMI in the dataset?",
+        "dataset": "073_Med_Cost"
+    },
+    {
+        "question": "List the 2 highest BMIs in the dataset for people who can be considered to suffer from Class III Obesity.",
+        "dataset": "073_Med_Cost"
+    },
+    {
+        "question": "List the charges of individuals with the 3 highest BMIs.",
+        "dataset": "073_Med_Cost"
+    },
+    {
+        "question": "List the ages of individuals with the 5 lowest charges.",
+        "dataset": "073_Med_Cost"
+    },
+    {
+        "question": "List the ages of the 3 youngest teenagers.",
+        "dataset": "073_Med_Cost"
+    },
+    {
+        "question": "List the unique different smoking statuses found among individuals over 60 years of age.",
+        "dataset": "073_Med_Cost"
+    },
+    {
+        "question": "List the regions of individuals with the 3 highest BMIs.",
+        "dataset": "073_Med_Cost"
+    },
+    {
+        "question": "Is there a lifter older than 50?",
+        "dataset": "074_Lift"
+    },
+    {
+        "question": "Does the dataset contain squatting lifts?",
+        "dataset": "074_Lift"
+    },
+    {
+        "question": "Is the biggest lift performed greater than 880 pounds?",
+        "dataset": "074_Lift"
+    },
+    {
+        "question": "Is the minimum lifted less than 330 pounds?",
+        "dataset": "074_Lift"
+    },
+    {
+        "question": "Are there more than 100 lifters in the weight class someone that weights 82kg would compete in?",
+        "dataset": "074_Lift"
+    },
+    {
+        "question": "Is the average age of all lifting records in the '105 kg' weight class above 40?",
+        "dataset": "074_Lift"
+    },
+    {
+        "question": "Is the average age of all lifting records in the weight class of someone who weights 103000 grams above 40?",
+        "dataset": "074_Lift"
+    },
+    {
+        "question": "Does 'Jessica Wilson' appear in the dataset?",
+        "dataset": "074_Lift"
+    },
+    {
+        "question": "Are there fewer than 5 unique types of exercise recorded?",
+        "dataset": "074_Lift"
+    },
+    {
+        "question": "Which weight class has the best average lifted weight?",
+        "dataset": "074_Lift"
+    },
+    {
+        "question": "What is the most common 'Weight Class'?",
+        "dataset": "074_Lift"
+    },
+    {
+        "question": "Which type of exercise has the best average lift?",
+        "dataset": "074_Lift"
+    },
+    {
+        "question": "What is the current record in kilograms for maximum weight ever lifted'?",
+        "dataset": "074_Lift"
+    },
+    {
+        "question": "How many different athletes are there in the dataset?",
+        "dataset": "074_Lift"
+    },
+    {
+        "question": "How many different men can we find in this dataset?",
+        "dataset": "074_Lift"
+    },
+    {
+        "question": "How many different women are there in the dataset?",
+        "dataset": "074_Lift"
+    },
+    {
+        "question": "What's the highest record set by men in the bench press category?",
+        "dataset": "074_Lift"
+    },
+    {
+        "question": "What's the best record set by women in the bench press category?",
+        "dataset": "074_Lift"
+    },
+    {
+        "question": "Who is the woman with the best lifting record?",
+        "dataset": "074_Lift"
+    },
+    {
+        "question": "What is the total sum of the amounts lifted in a bench press exercise?",
+        "dataset": "074_Lift"
+    },
+    {
+        "question": "What is the least amount of kilos lifted in the weight class that someone who is 55kg would participate in?",
+        "dataset": "074_Lift"
+    },
+    {
+        "question": "What is the difference betweent the highest amount lifted and the lowest?",
+        "dataset": "074_Lift"
+    },
+    {
+        "question": "How many lifters are in the weight class that people who weight 139 pounds would enter?",
+        "dataset": "074_Lift"
+    },
+    {
+        "question": "What are the highest 3 amounts ever lifted by anyone?",
+        "dataset": "074_Lift"
+    },
+    {
+        "question": "List the 5 smallest amounts ever lifted by anyone.",
+        "dataset": "074_Lift"
+    },
+    {
+        "question": "What are the top 5 total lifts by 'Weight Class'?",
+        "dataset": "074_Lift"
+    },
+    {
+        "question": "What are the 3 largest age gaps present between lifts for each weight class?",
+        "dataset": "074_Lift"
+    },
+    {
+        "question": "List the 2 worst lifts in the '105 kg' weight class.",
+        "dataset": "074_Lift"
+    },
+    {
+        "question": "List the top 3 amounts lifted while squatting.",
+        "dataset": "074_Lift"
+    },
+    {
+        "question": "List the 5 names of the women lifting in this dataset",
+        "dataset": "074_Lift"
+    },
+    {
+        "question": "List the 5 men names of men who perform exercises in this dataset",
+        "dataset": "074_Lift"
+    },
+    {
+        "question": "What are the top 3 'Weight Classes' by total lifts?",
+        "dataset": "074_Lift"
+    },
+    {
+        "question": "List 5 lifters from the '74 kg' weight class.",
+        "dataset": "074_Lift"
+    },
+    {
+        "question": "What are the 3 least frequent types of exercise we find in the dataset?",
+        "dataset": "074_Lift"
+    },
+    {
+        "question": "What are the 3 most frequent types of exercise we find in the dataset?",
+        "dataset": "074_Lift"
+    },
+    {
+        "question": "Is there any condition where the mortality rate is more prevalent than a condition with a rate of 300?",
+        "dataset": "075_Mortality"
+    },
+    {
+        "question": "Are there more cases recorded in cities overall?",
+        "dataset": "075_Mortality"
+    },
+    {
+        "question": "Is the maximum mortality rate in the dataset worse than 250?",
+        "dataset": "075_Mortality"
+    },
+    {
+        "question": "Does the dataset include any case with an error less than 0.5?",
+        "dataset": "075_Mortality"
+    },
+    {
+        "question": "Are all values associated with the death rate higher than 100?",
+        "dataset": "075_Mortality"
+    },
+    {
+        "question": "Are all of the most frequent causes of mortality related to the heart?",
+        "dataset": "075_Mortality"
+    },
+    {
+        "question": "Does any region appear more than 50 times?",
+        "dataset": "075_Mortality"
+    },
+    {
+        "question": "Are there more cases recorded for men than for women?",
+        "dataset": "075_Mortality"
+    },
+    {
+        "question": "What is the region with the most deaths per capita?",
+        "dataset": "075_Mortality"
+    },
+    {
+        "question": "What cause corresponds to the lowest mortality rate?",
+        "dataset": "075_Mortality"
+    },
+    {
+        "question": "What gender has the worst average mortality rate?",
+        "dataset": "075_Mortality"
+    },
+    {
+        "question": "What is the type of status with the best average ratio?",
+        "dataset": "075_Mortality"
+    },
+    {
+        "question": "What region has the worst average rate?",
+        "dataset": "075_Mortality"
+    },
+    {
+        "question": "What is the maximum value in the ratio column?",
+        "dataset": "075_Mortality"
+    },
+    {
+        "question": "What is the minimum error present in this dataset?",
+        "dataset": "075_Mortality"
+    },
+    {
+        "question": "How many cases have a death rate worse than 200?",
+        "dataset": "075_Mortality"
+    },
+    {
+        "question": "What is the total sum of all death rate values?",
+        "dataset": "075_Mortality"
+    },
+    {
+        "question": "What is the average error recorded?",
+        "dataset": "075_Mortality"
+    },
+    {
+        "question": "What is the standard deviation of ratio?",
+        "dataset": "075_Mortality"
+    },
+    {
+        "question": "How many distinct HHS regions are present?",
+        "dataset": "075_Mortality"
+    },
+    {
+        "question": "What is the range (max-min) that death rates for any cause of death appearing in this dataset can take?",
+        "dataset": "075_Mortality"
+    },
+    {
+        "question": "What are the 5 worst death rates recorded?",
+        "dataset": "075_Mortality"
+    },
+    {
+        "question": "What are the lowest 5 values for error deviations recorded for the rates?",
+        "dataset": "075_Mortality"
+    },
+    {
+        "question": "List the 5 smallest ratio values that are still greater than 100.",
+        "dataset": "075_Mortality"
+    },
+    {
+        "question": "List the highest 4 deviations recorded to the expected rate recorded in urban areas.",
+        "dataset": "075_Mortality"
+    },
+    {
+        "question": "List the 5 smallest deviations from the expected death rate in relation to diseases of the heart.",
+        "dataset": "075_Mortality"
+    },
+    {
+        "question": "List the unique causes for death found in the first region of the United States Department of Health and Human Services.",
+        "dataset": "075_Mortality"
+    },
+    {
+        "question": "What are the 3 regions with the worst average mortality rate?",
+        "dataset": "075_Mortality"
+    },
+    {
+        "question": "What are the 2 categories present in the dataset that discriminate if a case happened in a city-like environment or not?",
+        "dataset": "075_Mortality"
+    },
+    {
+        "question": "Is there a player with exactly a thousand total points in a given season? Answer True or False",
+        "dataset": "076_NBA"
+    },
+    {
+        "question": "Is there a season where any player scored more than 3000 points? Answer True or False",
+        "dataset": "076_NBA"
+    },
+    {
+        "question": "Did any player not miss any free throws in a single season? Answer True or False ",
+        "dataset": "076_NBA"
+    },
+    {
+        "question": "Is there a team that had a player scoring exactly 2k points in one season? Answer True or False",
+        "dataset": "076_NBA"
+    },
+    {
+        "question": "Is there any player with a number of rebounds better than 500 in a single season? Answer True or False",
+        "dataset": "076_NBA"
+    },
+    {
+        "question": "Did any player ever achieve more than 500 assists in one season? Answer True or False",
+        "dataset": "076_NBA"
+    },
+    {
+        "question": "Did any player play in every game of a season? Answer True or False",
+        "dataset": "076_NBA"
+    },
+    {
+        "question": "Is there any player with a field goal record for a given season/playoffs better than 9/10?",
+        "dataset": "076_NBA"
+    },
+    {
+        "question": "Which player scored the most points in the season that finished in 2013?",
+        "dataset": "076_NBA"
+    },
+    {
+        "question": "Which player scored the most points in the season that started in 2012?",
+        "dataset": "076_NBA"
+    },
+    {
+        "question": "Which team had the highest total points scored by its players?",
+        "dataset": "076_NBA"
+    },
+    {
+        "question": "What is the player name with the highest yet non-perfect free throw performance in the 2012-2013 year?",
+        "dataset": "076_NBA"
+    },
+    {
+        "question": "Which team had the most rebounds?",
+        "dataset": "076_NBA"
+    },
+    {
+        "question": "Who led in assists in the regular season that started in 2012?",
+        "dataset": "076_NBA"
+    },
+    {
+        "question": "Which player had the most steals in a given season?",
+        "dataset": "076_NBA"
+    },
+    {
+        "question": "What is the highest number of steals in a given season?",
+        "dataset": "076_NBA"
+    },
+    {
+        "question": "What is the total number of rebounds recorded in the dataset?",
+        "dataset": "076_NBA"
+    },
+    {
+        "question": "What is the total number of rebounds recorded in the dataset where the ball didn't change possession?",
+        "dataset": "076_NBA"
+    },
+    {
+        "question": "In what percentage of the rebounds recorded in the dataset did the ball remain on the same team? Answer with a number",
+        "dataset": "076_NBA"
+    },
+    {
+        "question": "How many games did the player with the most minutes played in a single season play in that season?",
+        "dataset": "076_NBA"
+    },
+    {
+        "question": "What is the record set for single-season assists within the dataset?",
+        "dataset": "076_NBA"
+    },
+    {
+        "question": "How many players played in the 2010-11 season?",
+        "dataset": "076_NBA"
+    },
+    {
+        "question": "How many players scored exactly 2000 points in a season?",
+        "dataset": "076_NBA"
+    },
+    {
+        "question": "What was the highest number of blocks by any player in a season?",
+        "dataset": "076_NBA"
+    },
+    {
+        "question": "List the three highest rebound totals by a single player in one season.",
+        "dataset": "076_NBA"
+    },
+    {
+        "question": "What are the three highest total assist values in one season?",
+        "dataset": "076_NBA"
+    },
+    {
+        "question": "List the top 4 total point achieved by a single player in one season.",
+        "dataset": "076_NBA"
+    },
+    {
+        "question": "List the three highest numbers of steals.",
+        "dataset": "076_NBA"
+    },
+    {
+        "question": "List the top 3 block counts in the dataset.",
+        "dataset": "076_NBA"
+    },
+    {
+        "question": "List the 5 players with the least games played.",
+        "dataset": "076_NBA"
+    },
+    {
+        "question": "List the three players with the most rebounds.",
+        "dataset": "076_NBA"
+    },
+    {
+        "question": "List the top 5 of teams with the highest total points overall.",
+        "dataset": "076_NBA"
+    },
+    {
+        "question": "List the top 5 of teams with the highest total rebounds overall.",
+        "dataset": "076_NBA"
+    },
+    {
+        "question": "List the 2 players with the most steals overall.",
+        "dataset": "076_NBA"
+    },
+    {
+        "question": "List the three players with the highest blocks in a single season.",
+        "dataset": "076_NBA"
+    },
+    {
+        "question": "List the top 4 players by assists in a single given season.",
+        "dataset": "076_NBA"
+    },
+    {
+        "question": "Is there any woman in the dataset with a BMI greater than 30?",
+        "dataset": "077_Gestational"
+    },
+    {
+        "question": "Is there any woman younger than 18 years?",
+        "dataset": "077_Gestational"
+    },
+    {
+        "question": "Does the dataset contain any woman who has never been pregnant?",
+        "dataset": "077_Gestational"
+    },
+    {
+        "question": "Are all women in the dataset younger than 40 years?",
+        "dataset": "077_Gestational"
+    },
+    {
+        "question": "Does every woman in the dataset have an associated height strictly greater than 1.40 meters?",
+        "dataset": "077_Gestational"
+    },
+    {
+        "question": "Is there at least one woman with heredity marked positively?",
+        "dataset": "077_Gestational"
+    },
+    {
+        "question": "Are all women in the dataset predicted to be free of diabetes? (to have diabetes is associated with the positive label of the model)",
+        "dataset": "077_Gestational"
+    },
+    {
+        "question": "How many teen pregnancies are there in this dataset?",
+        "dataset": "077_Gestational"
+    },
+    {
+        "question": "Is there a woman with a weight of exactly 50000 grams?",
+        "dataset": "077_Gestational"
+    },
+    {
+        "question": "What is the most value of the status marking hereditary diabetes risk in the dataset?",
+        "dataset": "077_Gestational"
+    },
+    {
+        "question": "What is the age of the woman with the lowest body mass index?",
+        "dataset": "077_Gestational"
+    },
+    {
+        "question": "What is the maximum height amongst the two heaviest women?",
+        "dataset": "077_Gestational"
+    },
+    {
+        "question": "Which number of pregnancies is most common?",
+        "dataset": "077_Gestational"
+    },
+    {
+        "question": "What is the most frequent BMI value in the dataset?",
+        "dataset": "077_Gestational"
+    },
+    {
+        "question": "How much does the heaviest person in the dataset weight?",
+        "dataset": "077_Gestational"
+    },
+    {
+        "question": "How tall is the shortest person in the dataset? Answer with the number of meters.",
+        "dataset": "077_Gestational"
+    },
+    {
+        "question": "What is the average BMI across all women?",
+        "dataset": "077_Gestational"
+    },
+    {
+        "question": "What is the total number of women in the dataset?",
+        "dataset": "077_Gestational"
+    },
+    {
+        "question": "What is the median age of women in the dataset?",
+        "dataset": "077_Gestational"
+    },
+    {
+        "question": "How many women weight less than 60 kg?",
+        "dataset": "077_Gestational"
+    },
+    {
+        "question": "What is the range (max-min) of the different heights in meters? Answer with a single number",
+        "dataset": "077_Gestational"
+    },
+    {
+        "question": "What is the standard deviation found among the BMIs?",
+        "dataset": "077_Gestational"
+    },
+    {
+        "question": "List the 3 heights of the 3 tallest women in the dataset (in cm).",
+        "dataset": "077_Gestational"
+    },
+    {
+        "question": "List the different ages (in years) of teenagers found in the dataset.",
+        "dataset": "077_Gestational"
+    },
+    {
+        "question": "Provide a list with the unique reported pregnancy numbers of women weighing more (>) than 70000g. If there are none answer with an empty list.",
+        "dataset": "077_Gestational"
+    },
+    {
+        "question": "List the weights of women with a height of exactly 1m and 45cm.",
+        "dataset": "077_Gestational"
+    },
+    {
+        "question": "List the different labels assigned to heredity statuses.",
+        "dataset": "077_Gestational"
+    },
+    {
+        "question": "List the different prediction outcomes for diabetes found in the dataset.",
+        "dataset": "077_Gestational"
+    },
+    {
+        "question": "List the unique height values (converted to cm) found among of women with a BMI<18.5.",
+        "dataset": "077_Gestational"
+    },
+    {
+        "question": "List the unique pregnancy numbers of women older than 30 years. If there are none answer with an empty list.",
+        "dataset": "077_Gestational"
+    },
+    {
+        "question": "List the unique ages of the youngest five women who have a diabetes risk associated with their family. If there are less than five answer with all the unique ages that match the criteria.",
+        "dataset": "077_Gestational"
+    },
+    {
+        "question": "Is there any record where the area affected is greater than 50ha?",
+        "dataset": "078_Fires"
+    },
+    {
+        "question": "Was there any fire unaffected by wind?",
+        "dataset": "078_Fires"
+    },
+    {
+        "question": "Is the maximum value of 'DMC' less than 200?",
+        "dataset": "078_Fires"
+    },
+    {
+        "question": "Are all of the horizontal axis coordinates plotted to the right of the third column?",
+        "dataset": "078_Fires"
+    },
+    {
+        "question": "Are there any entries where the temperature is below freezing level in Celsius?",
+        "dataset": "078_Fires"
+    },
+    {
+        "question": "Is there any measuring that recorded 0% humidity ?",
+        "dataset": "078_Fires"
+    },
+    {
+        "question": "Are there more than 10 unique months in the dataset?",
+        "dataset": "078_Fires"
+    },
+    {
+        "question": "Are all months of the year present in the dataset?",
+        "dataset": "078_Fires"
+    },
+    {
+        "question": "Is the average value of wind speed recorded faster than 3?",
+        "dataset": "078_Fires"
+    },
+    {
+        "question": "If the year starts in January, what is the numeric id of the worst month in terms of number of fires?",
+        "dataset": "078_Fires"
+    },
+    {
+        "question": "Answer with the numeric ID of the day of the week the hottest temperature was recorded",
+        "dataset": "078_Fires"
+    },
+    {
+        "question": "What is the name of the month that recorded the driest day when a fire took place?",
+        "dataset": "078_Fires"
+    },
+    {
+        "question": "What is the label id of the month with the largest area burned?",
+        "dataset": "078_Fires"
+    },
+    {
+        "question": "What is the name of the windiest day on average?",
+        "dataset": "078_Fires"
+    },
+    {
+        "question": "What is the name of the month with the smallest average 'DC' value?",
+        "dataset": "078_Fires"
+    },
+    {
+        "question": "Which month number corresponds to the highest average 'ISI' value?",
+        "dataset": "078_Fires"
+    },
+    {
+        "question": "Which day was the minimum 'DMC' value recorded? Answer with the day's name",
+        "dataset": "078_Fires"
+    },
+    {
+        "question": "What is the hottest temperature recorded?",
+        "dataset": "078_Fires"
+    },
+    {
+        "question": "What is the speed of the slowest wind in our records?",
+        "dataset": "078_Fires"
+    },
+    {
+        "question": "Assuming fires are always in different terrain, what is the total added area affected by fires in the dataset?",
+        "dataset": "078_Fires"
+    },
+    {
+        "question": "How many unique values are there in the vertical axis column?",
+        "dataset": "078_Fires"
+    },
+    {
+        "question": "What is the mean percentage of relative humidity? Answer with a number",
+        "dataset": "078_Fires"
+    },
+    {
+        "question": "What is the range (max - min) of 'DC' values?",
+        "dataset": "078_Fires"
+    },
+    {
+        "question": "What is the standard deviation of the 'ISI' column?",
+        "dataset": "078_Fires"
+    },
+    {
+        "question": "How many fires affected a negligible (zero) amount of terrain?",
+        "dataset": "078_Fires"
+    },
+    {
+        "question": "What are the 3 hottest temperatures recorded?",
+        "dataset": "078_Fires"
+    },
+    {
+        "question": "List the 5 smallest values in the 'DC' column.",
+        "dataset": "078_Fires"
+    },
+    {
+        "question": "Provide the unique values in the vertical axis of the associated graph from bottom to top.",
+        "dataset": "078_Fires"
+    },
+    {
+        "question": "What are the 4 recorded humidity percentages of the 4 driest records?",
+        "dataset": "078_Fires"
+    },
+    {
+        "question": "List the 5 (can be repeated) highest wind speeds recorded.",
+        "dataset": "078_Fires"
+    },
+    {
+        "question": "Provide the size of the top 3 greatest areas a fire affected.",
+        "dataset": "078_Fires"
+    },
+    {
+        "question": "List the minimum 3 'DMC' values in ascending order.",
+        "dataset": "078_Fires"
+    },
+    {
+        "question": "List the unique full month names when fires were recorded in ascending order.",
+        "dataset": "078_Fires"
+    },
+    {
+        "question": "Provide the 3 names of the days when fires were most frequently recorded. ",
+        "dataset": "078_Fires"
+    },
+    {
+        "question": "What are the 2 full names of the 2 months the first 2 rows of the database took place in?",
+        "dataset": "078_Fires"
+    },
+    {
+        "question": "Provide the name of the days when the 3 highest temperatures were recorded. ",
+        "dataset": "078_Fires"
+    },
+    {
+        "question": "List the unique month names corresponding to the driest 4 percentages of RH.",
+        "dataset": "078_Fires"
+    },
+    {
+        "question": "Provide the unique day names associated with the highest 5 'DMC' values.",
+        "dataset": "078_Fires"
+    },
+    {
+        "question": "List the unique full names of the days where wind speed has been faster than 5mph.",
+        "dataset": "078_Fires"
+    },
+    {
+        "question": " Is there a transaction where more than 10 products were sold?",
+        "dataset": "079_Coffee"
+    },
+    {
+        "question": " Is 99 an existing id for a store?",
+        "dataset": "079_Coffee"
+    },
+    {
+        "question": " Do all rows of this dataset have a different product id?",
+        "dataset": "079_Coffee"
+    },
+    {
+        "question": "Did we ever sell 20 items in the same transaction?",
+        "dataset": "079_Coffee"
+    },
+    {
+        "question": "Is there any single product with a price greater than 100?",
+        "dataset": "079_Coffee"
+    },
+    {
+        "question": "Does the dataset have fewer than 200k rows?",
+        "dataset": "079_Coffee"
+    },
+    {
+        "question": "Do we have a separate category for drinking chocolate in our stores?",
+        "dataset": "079_Coffee"
+    },
+    {
+        "question": "Is 5 the ID of the store with the most transactions?",
+        "dataset": "079_Coffee"
+    },
+    {
+        "question": "What is the location of our most popular store?",
+        "dataset": "079_Coffee"
+    },
+    {
+        "question": "Which category is associated with the smallest single product price in the database?",
+        "dataset": "079_Coffee"
+    },
+    {
+        "question": "Which are the first three letters of day of the week which has worst performance in terms of revenue?",
+        "dataset": "079_Coffee"
+    },
+    {
+        "question": "What is the product type of the transactions with yielded the most money in revenue? Answer with a category.",
+        "dataset": "079_Coffee"
+    },
+    {
+        "question": "What are the first three letters of the month that has the highest average products per transaction?",
+        "dataset": "079_Coffee"
+    },
+    {
+        "question": "Which hour has the lowest number of transactions? Answer with a number from 0 to 23.",
+        "dataset": "079_Coffee"
+    },
+    {
+        "question": "What is the location of the first purchase row-wise?",
+        "dataset": "079_Coffee"
+    },
+    {
+        "question": "What is the categorization of the first product row-wise?",
+        "dataset": "079_Coffee"
+    },
+    {
+        "question": "What is the maximum amount of products that were sold in a single given transaction?",
+        "dataset": "079_Coffee"
+    },
+    {
+        "question": "How many unique different products do we sell?",
+        "dataset": "079_Coffee"
+    },
+    {
+        "question": "What is the total revenue provided by all the transactions in the dataset?",
+        "dataset": "079_Coffee"
+    },
+    {
+        "question": "Are our stores open on Sunday?",
+        "dataset": "079_Coffee"
+    },
+    {
+        "question": "What is the average unitary price in our transactions?",
+        "dataset": "079_Coffee"
+    },
+    {
+        "question": "What is the total number of transactions carried on a Sunday?",
+        "dataset": "079_Coffee"
+    },
+    {
+        "question": "How many active stores do we own according to this dataset?",
+        "dataset": "079_Coffee"
+    },
+    {
+        "question": "How much revenue did our best single transaction bring?",
+        "dataset": "079_Coffee"
+    },
+    {
+        "question": "How many transactions occurred in the sixth month of the year?",
+        "dataset": "079_Coffee"
+    },
+    {
+        "question": "List the 3 largest amount of products bought in one transaction? If there are less than 3 list as many as there are.",
+        "dataset": "079_Coffee"
+    },
+    {
+        "question": "List the different store ids",
+        "dataset": "079_Coffee"
+    },
+    {
+        "question": "List the lowest 4 single-product price values",
+        "dataset": "079_Coffee"
+    },
+    {
+        "question": "List highest 3 different revenues a given transaction has yielded?",
+        "dataset": "079_Coffee"
+    },
+    {
+        "question": "List the unique numerical weekly values present in this dataset",
+        "dataset": "079_Coffee"
+    },
+    {
+        "question": "What are the different locations where our business is present?",
+        "dataset": "079_Coffee"
+    },
+    {
+        "question": "What are the unique product_category names in transactions with transaction_qty > 5? If there are none answer with an empty list",
+        "dataset": "079_Coffee"
+    },
+    {
+        "question": "What are the 3 most common product_type names?",
+        "dataset": "079_Coffee"
+    },
+    {
+        "question": "What are the abbreviated month names where transactions have been present?",
+        "dataset": "079_Coffee"
+    },
+    {
+        "question": "Could you list the unique weekday names our transactions are recorded in?",
+        "dataset": "079_Coffee"
+    },
+    {
+        "question": " List the IDs of our 2 most popular stores in terms of number of purchases",
+        "dataset": "079_Coffee"
+    },
+    {
+        "question": " What are the 2 (non-unique) product types associated with the highest 2 revenues of a single given purchase? Answer with a list with 2 elements.",
+        "dataset": "079_Coffee"
+    },
+    {
+        "question": " What is the name of the animal involved in the production of the most expensive coffee-related product that we offer? Answer with a value present in a cell of the database.",
+        "dataset": "079_Coffee"
+    },
+    {
+        "question": "Do we have any book on sale? Answer True or False",
+        "dataset": "080_Books"
+    },
+    {
+        "question": "Are there any books that are longer than 500 pages? Answer True or False",
+        "dataset": "080_Books"
+    },
+    {
+        "question": "Did Mr Harari write a book on history? Answer True or False",
+        "dataset": "080_Books"
+    },
+    {
+        "question": "Does any book have a rating better than 35? Answer True or False",
+        "dataset": "080_Books"
+    },
+    {
+        "question": "Do we still have enough stock of all books? Answer True or False",
+        "dataset": "080_Books"
+    },
+    {
+        "question": "A customer asked for a book titled 'The greatest book to ever exist', do we have it in stock? Answer True or False",
+        "dataset": "080_Books"
+    },
+    {
+        "question": "Is there any book published by Harper Collins for India?",
+        "dataset": "080_Books"
+    },
+    {
+        "question": "Are there any books with fewer than 100 pages?",
+        "dataset": "080_Books"
+    },
+    {
+        "question": "Which book is considered the best by our clients?",
+        "dataset": "080_Books"
+    },
+    {
+        "question": "Assuming all books are similar in reading difficulty, which category does the book that would take longest to read belong to?",
+        "dataset": "080_Books"
+    },
+    {
+        "question": "How many suns were there in the title of Hosseinis' novel? Answer with a number",
+        "dataset": "080_Books"
+    },
+    {
+        "question": "How many books are written by multiple authors? (explicitly mentioned translators and editors count as authors)",
+        "dataset": "080_Books"
+    },
+    {
+        "question": "Who was the book with most reviewed book written by?",
+        "dataset": "080_Books"
+    },
+    {
+        "question": "If I wanted to buy the shortest book, how long would be the book that I'd pick?",
+        "dataset": "080_Books"
+    },
+    {
+        "question": "What is the publisher of the nineteenth edition of Let Us C?",
+        "dataset": "080_Books"
+    },
+    {
+        "question": "How much stock (in number of books) of Ben Graham's work is there in this store?",
+        "dataset": "080_Books"
+    },
+    {
+        "question": "Which category does the Quran belong to?",
+        "dataset": "080_Books"
+    },
+    {
+        "question": "According to this database, how many editions has 'The Intelligent Investor' gone through?",
+        "dataset": "080_Books"
+    },
+    {
+        "question": "What is the total number of book pages in our database?",
+        "dataset": "080_Books"
+    },
+    {
+        "question": "If I can read 200 pages a day and I want to pick a book that I can read in half a day, what is the number of books that I can choose from?",
+        "dataset": "080_Books"
+    },
+    {
+        "question": "What is the average rating of all books?",
+        "dataset": "080_Books"
+    },
+    {
+        "question": "If we had 30 copies of the arabic reader this morning, how many have we sold?",
+        "dataset": "080_Books"
+    },
+    {
+        "question": "How many pages does Sapiens have?",
+        "dataset": "080_Books"
+    },
+    {
+        "question": "How many books could be said to fall in the islamic category?",
+        "dataset": "080_Books"
+    },
+    {
+        "question": "How many books have been reviewed more than 10 times?",
+        "dataset": "080_Books"
+    },
+    {
+        "question": "What is the total number of books that we are selling below their usual price?",
+        "dataset": "080_Books"
+    },
+    {
+        "question": "List the page counts of the first five books in the dataset?",
+        "dataset": "080_Books"
+    },
+    {
+        "question": "List the page lengths (in numeric form) of the first five books?",
+        "dataset": "080_Books"
+    },
+    {
+        "question": "List the ratings of the top four books with the most reviews?",
+        "dataset": "080_Books"
+    },
+    {
+        "question": "Provide me with a list containing all the lengths of the books about computer science.",
+        "dataset": "080_Books"
+    },
+    {
+        "question": "List the number of copies left for the first five books.",
+        "dataset": "080_Books"
+    },
+    {
+        "question": "List the ratings of the last five books in the dataset",
+        "dataset": "080_Books"
+    },
+    {
+        "question": "List the page counts of books in the 'History and Tradition' category?",
+        "dataset": "080_Books"
+    },
+    {
+        "question": "What is the stock of the book that is closest to running out copies but hasn't yet?.",
+        "dataset": "080_Books"
+    },
+    {
+        "question": "List the categories of the first five books.",
+        "dataset": "080_Books"
+    },
+    {
+        "question": "List the authors of books that are not on sale today.",
+        "dataset": "080_Books"
+    },
+    {
+        "question": "List the titles of books with fewer than 200 pages.",
+        "dataset": "080_Books"
+    },
+    {
+        "question": "List the categories of books with ratings above 20.",
+        "dataset": "080_Books"
+    },
+    {
+        "question": "List the authors of books with more than 10 reviews.",
+        "dataset": "080_Books"
+    },
+    {
+        "question": "List the 5 categories of the last five books in the dataset.",
+        "dataset": "080_Books"
+    },
+    {
+        "question": "List the editions of books in the 'Business, Investment and Economics' category.",
+        "dataset": "080_Books"
+    }
+]

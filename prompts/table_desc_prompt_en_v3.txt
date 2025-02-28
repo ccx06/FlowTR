@@ -1,0 +1,23 @@
+Given a database schema regarding "{table_name}", your task is to analyse all columns in the database and add detailed explanations for database and each column.
+
+Requirements:
+1.Response should include column names and the specific meanings of each column to help users better understand the data content.
+2.Response format example:
+{
+    "Table_Description":..., 
+    "Column_Description": [
+        {"column_name": "Age", "specific_meaning": "Represents User's Age"},
+        {"column_name": "Joined Date", "specific_meaning": "The date on which the user joined."},
+        {"column_name": "Gender", "specific_meaning": "User's Gender, with 2 categories"},
+        {"column_name": "City", "specific_meaning": "City where the user resides, with 32 categories and only one category example displayed"}]
+}
+
+Definition of fields:
+**Table_Description**: Explain the main content and possible uses of the table.
+**Column_Description**: Explain the meaning of each column.
+Ensure that the response format is a compact and valid JSON format without any additional explanations, escape characters, line breaks, or backslashes.
+
+### Database Schema
+{table_schema}
+
+Please reponse in **JSON** format complying with the above requirements.

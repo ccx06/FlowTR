@@ -1,0 +1,21 @@
+transaction_id,transaction_qty,store_id,store_location,product_id,unit_price,product_category,product_type,product_detail,Revenue,Month,Month_1,Weekday,Weekday_1,Hour
+1,2,5,Lower Manhattan,32,3.0,Coffee,Gourmet brewed coffee,Ethiopia Rg,"6,00 US$",1,Jan,7,Sun,7
+2,2,5,Lower Manhattan,57,3.1,Tea,Brewed Chai tea,Spicy Eye Opener Chai Lg,"6,20 US$",1,Jan,7,Sun,7
+3,2,5,Lower Manhattan,59,4.5,Drinking Chocolate,Hot chocolate,Dark chocolate Lg,"9,00 US$",1,Jan,7,Sun,7
+4,1,5,Lower Manhattan,22,2.0,Coffee,Drip coffee,Our Old Time Diner Blend Sm,"2,00 US$",1,Jan,7,Sun,7
+5,2,5,Lower Manhattan,57,3.1,Tea,Brewed Chai tea,Spicy Eye Opener Chai Lg,"6,20 US$",1,Jan,7,Sun,7
+6,1,5,Lower Manhattan,77,3.0,Bakery,Scone,Oatmeal Scone,"3,00 US$",1,Jan,7,Sun,7
+7,1,5,Lower Manhattan,22,2.0,Coffee,Drip coffee,Our Old Time Diner Blend Sm,"2,00 US$",1,Jan,7,Sun,7
+8,2,5,Lower Manhattan,28,2.0,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm,"4,00 US$",1,Jan,7,Sun,7
+9,1,5,Lower Manhattan,39,4.25,Coffee,Barista Espresso,Latte Rg,"4,25 US$",1,Jan,7,Sun,7
+10,2,5,Lower Manhattan,58,3.5,Drinking Chocolate,Hot chocolate,Dark chocolate Rg,"7,00 US$",1,Jan,7,Sun,7
+11,1,5,Lower Manhattan,56,2.55,Tea,Brewed Chai tea,Spicy Eye Opener Chai Rg,"2,55 US$",1,Jan,7,Sun,7
+12,2,5,Lower Manhattan,33,3.5,Coffee,Gourmet brewed coffee,Ethiopia Lg,"7,00 US$",1,Jan,7,Sun,7
+13,1,5,Lower Manhattan,51,3.0,Tea,Brewed Black tea,Earl Grey Lg,"3,00 US$",1,Jan,7,Sun,7
+14,1,5,Lower Manhattan,57,3.1,Tea,Brewed Chai tea,Spicy Eye Opener Chai Lg,"3,10 US$",1,Jan,7,Sun,7
+15,2,5,Lower Manhattan,87,3.0,Coffee,Barista Espresso,Ouro Brasileiro shot,"6,00 US$",1,Jan,7,Sun,7
+16,2,5,Lower Manhattan,47,3.0,Tea,Brewed Green tea,Serenity Green Tea Lg,"6,00 US$",1,Jan,7,Sun,7
+17,1,5,Lower Manhattan,79,3.75,Bakery,Scone,Jumbo Savory Scone,"3,75 US$",1,Jan,7,Sun,7
+18,1,8,Hell's Kitchen,42,2.5,Tea,Brewed herbal tea,Lemon Grass Rg,"2,50 US$",1,Jan,7,Sun,8
+19,2,8,Hell's Kitchen,59,4.5,Drinking Chocolate,Hot chocolate,Dark chocolate Lg,"9,00 US$",1,Jan,7,Sun,8
+20,1,8,Hell's Kitchen,61,4.75,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Lg,"4,75 US$",1,Jan,7,Sun,8

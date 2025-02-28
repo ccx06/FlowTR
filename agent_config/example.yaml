@@ -1,0 +1,18 @@
+prompt_template:
+  react: "prompts/react_prompt_en_v4.txt"
+  table_desc: "prompts/table_desc_prompt_en_v3.txt"
+  query_expansion: "prompts/query_refine_en_v1.txt"
+  query_refinement: "prompts/query_refine_en_v1.txt"
+  code_generation: "prompts/code_generate_prompt_en_v11.txt"
+  answer_summary: "prompts/final_answer_prompt_en_v5.txt"
+  entity_retrieve_judge: "prompts/retrieve_judge_prompt_en_v2.txt"
+  entity_linking: "prompts/entity_associate_prompt_en_v2.txt"
+
+llm_config:
+  react: "qwen2_5_32b_api.yaml"
+  table_desc: "qwen2_5_32b_api.yaml"
+  query_expansion: "qwen2_5_32b_api.yaml"
+  query_refinement: "qwen2_5_32b_api.yaml"
+  code_generation: "qwen2_5_32b_api.yaml"
+  answer_summary: "qwen2_5_32b_api.yaml"
+  entity_linking: "qwen2_5_32b_api.yaml"

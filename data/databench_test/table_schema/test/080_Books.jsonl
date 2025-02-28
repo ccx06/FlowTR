@@ -1,0 +1,368 @@
+{
+    "file_path": "data/databench_test/DataBench/test/080_Books/all.csv",
+    "table_name": "080_Books",
+    "table_description": "This table contains detailed information about various books including their titles, authors, categories, pricing, stock status, and other relevant details which can be used for inventory management, sales analysis, and customer recommendations.",
+    "number_of_rows": 40,
+    "column_list": [
+        "Book Title",
+        "Author",
+        "Category",
+        "Price (TK)",
+        "Stock Status",
+        "Copies Left",
+        "Book Length (Pages)",
+        "Edition",
+        "Publication",
+        "Wished Users",
+        "Discount Offer",
+        "Ratings",
+        "Reviews"
+    ],
+    "cell_example": [
+        {
+            "Book Title": "A Thousand Splendid Suns",
+            "Author": "Khaled Hosseini",
+            "Category": "Novel",
+            "Price (TK)": 1.198,
+            "Stock Status": "In Stock",
+            "Copies Left": 8.0,
+            "Book Length (Pages)": 419,
+            "Edition": "1st Edition",
+            "Publication": "Bloomsbury Publishing (India)",
+            "Wished Users": 277.0,
+            "Discount Offer": "Yes",
+            "Ratings": 27.0,
+            "Reviews": 13.0
+        },
+        {
+            "Book Title": "Think and Grow Rich",
+            "Author": "Napoleon Hill",
+            "Category": "Self-help and meditation",
+            "Price (TK)": 450.0,
+            "Stock Status": "In Stock",
+            "Copies Left": NaN,
+            "Book Length (Pages)": 332,
+            "Edition": "1st Published",
+            "Publication": "Amazing Reads (India)",
+            "Wished Users": 648.0,
+            "Discount Offer": "Yes",
+            "Ratings": 50.0,
+            "Reviews": 26.0
+        },
+        {
+            "Book Title": "Harry Potter and the Philosophers Stone (1997)",
+            "Author": "J. K. Rowling",
+            "Category": " Mystery, Detective, Thriller and Adventure",
+            "Price (TK)": 1.1,
+            "Stock Status": "In Stock",
+            "Copies Left": 5.0,
+            "Book Length (Pages)": 352,
+            "Edition": "New Edition",
+            "Publication": "Bloomsbury Publishing (India)",
+            "Wished Users": 266.0,
+            "Discount Offer": "Yes",
+            "Ratings": 40.0,
+            "Reviews": 22.0
+        },
+        {
+            "Book Title": "The Startup Wife",
+            "Author": "Tahmima Anam",
+            "Category": "Novel",
+            "Price (TK)": 1.078,
+            "Stock Status": "In Stock",
+            "Copies Left": 1.0,
+            "Book Length (Pages)": 304,
+            "Edition": "Published",
+            "Publication": "Penguin Books (India)",
+            "Wished Users": NaN,
+            "Discount Offer": "Yes",
+            "Ratings": 4.0,
+            "Reviews": 0.0
+        },
+        {
+            "Book Title": "Let Us C, 19th Edition",
+            "Author": "Yashavant Kanetkar",
+            "Category": "Computer Science & Engineering",
+            "Price (TK)": 718.0,
+            "Stock Status": "In Stock",
+            "Copies Left": 18.0,
+            "Book Length (Pages)": 492,
+            "Edition": "19th Edition",
+            "Publication": "BPB Publications (India)",
+            "Wished Users": NaN,
+            "Discount Offer": "Yes",
+            "Ratings": 3.0,
+            "Reviews": 1.0
+        },
+        {
+            "Book Title": "Zero to One: Notes on Start Ups, or How to Build the Future",
+            "Author": "Peter Thiel, Blake Masters",
+            "Category": "Self-help and meditation",
+            "Price (TK)": 1.198,
+            "Stock Status": "In Stock",
+            "Copies Left": 13.0,
+            "Book Length (Pages)": 210,
+            "Edition": "Edition",
+            "Publication": "Virgin Books (India)",
+            "Wished Users": 308.0,
+            "Discount Offer": "Yes",
+            "Ratings": 13.0,
+            "Reviews": 6.0
+        },
+        {
+            "Book Title": "Animal Farm",
+            "Author": "George Orwell",
+            "Category": "Novel",
+            "Price (TK)": 258.0,
+            "Stock Status": "In Stock",
+            "Copies Left": 33.0,
+            "Book Length (Pages)": 95,
+            "Edition": "1st Edition",
+            "Publication": "Fingerprint Publishing (India)",
+            "Wished Users": 384.0,
+            "Discount Offer": "Yes",
+            "Ratings": 44.0,
+            "Reviews": 17.0
+        },
+        {
+            "Book Title": "Madinah Arabic Reader 1",
+            "Author": "Dr. V. Abdur Rahim",
+            "Category": "Islamic Books",
+            "Price (TK)": 528.0,
+            "Stock Status": "In Stock",
+            "Copies Left": 21.0,
+            "Book Length (Pages)": 80,
+            "Edition": "1st Edition 2011",
+            "Publication": "Goodword Books (India)",
+            "Wished Users": NaN,
+            "Discount Offer": "Yes",
+            "Ratings": 6.0,
+            "Reviews": 3.0
+        },
+        {
+            "Book Title": "The Old Man and The Sea",
+            "Author": "Ernest Hemingway",
+            "Category": "Novel",
+            "Price (TK)": 150.0,
+            "Stock Status": "In Stock",
+            "Copies Left": 0.0,
+            "Book Length (Pages)": 104,
+            "Edition": "2nd Edition",
+            "Publication": "Friend's Book Corner",
+            "Wished Users": 453.0,
+            "Discount Offer": "Yes",
+            "Ratings": 73.0,
+            "Reviews": 54.0
+        },
+        {
+            "Book Title": "The Post American World And The Rise Of The Rest",
+            "Author": "Fareed Zakaria",
+            "Category": "International Politics",
+            "Price (TK)": 2.343,
+            "Stock Status": "In Stock",
+            "Copies Left": 1.0,
+            "Book Length (Pages)": 292,
+            "Edition": "1st Edition",
+            "Publication": "Penguin Books (India)",
+            "Wished Users": NaN,
+            "Discount Offer": "Yes",
+            "Ratings": 10.0,
+            "Reviews": 2.0
+        }
+    ],
+    "column_description": [
+        {
+            "column_name": "Book Title",
+            "dtype": "object",
+            "example": {
+                "category_examples": [
+                    "Sapiens A Brief History Of Humankind",
+                    "The Intelligent Investor",
+                    "The Post American World And The Rise Of The Rest",
+                    "The Old Man and The Sea",
+                    "Metamorphosis",
+                    "Animal Farm",
+                    "The Girl in Room 105",
+                    "The Alchemist",
+                    "The Startup Wife",
+                    "My Devotion"
+                ],
+                "total_number_of_categories": 40,
+                "caption": "There are many types in this column, displaying the top 10 most common types"
+            },
+            "specific_meaning": "The title of the book, with 40 categories and displaying the top 10 most common types"
+        },
+        {
+            "column_name": "Author",
+            "dtype": "object",
+            "example": {
+                "category_examples": [
+                    "Harish Bhat",
+                    "Leil Lowndes",
+                    "Chetan Bhagat",
+                    "Dale Carnegie",
+                    "Ernest Hemingway",
+                    "Franz Kafka, David Wyllie (Translator)",
+                    "George Orwell",
+                    "Paulo Coelho",
+                    "Tahmima Anam",
+                    "Julia Kerninon, Alison Anderson"
+                ],
+                "total_number_of_categories": 37,
+                "caption": "There are many types in this column, displaying the top 10 most common types"
+            },
+            "specific_meaning": "The author of the book, with 37 categories and displaying the top 10 most common types"
+        },
+        {
+            "column_name": "Category",
+            "dtype": "object",
+            "example": {
+                "category_examples": [
+                    "Self-help and meditation",
+                    "Novel",
+                    "Business, Investment and Economics",
+                    "Islamic Books",
+                    " Novel",
+                    "Tourism and Hospitality ",
+                    "History and Tradition",
+                    " Business, Investment and Economics",
+                    "Computer Science & Engineering",
+                    "Foreign Language Books"
+                ],
+                "total_number_of_categories": 15,
+                "caption": "There are many types in this column, displaying the top 10 most common types"
+            },
+            "specific_meaning": "The category or genre of the book, with 15 categories and displaying the top 10 most common types"
+        },
+        {
+            "column_name": "Price (TK)",
+            "dtype": "float64",
+            "example": {
+                "minimum_value": 1.078,
+                "maximum_value": 998.0,
+                "median_value": 374.0,
+                "average_value": 376.2595
+            },
+            "specific_meaning": "The price of the book in Taka, ranging from 1.078 to 998.0, with an average of 376.2595"
+        },
+        {
+            "column_name": "Stock Status",
+            "dtype": "object",
+            "example": {
+                "all_categories": [
+                    "In Stock",
+                    "Out stock"
+                ]
+            },
+            "specific_meaning": "The current stock status of the book, either 'In Stock' or 'Out stock'"
+        },
+        {
+            "column_name": "Copies Left",
+            "dtype": "float64",
+            "example": {
+                "minimum_value": 0.0,
+                "maximum_value": 44.0,
+                "median_value": 5.5,
+                "average_value": 11.81578947368421
+            },
+            "specific_meaning": "The number of copies left in stock, ranging from 0.0 to 44.0, with an average of 11.81578947368421"
+        },
+        {
+            "column_name": "Book Length (Pages)",
+            "dtype": "int64",
+            "example": {
+                "minimum_value": 80,
+                "maximum_value": 1276,
+                "median_value": 316.0,
+                "average_value": 352.175
+            },
+            "specific_meaning": "The length of the book in pages, ranging from 80 to 1276, with an average of 352.175"
+        },
+        {
+            "column_name": "Edition",
+            "dtype": "object",
+            "example": {
+                "category_examples": [
+                    "1st Edition",
+                    "Published",
+                    "Edition",
+                    "1st Published",
+                    "8th Impression",
+                    "1st Edition 2011",
+                    "Reissue Edition",
+                    "19th Edition",
+                    "Commonwealth Pub.",
+                    "12-Sep-23"
+                ],
+                "total_number_of_categories": 16,
+                "caption": "There are many types in this column, displaying the top 10 most common types"
+            },
+            "specific_meaning": "The edition of the book, with 16 categories and displaying the top 10 most common types"
+        },
+        {
+            "column_name": "Publication",
+            "dtype": "object",
+            "example": {
+                "category_examples": [
+                    "Fingerprint Publishing (India)",
+                    "Harpercollins Publishers (India)",
+                    "Penguin Books (India)",
+                    "Amazing Reads (India)",
+                    "Vermilion London (India)",
+                    "Bloomsbury Publishing (India)",
+                    "Harper Element (India)",
+                    "Maanu Graphics Publishers (India)",
+                    "Europa Editions",
+                    "Friend's Book Corner"
+                ],
+                "total_number_of_categories": 26,
+                "caption": "There are many types in this column, displaying the top 10 most common types"
+            },
+            "specific_meaning": "The publishing company of the book, with 26 categories and displaying the top 10 most common types"
+        },
+        {
+            "column_name": "Wished Users",
+            "dtype": "float64",
+            "example": {
+                "minimum_value": 1.47,
+                "maximum_value": 967.0,
+                "median_value": 388.0,
+                "average_value": 434.7615789473685
+            },
+            "specific_meaning": "The number of users who have wished for the book, ranging from 1.47 to 967.0, with an average of 434.7615789473685"
+        },
+        {
+            "column_name": "Discount Offer",
+            "dtype": "object",
+            "example": {
+                "all_categories": [
+                    "Yes",
+                    "No"
+                ]
+            },
+            "specific_meaning": "Whether a discount is offered on the book, either 'Yes' or 'No'"
+        },
+        {
+            "column_name": "Ratings",
+            "dtype": "float64",
+            "example": {
+                "minimum_value": 0.0,
+                "maximum_value": 85.0,
+                "median_value": 12.0,
+                "average_value": 20.236842105263158
+            },
+            "specific_meaning": "The ratings given to the book, ranging from 0.0 to 85.0, with an average of 20.236842105263158"
+        },
+        {
+            "column_name": "Reviews",
+            "dtype": "float64",
+            "example": {
+                "minimum_value": 0.0,
+                "maximum_value": 54.0,
+                "median_value": 4.0,
+                "average_value": 8.921052631578947
+            },
+            "specific_meaning": "The number of reviews for the book, ranging from 0.0 to 54.0, with an average of 8.921052631578947"
+        }
+    ]
+}

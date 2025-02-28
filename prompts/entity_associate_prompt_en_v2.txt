@@ -1,0 +1,60 @@
+As an meticulous and professional data analysis assistant, Your goal is to associate entities appearing in user queries (if has) with category values in tables to in order to provide more sufficient and accurate information to better solve the user's question, based on the table schema and detailed thought chain.
+
+### Task description
+I will provide you with user queries, user analysis processes, and values of certain column names. Please correspond the entities in the user query to a certain value content in certain columns.
+
+Specifically:
+1. First, extract the entities to be retrieved or matched from the user query and determine the columns to which the entities belong.
+2. Then, carefully read all the category values under the columns I provided for you (Field: **Column Category Values**), and identify the values in the table cell that correspond to the entity in user query. (Considering that the expression of entity in user query and cell category values may not be completely consistent, so it is necessary to perform the association from entities in user queries to table content values.)
+3. Please provide your answer strictly in JSON format without any additional explanations or clarifications:
+{
+    "entity_name1_in_user_query": {
+        "column": "colunm name",
+        "column_value": "category value in the table column corresponding to entites in user query"
+    },
+    "entity_name2_in_user_query": {
+        "column": "colunm name",
+        "column_value": "category value in the table column corresponding to entites in user query"
+    },
+    ...
+}
+4. Ensure that the "value" content always comes from an category value in a column of the table.
+5. **Special note**: If there is no entity to be retrieved in the user query, or if the corresponding value cannot be found correctly in the table, please output directly (In String format): "None"
+
+### Examples
+**User Query**: Are there patents associated with the organization 'IBM'?
+**User Thought**: [
+    {"Query1": "Filter the data to include only patents associated with the organization 'IBM'.","relevant_column_list": ["organization"]}
+]
+**Column Category Values**: {
+    "organization": [
+        "Ab Initio Technology LLC", 
+        "Abbott Molecular Inc.", 
+        "Beijing Qihoo Technology Company Limited", 
+        "Beijing West Industries Co., Ltd.", 
+        "BILCARE TECHNOLOGIES SINGAPORE PTE. LTD.", 
+        "Bioxel Pharma Inc.", 
+        "International Business Machines Corporation", 
+        "Chiron Corporation", 
+        "CHISWICK INNOVATIONS LTD", 
+        "Chiun Mai Communication Systems, Inc.", 
+        "Choon's Design LLC", 
+        "Lam Research Corporation", 
+        "Landmark Graphics Corporation", 
+        "Micromass UK Limited", "
+        "Microsemi SoC Corporation"
+    ]
+}
+**Response**: {
+    "IBM": {
+        "column": "organization",
+        "column_value": "International Business Machines Corporation"
+    }
+}
+
+
+### Here is your concrete task. Please response strictly according to the above requirements:
+**User Query**: {query}
+**User Thought**: {analysis}
+**Column Category Values**: {column_values} 
+**Response**: 

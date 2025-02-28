@@ -1,0 +1,3001 @@
+Lifter Name,Age,Weight Class,Lift Type,Amount Lifted (kg)
+Jessica Wilson,46,59 kg,Bench Press,269
+John Doe,60,83 kg,Bench Press,179
+Emily Davis,41,105 kg,Bench Press,235
+Emily Davis,33,66 kg,Squat,359
+Laura Taylor,56,74 kg,Deadlift,221
+Sarah Thomas,56,74 kg,Squat,264
+Emily Davis,40,83 kg,Deadlift,132
+Jessica Wilson,25,120 kg,Bench Press,178
+Michael Johnson,55,93 kg,Squat,265
+Chris Brown,20,66 kg,Bench Press,239
+Laura Taylor,31,52 kg,Deadlift,328
+Daniel Lee,38,52 kg,Deadlift,347
+Matthew Anderson,64,74 kg,Bench Press,398
+Matthew Anderson,47,120 kg,Bench Press,396
+Jane Smith,50,74 kg,Bench Press,111
+Daniel Lee,37,59 kg,Deadlift,133
+Laura Taylor,62,74 kg,Deadlift,396
+Laura Taylor,62,105 kg,Deadlift,273
+Matthew Anderson,40,120 kg,Bench Press,120
+Jane Smith,40,83 kg,Deadlift,245
+Jessica Wilson,62,66 kg,Squat,107
+Sarah Thomas,55,52 kg,Squat,169
+Matthew Anderson,52,66 kg,Bench Press,275
+Sarah Thomas,56,59 kg,Squat,391
+Chris Brown,39,52 kg,Deadlift,210
+Emily Davis,46,105 kg,Squat,271
+John Doe,52,74 kg,Deadlift,136
+Emily Davis,19,74 kg,Bench Press,254
+Jessica Wilson,63,105 kg,Bench Press,105
+John Doe,64,105 kg,Squat,263
+Michael Johnson,35,93 kg,Bench Press,217
+Emily Davis,52,74 kg,Bench Press,310
+Matthew Anderson,61,83 kg,Squat,252
+Jane Smith,31,52 kg,Squat,120
+Emily Davis,35,Open,Squat,376
+Emily Davis,49,52 kg,Bench Press,376
+Emily Davis,39,59 kg,Deadlift,193
+Laura Taylor,52,83 kg,Deadlift,217
+John Doe,63,52 kg,Deadlift,284
+Jane Smith,19,83 kg,Bench Press,164
+Sarah Thomas,23,83 kg,Squat,275
+Sarah Thomas,56,66 kg,Squat,174
+John Doe,49,Open,Deadlift,217
+Chris Brown,46,66 kg,Bench Press,346
+Laura Taylor,56,59 kg,Squat,383
+Emily Davis,22,93 kg,Bench Press,314
+Michael Johnson,55,120 kg,Squat,397
+Laura Taylor,25,93 kg,Deadlift,278
+Michael Johnson,21,83 kg,Bench Press,363
+John Doe,39,105 kg,Deadlift,300
+John Doe,39,93 kg,Deadlift,337
+Chris Brown,44,74 kg,Squat,132
+Jessica Wilson,20,Open,Squat,133
+Jessica Wilson,46,120 kg,Bench Press,314
+Daniel Lee,50,52 kg,Deadlift,125
+Matthew Anderson,55,93 kg,Squat,188
+Chris Brown,51,Open,Squat,226
+Jane Smith,53,105 kg,Squat,183
+Chris Brown,50,105 kg,Deadlift,124
+Sarah Thomas,57,93 kg,Bench Press,227
+Matthew Anderson,35,120 kg,Squat,131
+Jane Smith,27,59 kg,Squat,290
+Jane Smith,53,52 kg,Deadlift,205
+Laura Taylor,62,52 kg,Squat,218
+Sarah Thomas,40,66 kg,Deadlift,276
+Sarah Thomas,23,93 kg,Bench Press,208
+Emily Davis,40,Open,Deadlift,365
+Daniel Lee,27,52 kg,Deadlift,227
+Laura Taylor,19,105 kg,Deadlift,153
+Michael Johnson,61,74 kg,Squat,273
+John Doe,23,120 kg,Deadlift,380
+Emily Davis,60,93 kg,Squat,394
+Jessica Wilson,22,52 kg,Deadlift,347
+Sarah Thomas,25,74 kg,Squat,135
+Chris Brown,37,120 kg,Squat,169
+Chris Brown,56,83 kg,Squat,327
+Daniel Lee,31,105 kg,Deadlift,169
+Chris Brown,29,Open,Deadlift,381
+Chris Brown,41,66 kg,Squat,115
+Emily Davis,56,59 kg,Squat,357
+Chris Brown,29,66 kg,Deadlift,354
+Chris Brown,58,Open,Squat,282
+Matthew Anderson,49,74 kg,Bench Press,389
+Chris Brown,21,105 kg,Deadlift,299
+Emily Davis,20,59 kg,Squat,146
+Laura Taylor,25,120 kg,Deadlift,190
+Jessica Wilson,20,74 kg,Deadlift,284
+Jessica Wilson,43,52 kg,Bench Press,190
+John Doe,64,93 kg,Bench Press,265
+Jane Smith,23,Open,Deadlift,253
+Jessica Wilson,34,120 kg,Bench Press,324
+Sarah Thomas,26,93 kg,Bench Press,232
+Emily Davis,35,105 kg,Squat,164
+John Doe,46,Open,Bench Press,124
+Jessica Wilson,32,74 kg,Bench Press,106
+John Doe,24,105 kg,Bench Press,232
+Jane Smith,31,52 kg,Deadlift,207
+Michael Johnson,46,93 kg,Squat,215
+Chris Brown,21,59 kg,Bench Press,277
+Michael Johnson,62,74 kg,Squat,197
+John Doe,56,52 kg,Bench Press,167
+Emily Davis,22,74 kg,Squat,242
+Michael Johnson,18,66 kg,Deadlift,206
+John Doe,29,59 kg,Bench Press,180
+Laura Taylor,56,59 kg,Deadlift,103
+Jessica Wilson,24,59 kg,Bench Press,346
+Sarah Thomas,38,120 kg,Squat,169
+John Doe,24,Open,Squat,104
+Michael Johnson,34,83 kg,Deadlift,215
+Laura Taylor,18,66 kg,Bench Press,128
+Michael Johnson,21,74 kg,Squat,101
+Sarah Thomas,23,Open,Deadlift,330
+Michael Johnson,57,120 kg,Deadlift,204
+Emily Davis,34,59 kg,Bench Press,328
+Emily Davis,43,Open,Bench Press,288
+Michael Johnson,48,105 kg,Deadlift,170
+Emily Davis,45,Open,Squat,187
+Chris Brown,29,52 kg,Bench Press,344
+Jane Smith,58,74 kg,Squat,192
+Michael Johnson,18,59 kg,Deadlift,207
+Sarah Thomas,51,59 kg,Squat,119
+Jane Smith,43,59 kg,Deadlift,396
+Chris Brown,32,66 kg,Squat,203
+Daniel Lee,52,66 kg,Bench Press,346
+Matthew Anderson,58,83 kg,Deadlift,190
+Michael Johnson,61,66 kg,Bench Press,338
+Emily Davis,56,120 kg,Deadlift,377
+John Doe,37,83 kg,Deadlift,178
+John Doe,60,52 kg,Squat,343
+Daniel Lee,52,120 kg,Squat,219
+John Doe,56,120 kg,Bench Press,240
+Daniel Lee,39,83 kg,Deadlift,304
+Emily Davis,38,59 kg,Deadlift,256
+Emily Davis,44,105 kg,Bench Press,146
+Matthew Anderson,53,Open,Squat,262
+Matthew Anderson,45,52 kg,Bench Press,303
+Matthew Anderson,21,83 kg,Deadlift,372
+Michael Johnson,43,93 kg,Deadlift,397
+Emily Davis,25,Open,Deadlift,139
+Michael Johnson,22,105 kg,Bench Press,185
+John Doe,22,52 kg,Deadlift,339
+Matthew Anderson,27,52 kg,Bench Press,157
+Matthew Anderson,22,120 kg,Bench Press,241
+Emily Davis,51,59 kg,Deadlift,385
+Matthew Anderson,28,52 kg,Squat,264
+Michael Johnson,41,93 kg,Bench Press,125
+Matthew Anderson,50,Open,Deadlift,370
+Chris Brown,31,59 kg,Bench Press,106
+Emily Davis,39,83 kg,Deadlift,195
+John Doe,46,59 kg,Squat,396
+Chris Brown,41,Open,Squat,317
+Emily Davis,23,52 kg,Bench Press,211
+Daniel Lee,20,66 kg,Deadlift,132
+Sarah Thomas,18,Open,Bench Press,261
+Matthew Anderson,27,83 kg,Bench Press,381
+John Doe,25,52 kg,Squat,177
+Matthew Anderson,47,120 kg,Squat,302
+Jessica Wilson,39,120 kg,Bench Press,124
+Sarah Thomas,34,74 kg,Bench Press,262
+John Doe,32,105 kg,Deadlift,331
+Sarah Thomas,37,59 kg,Deadlift,283
+Daniel Lee,55,Open,Squat,352
+Jessica Wilson,44,83 kg,Deadlift,386
+Emily Davis,30,93 kg,Bench Press,344
+Jane Smith,33,74 kg,Deadlift,338
+Matthew Anderson,37,59 kg,Squat,328
+John Doe,36,Open,Deadlift,287
+Chris Brown,60,93 kg,Deadlift,228
+Sarah Thomas,20,120 kg,Bench Press,244
+Daniel Lee,34,83 kg,Deadlift,170
+Jessica Wilson,29,74 kg,Deadlift,124
+Laura Taylor,53,120 kg,Bench Press,199
+Matthew Anderson,27,83 kg,Deadlift,387
+Matthew Anderson,27,83 kg,Squat,311
+Sarah Thomas,48,52 kg,Deadlift,198
+Michael Johnson,40,120 kg,Squat,171
+Matthew Anderson,60,93 kg,Bench Press,230
+Daniel Lee,38,74 kg,Squat,393
+Daniel Lee,59,59 kg,Squat,200
+Sarah Thomas,37,66 kg,Squat,172
+Jane Smith,22,120 kg,Deadlift,218
+Daniel Lee,64,52 kg,Bench Press,308
+Matthew Anderson,33,83 kg,Deadlift,262
+Matthew Anderson,51,93 kg,Deadlift,366
+Emily Davis,18,83 kg,Deadlift,183
+Michael Johnson,33,66 kg,Squat,258
+Emily Davis,31,66 kg,Bench Press,171
+Daniel Lee,27,66 kg,Deadlift,103
+Emily Davis,60,59 kg,Bench Press,300
+Daniel Lee,28,120 kg,Bench Press,103
+Jessica Wilson,57,59 kg,Squat,222
+Laura Taylor,52,120 kg,Deadlift,124
+John Doe,57,120 kg,Bench Press,291
+Matthew Anderson,62,74 kg,Deadlift,387
+Chris Brown,62,59 kg,Deadlift,223
+Daniel Lee,60,120 kg,Deadlift,130
+Jessica Wilson,19,120 kg,Bench Press,138
+Matthew Anderson,26,120 kg,Squat,352
+Michael Johnson,18,Open,Bench Press,263
+Emily Davis,29,74 kg,Squat,156
+Sarah Thomas,44,52 kg,Squat,257
+Laura Taylor,48,120 kg,Bench Press,244
+Jessica Wilson,61,93 kg,Bench Press,343
+Emily Davis,60,93 kg,Deadlift,142
+Chris Brown,37,93 kg,Squat,259
+Jessica Wilson,39,93 kg,Bench Press,166
+Emily Davis,19,66 kg,Squat,294
+Emily Davis,36,52 kg,Squat,204
+Laura Taylor,46,83 kg,Bench Press,276
+Sarah Thomas,29,Open,Squat,247
+Sarah Thomas,57,105 kg,Bench Press,392
+Sarah Thomas,27,59 kg,Bench Press,312
+Laura Taylor,42,93 kg,Bench Press,388
+Emily Davis,22,105 kg,Deadlift,391
+Michael Johnson,44,120 kg,Deadlift,335
+Emily Davis,61,83 kg,Deadlift,128
+Sarah Thomas,39,120 kg,Squat,277
+Laura Taylor,32,105 kg,Deadlift,398
+Laura Taylor,47,Open,Squat,280
+Jessica Wilson,19,52 kg,Bench Press,179
+Jane Smith,32,74 kg,Squat,127
+Michael Johnson,18,105 kg,Bench Press,390
+Michael Johnson,33,Open,Bench Press,174
+Matthew Anderson,51,93 kg,Bench Press,179
+Jane Smith,50,83 kg,Bench Press,372
+Jessica Wilson,55,Open,Bench Press,131
+Matthew Anderson,23,93 kg,Bench Press,271
+Chris Brown,48,52 kg,Deadlift,169
+John Doe,59,59 kg,Squat,358
+Michael Johnson,27,66 kg,Deadlift,221
+Jessica Wilson,25,120 kg,Deadlift,393
+Jessica Wilson,48,120 kg,Squat,357
+John Doe,39,83 kg,Deadlift,203
+Matthew Anderson,48,93 kg,Deadlift,360
+Jane Smith,59,66 kg,Bench Press,134
+Jane Smith,26,66 kg,Bench Press,377
+John Doe,19,83 kg,Deadlift,279
+Emily Davis,63,52 kg,Squat,304
+Matthew Anderson,39,93 kg,Bench Press,325
+Matthew Anderson,26,Open,Deadlift,365
+Chris Brown,63,93 kg,Deadlift,329
+Chris Brown,18,59 kg,Deadlift,375
+John Doe,45,Open,Bench Press,213
+Sarah Thomas,43,Open,Deadlift,195
+Emily Davis,47,83 kg,Deadlift,168
+Laura Taylor,25,52 kg,Deadlift,105
+Emily Davis,44,93 kg,Squat,191
+Michael Johnson,49,120 kg,Bench Press,202
+Jane Smith,32,59 kg,Deadlift,309
+Jane Smith,37,105 kg,Squat,308
+Michael Johnson,26,Open,Deadlift,337
+Jane Smith,57,Open,Deadlift,141
+Chris Brown,47,120 kg,Squat,276
+Michael Johnson,41,93 kg,Deadlift,255
+Jessica Wilson,31,Open,Deadlift,166
+Jessica Wilson,58,59 kg,Squat,191
+Jessica Wilson,19,105 kg,Deadlift,275
+Michael Johnson,43,52 kg,Bench Press,223
+Jessica Wilson,42,93 kg,Squat,169
+Laura Taylor,48,93 kg,Deadlift,338
+Laura Taylor,59,74 kg,Bench Press,352
+Daniel Lee,34,83 kg,Deadlift,223
+Jane Smith,29,105 kg,Squat,278
+Daniel Lee,57,93 kg,Deadlift,327
+Laura Taylor,25,74 kg,Bench Press,270
+Michael Johnson,56,Open,Deadlift,228
+Emily Davis,39,120 kg,Deadlift,363
+Jane Smith,42,120 kg,Deadlift,190
+Sarah Thomas,55,Open,Bench Press,244
+Jessica Wilson,61,Open,Bench Press,284
+Sarah Thomas,54,105 kg,Deadlift,196
+Sarah Thomas,50,120 kg,Deadlift,115
+Michael Johnson,27,Open,Squat,285
+John Doe,58,66 kg,Squat,368
+Sarah Thomas,34,74 kg,Bench Press,325
+Jane Smith,53,83 kg,Squat,236
+Sarah Thomas,21,83 kg,Deadlift,256
+John Doe,57,83 kg,Squat,239
+Daniel Lee,55,83 kg,Bench Press,260
+John Doe,21,59 kg,Bench Press,177
+Chris Brown,58,66 kg,Deadlift,177
+Matthew Anderson,53,93 kg,Bench Press,106
+Chris Brown,19,105 kg,Squat,310
+Emily Davis,21,105 kg,Bench Press,304
+Emily Davis,29,66 kg,Deadlift,249
+Matthew Anderson,21,93 kg,Squat,120
+Matthew Anderson,64,52 kg,Bench Press,318
+Laura Taylor,30,59 kg,Squat,245
+John Doe,50,59 kg,Squat,169
+Emily Davis,57,59 kg,Squat,132
+Matthew Anderson,18,Open,Deadlift,146
+Laura Taylor,41,74 kg,Bench Press,126
+Laura Taylor,25,74 kg,Deadlift,240
+Jane Smith,19,66 kg,Deadlift,359
+Matthew Anderson,52,74 kg,Bench Press,306
+Chris Brown,31,74 kg,Bench Press,132
+Laura Taylor,48,52 kg,Squat,112
+John Doe,39,Open,Bench Press,133
+Chris Brown,35,83 kg,Bench Press,384
+Sarah Thomas,41,Open,Bench Press,241
+John Doe,53,52 kg,Bench Press,224
+Daniel Lee,51,74 kg,Deadlift,176
+Chris Brown,24,52 kg,Bench Press,387
+Michael Johnson,42,Open,Squat,208
+Chris Brown,52,74 kg,Bench Press,291
+Daniel Lee,58,52 kg,Bench Press,187
+Emily Davis,56,Open,Squat,192
+Emily Davis,27,59 kg,Deadlift,317
+Laura Taylor,42,105 kg,Deadlift,398
+Matthew Anderson,47,52 kg,Bench Press,102
+Jessica Wilson,23,105 kg,Squat,318
+John Doe,43,93 kg,Bench Press,348
+Matthew Anderson,22,66 kg,Bench Press,268
+Jessica Wilson,64,74 kg,Deadlift,293
+Chris Brown,56,93 kg,Bench Press,201
+Laura Taylor,18,74 kg,Squat,283
+Chris Brown,32,120 kg,Squat,186
+Jane Smith,27,105 kg,Deadlift,307
+Emily Davis,54,52 kg,Deadlift,299
+Emily Davis,46,83 kg,Bench Press,330
+Sarah Thomas,33,Open,Squat,287
+Michael Johnson,20,83 kg,Squat,264
+Jessica Wilson,54,66 kg,Squat,187
+Michael Johnson,25,66 kg,Bench Press,123
+Emily Davis,35,Open,Deadlift,295
+Jessica Wilson,49,74 kg,Squat,248
+Laura Taylor,61,83 kg,Bench Press,348
+Michael Johnson,59,74 kg,Bench Press,214
+Laura Taylor,33,83 kg,Bench Press,214
+Jane Smith,46,66 kg,Bench Press,127
+Daniel Lee,60,Open,Deadlift,223
+Jessica Wilson,49,59 kg,Squat,165
+John Doe,40,52 kg,Squat,127
+John Doe,41,74 kg,Squat,323
+Emily Davis,22,Open,Deadlift,152
+Jane Smith,18,74 kg,Bench Press,182
+Sarah Thomas,35,83 kg,Squat,172
+Sarah Thomas,24,Open,Deadlift,189
+Daniel Lee,22,83 kg,Deadlift,198
+Daniel Lee,29,59 kg,Bench Press,100
+Laura Taylor,50,93 kg,Squat,132
+Matthew Anderson,34,83 kg,Squat,280
+Matthew Anderson,20,93 kg,Bench Press,295
+Laura Taylor,28,Open,Squat,353
+John Doe,57,120 kg,Deadlift,311
+Matthew Anderson,56,52 kg,Deadlift,218
+Daniel Lee,57,105 kg,Deadlift,225
+Matthew Anderson,18,59 kg,Deadlift,376
+Sarah Thomas,27,59 kg,Bench Press,272
+Matthew Anderson,29,83 kg,Bench Press,340
+Emily Davis,62,93 kg,Bench Press,331
+Daniel Lee,35,59 kg,Squat,114
+Jane Smith,54,93 kg,Bench Press,200
+Laura Taylor,59,93 kg,Deadlift,235
+Chris Brown,23,74 kg,Bench Press,189
+Sarah Thomas,59,120 kg,Squat,294
+Michael Johnson,56,59 kg,Deadlift,348
+John Doe,54,120 kg,Bench Press,344
+Matthew Anderson,22,52 kg,Deadlift,385
+Michael Johnson,29,105 kg,Squat,164
+Laura Taylor,57,105 kg,Bench Press,395
+Matthew Anderson,47,93 kg,Bench Press,114
+Chris Brown,61,74 kg,Deadlift,345
+Chris Brown,63,52 kg,Squat,109
+Jane Smith,29,105 kg,Bench Press,356
+Laura Taylor,60,83 kg,Bench Press,270
+Daniel Lee,50,120 kg,Bench Press,219
+Sarah Thomas,19,93 kg,Deadlift,289
+Chris Brown,62,83 kg,Squat,131
+Jane Smith,52,Open,Bench Press,100
+Jessica Wilson,60,74 kg,Squat,332
+Sarah Thomas,60,120 kg,Bench Press,251
+Laura Taylor,62,120 kg,Squat,334
+Jane Smith,28,Open,Squat,137
+Emily Davis,60,74 kg,Squat,256
+Jessica Wilson,58,59 kg,Squat,308
+Laura Taylor,64,Open,Bench Press,278
+Emily Davis,57,93 kg,Squat,192
+Daniel Lee,33,83 kg,Bench Press,394
+Daniel Lee,63,83 kg,Bench Press,362
+Laura Taylor,44,59 kg,Squat,300
+Sarah Thomas,59,59 kg,Deadlift,331
+Jane Smith,58,Open,Deadlift,136
+Sarah Thomas,62,Open,Deadlift,385
+Daniel Lee,34,74 kg,Squat,287
+John Doe,61,66 kg,Bench Press,240
+Emily Davis,46,105 kg,Squat,179
+Matthew Anderson,18,74 kg,Squat,253
+Chris Brown,62,52 kg,Deadlift,369
+Jane Smith,20,52 kg,Deadlift,277
+Chris Brown,40,93 kg,Bench Press,170
+Jessica Wilson,42,Open,Squat,201
+John Doe,62,120 kg,Deadlift,119
+Emily Davis,37,93 kg,Squat,128
+Jane Smith,48,Open,Squat,223
+Chris Brown,31,52 kg,Bench Press,140
+Chris Brown,25,59 kg,Bench Press,196
+Chris Brown,37,66 kg,Bench Press,349
+John Doe,53,52 kg,Deadlift,393
+John Doe,47,Open,Bench Press,116
+Matthew Anderson,38,66 kg,Deadlift,310
+Chris Brown,26,Open,Bench Press,385
+Daniel Lee,28,52 kg,Squat,251
+Sarah Thomas,59,105 kg,Bench Press,248
+Emily Davis,52,105 kg,Bench Press,355
+Emily Davis,64,105 kg,Squat,357
+Michael Johnson,29,74 kg,Bench Press,343
+Jane Smith,26,83 kg,Bench Press,271
+Michael Johnson,39,74 kg,Deadlift,380
+Jane Smith,22,52 kg,Bench Press,257
+Emily Davis,25,74 kg,Deadlift,209
+Chris Brown,39,105 kg,Bench Press,198
+Jane Smith,40,105 kg,Bench Press,303
+Jane Smith,24,105 kg,Deadlift,196
+John Doe,37,93 kg,Deadlift,214
+Laura Taylor,61,52 kg,Deadlift,181
+Matthew Anderson,24,59 kg,Bench Press,300
+Chris Brown,50,83 kg,Deadlift,318
+Emily Davis,55,120 kg,Bench Press,158
+Jessica Wilson,40,66 kg,Deadlift,302
+Daniel Lee,59,105 kg,Squat,190
+Emily Davis,39,52 kg,Deadlift,115
+Michael Johnson,29,59 kg,Bench Press,230
+Sarah Thomas,61,59 kg,Bench Press,254
+Matthew Anderson,21,52 kg,Bench Press,378
+Jane Smith,50,59 kg,Squat,244
+Chris Brown,47,93 kg,Squat,233
+John Doe,39,52 kg,Deadlift,277
+Matthew Anderson,35,105 kg,Squat,375
+Emily Davis,23,59 kg,Squat,135
+Sarah Thomas,45,52 kg,Squat,283
+Jessica Wilson,19,93 kg,Bench Press,119
+Jessica Wilson,51,105 kg,Deadlift,106
+Jane Smith,58,Open,Squat,386
+Laura Taylor,61,105 kg,Bench Press,213
+Matthew Anderson,57,52 kg,Squat,192
+Daniel Lee,61,59 kg,Deadlift,365
+Chris Brown,55,120 kg,Deadlift,321
+Laura Taylor,48,93 kg,Bench Press,194
+Emily Davis,36,93 kg,Deadlift,222
+Jessica Wilson,33,52 kg,Bench Press,277
+Emily Davis,63,52 kg,Squat,164
+Daniel Lee,58,59 kg,Bench Press,385
+Chris Brown,47,93 kg,Deadlift,281
+Laura Taylor,22,105 kg,Squat,257
+Emily Davis,60,83 kg,Deadlift,368
+John Doe,38,Open,Squat,188
+Jessica Wilson,34,93 kg,Bench Press,328
+Sarah Thomas,39,93 kg,Bench Press,274
+Emily Davis,20,Open,Squat,322
+Laura Taylor,38,59 kg,Bench Press,244
+Jessica Wilson,63,66 kg,Deadlift,222
+Jessica Wilson,42,Open,Squat,220
+Matthew Anderson,61,93 kg,Deadlift,120
+John Doe,38,105 kg,Squat,196
+Matthew Anderson,63,120 kg,Deadlift,115
+Emily Davis,33,66 kg,Bench Press,208
+Daniel Lee,51,83 kg,Deadlift,368
+Sarah Thomas,42,105 kg,Bench Press,214
+Emily Davis,42,52 kg,Deadlift,179
+Michael Johnson,58,74 kg,Squat,239
+Laura Taylor,45,74 kg,Deadlift,257
+John Doe,21,105 kg,Deadlift,247
+Emily Davis,37,74 kg,Squat,203
+John Doe,30,59 kg,Bench Press,110
+Emily Davis,62,120 kg,Deadlift,160
+Daniel Lee,28,74 kg,Deadlift,342
+Jane Smith,27,74 kg,Squat,325
+Sarah Thomas,46,74 kg,Squat,331
+Michael Johnson,64,59 kg,Deadlift,292
+Sarah Thomas,49,59 kg,Squat,379
+Chris Brown,41,52 kg,Bench Press,327
+Sarah Thomas,31,105 kg,Bench Press,313
+Jane Smith,23,Open,Deadlift,206
+Emily Davis,63,Open,Squat,138
+Michael Johnson,58,59 kg,Deadlift,223
+Chris Brown,25,Open,Bench Press,255
+Sarah Thomas,59,83 kg,Bench Press,324
+Laura Taylor,64,74 kg,Bench Press,193
+Chris Brown,34,83 kg,Bench Press,273
+Sarah Thomas,57,Open,Bench Press,215
+Chris Brown,53,74 kg,Deadlift,113
+Jane Smith,60,52 kg,Bench Press,315
+Michael Johnson,46,120 kg,Deadlift,253
+Laura Taylor,35,59 kg,Bench Press,233
+Michael Johnson,55,52 kg,Squat,236
+Emily Davis,19,Open,Bench Press,118
+Sarah Thomas,35,59 kg,Squat,301
+Laura Taylor,48,93 kg,Deadlift,138
+Daniel Lee,52,74 kg,Squat,161
+Daniel Lee,21,52 kg,Bench Press,271
+Michael Johnson,51,74 kg,Squat,120
+Emily Davis,61,93 kg,Bench Press,343
+Daniel Lee,43,93 kg,Bench Press,135
+John Doe,19,59 kg,Deadlift,142
+Matthew Anderson,52,74 kg,Bench Press,130
+John Doe,57,93 kg,Bench Press,327
+Laura Taylor,58,59 kg,Squat,313
+Daniel Lee,36,52 kg,Bench Press,211
+Jessica Wilson,59,74 kg,Squat,351
+Sarah Thomas,39,83 kg,Deadlift,393
+Daniel Lee,46,93 kg,Deadlift,151
+Jessica Wilson,19,105 kg,Deadlift,379
+Michael Johnson,59,93 kg,Bench Press,153
+Laura Taylor,56,74 kg,Squat,324
+Jane Smith,30,59 kg,Bench Press,216
+Sarah Thomas,33,66 kg,Squat,157
+Michael Johnson,46,83 kg,Bench Press,248
+Michael Johnson,43,52 kg,Deadlift,309
+Jessica Wilson,40,59 kg,Deadlift,286
+Daniel Lee,45,93 kg,Deadlift,217
+Chris Brown,31,66 kg,Squat,343
+Michael Johnson,51,59 kg,Squat,179
+Michael Johnson,32,Open,Deadlift,296
+Jane Smith,26,74 kg,Bench Press,236
+John Doe,22,74 kg,Deadlift,153
+Sarah Thomas,64,120 kg,Deadlift,230
+John Doe,39,83 kg,Squat,265
+Michael Johnson,63,93 kg,Bench Press,146
+Matthew Anderson,46,105 kg,Deadlift,272
+Emily Davis,40,66 kg,Bench Press,150
+John Doe,32,120 kg,Bench Press,265
+Matthew Anderson,18,66 kg,Bench Press,291
+Matthew Anderson,55,105 kg,Deadlift,314
+Jane Smith,27,66 kg,Bench Press,314
+John Doe,51,52 kg,Squat,281
+Jessica Wilson,58,83 kg,Bench Press,255
+Matthew Anderson,58,120 kg,Squat,231
+Michael Johnson,25,59 kg,Squat,238
+Emily Davis,44,105 kg,Squat,362
+Jessica Wilson,47,74 kg,Squat,139
+Emily Davis,35,105 kg,Bench Press,153
+Matthew Anderson,28,52 kg,Squat,215
+Daniel Lee,61,59 kg,Bench Press,243
+Chris Brown,51,93 kg,Deadlift,180
+Daniel Lee,19,120 kg,Deadlift,307
+Emily Davis,56,83 kg,Bench Press,228
+Daniel Lee,37,59 kg,Bench Press,388
+Michael Johnson,47,Open,Squat,100
+Daniel Lee,24,66 kg,Deadlift,239
+Jessica Wilson,23,83 kg,Deadlift,287
+Jessica Wilson,22,59 kg,Bench Press,383
+Sarah Thomas,20,Open,Squat,117
+Chris Brown,58,52 kg,Squat,322
+Daniel Lee,58,74 kg,Squat,272
+Jessica Wilson,34,66 kg,Bench Press,302
+Jane Smith,25,66 kg,Squat,237
+Emily Davis,58,59 kg,Bench Press,337
+Emily Davis,42,83 kg,Deadlift,224
+Matthew Anderson,41,120 kg,Bench Press,328
+Sarah Thomas,40,120 kg,Bench Press,253
+Jessica Wilson,59,105 kg,Deadlift,311
+Jessica Wilson,24,105 kg,Deadlift,195
+Daniel Lee,32,74 kg,Bench Press,186
+John Doe,57,Open,Deadlift,138
+Sarah Thomas,42,52 kg,Squat,129
+Laura Taylor,49,83 kg,Bench Press,150
+Jessica Wilson,38,83 kg,Bench Press,211
+Jane Smith,36,52 kg,Bench Press,258
+Jessica Wilson,53,83 kg,Deadlift,205
+Daniel Lee,50,66 kg,Squat,114
+Daniel Lee,38,66 kg,Squat,137
+Matthew Anderson,42,74 kg,Squat,232
+Laura Taylor,50,Open,Deadlift,205
+Jessica Wilson,45,105 kg,Deadlift,159
+Emily Davis,62,66 kg,Bench Press,120
+Michael Johnson,54,120 kg,Squat,251
+Sarah Thomas,36,59 kg,Bench Press,372
+Sarah Thomas,40,93 kg,Deadlift,122
+Emily Davis,52,83 kg,Deadlift,106
+Michael Johnson,49,Open,Bench Press,124
+Jessica Wilson,36,Open,Deadlift,383
+Chris Brown,32,74 kg,Deadlift,398
+Jane Smith,25,105 kg,Deadlift,257
+Jessica Wilson,29,93 kg,Squat,233
+Matthew Anderson,28,74 kg,Bench Press,209
+Emily Davis,56,105 kg,Bench Press,100
+Jessica Wilson,59,74 kg,Deadlift,286
+Matthew Anderson,40,59 kg,Deadlift,171
+Chris Brown,18,Open,Squat,357
+Jane Smith,52,66 kg,Deadlift,383
+Laura Taylor,35,74 kg,Squat,129
+Matthew Anderson,60,93 kg,Squat,394
+Jane Smith,24,120 kg,Bench Press,115
+Michael Johnson,21,66 kg,Bench Press,143
+Jane Smith,58,74 kg,Deadlift,399
+Jane Smith,45,74 kg,Bench Press,159
+Laura Taylor,30,93 kg,Bench Press,112
+Jessica Wilson,57,120 kg,Squat,368
+John Doe,39,52 kg,Squat,376
+Chris Brown,43,59 kg,Deadlift,314
+Jane Smith,18,120 kg,Squat,276
+Jane Smith,61,Open,Bench Press,392
+Daniel Lee,52,105 kg,Bench Press,139
+Daniel Lee,19,74 kg,Bench Press,295
+John Doe,61,105 kg,Squat,154
+Michael Johnson,55,59 kg,Deadlift,230
+Emily Davis,64,52 kg,Bench Press,249
+Laura Taylor,61,74 kg,Bench Press,393
+Sarah Thomas,43,52 kg,Bench Press,349
+Michael Johnson,41,83 kg,Squat,258
+Chris Brown,60,74 kg,Bench Press,391
+Sarah Thomas,22,74 kg,Bench Press,343
+John Doe,25,105 kg,Squat,120
+Daniel Lee,47,59 kg,Deadlift,341
+Sarah Thomas,19,105 kg,Bench Press,202
+Michael Johnson,41,59 kg,Bench Press,339
+Chris Brown,41,105 kg,Bench Press,279
+Laura Taylor,42,52 kg,Deadlift,316
+Emily Davis,43,105 kg,Bench Press,387
+John Doe,23,83 kg,Deadlift,356
+Jessica Wilson,40,Open,Deadlift,116
+Chris Brown,34,93 kg,Squat,378
+John Doe,49,74 kg,Deadlift,143
+Michael Johnson,18,83 kg,Bench Press,182
+Emily Davis,21,83 kg,Squat,386
+Jane Smith,51,83 kg,Squat,221
+Laura Taylor,49,93 kg,Deadlift,138
+Jane Smith,24,120 kg,Squat,394
+Emily Davis,18,Open,Bench Press,183
+Chris Brown,26,93 kg,Bench Press,255
+Jane Smith,42,74 kg,Deadlift,370
+Laura Taylor,24,66 kg,Deadlift,310
+Chris Brown,29,59 kg,Bench Press,337
+John Doe,22,52 kg,Squat,344
+Michael Johnson,55,120 kg,Bench Press,153
+Laura Taylor,25,59 kg,Deadlift,225
+Chris Brown,43,83 kg,Bench Press,277
+John Doe,60,83 kg,Deadlift,117
+Michael Johnson,23,52 kg,Squat,297
+Daniel Lee,55,120 kg,Bench Press,117
+Sarah Thomas,22,66 kg,Deadlift,391
+Michael Johnson,60,93 kg,Squat,144
+Chris Brown,30,105 kg,Bench Press,392
+Sarah Thomas,34,83 kg,Bench Press,104
+Sarah Thomas,23,74 kg,Bench Press,220
+Jessica Wilson,31,59 kg,Squat,207
+Chris Brown,29,52 kg,Deadlift,143
+Chris Brown,40,66 kg,Deadlift,170
+Sarah Thomas,60,105 kg,Deadlift,134
+Matthew Anderson,57,120 kg,Squat,131
+Jane Smith,18,52 kg,Deadlift,313
+Jessica Wilson,42,59 kg,Deadlift,198
+Laura Taylor,45,Open,Bench Press,269
+John Doe,48,120 kg,Bench Press,392
+Jane Smith,42,Open,Squat,157
+Emily Davis,46,83 kg,Squat,293
+Sarah Thomas,42,120 kg,Bench Press,150
+Michael Johnson,48,105 kg,Deadlift,124
+Matthew Anderson,64,Open,Squat,350
+Michael Johnson,50,Open,Deadlift,356
+Chris Brown,64,59 kg,Bench Press,198
+Matthew Anderson,53,59 kg,Squat,234
+Michael Johnson,40,83 kg,Deadlift,253
+Sarah Thomas,26,52 kg,Deadlift,130
+Matthew Anderson,21,105 kg,Bench Press,379
+Laura Taylor,54,66 kg,Deadlift,395
+Matthew Anderson,32,93 kg,Deadlift,226
+Michael Johnson,54,120 kg,Bench Press,322
+Emily Davis,35,66 kg,Bench Press,250
+Emily Davis,37,66 kg,Deadlift,376
+Daniel Lee,42,Open,Deadlift,256
+John Doe,42,105 kg,Bench Press,287
+Emily Davis,53,52 kg,Bench Press,162
+Daniel Lee,19,66 kg,Bench Press,276
+Emily Davis,30,74 kg,Bench Press,221
+Sarah Thomas,38,59 kg,Bench Press,345
+Daniel Lee,25,93 kg,Squat,371
+Emily Davis,40,93 kg,Squat,184
+Michael Johnson,62,66 kg,Bench Press,107
+Michael Johnson,33,59 kg,Deadlift,213
+Michael Johnson,50,Open,Squat,252
+Daniel Lee,51,93 kg,Deadlift,342
+Chris Brown,31,66 kg,Bench Press,172
+Daniel Lee,19,66 kg,Deadlift,218
+John Doe,21,59 kg,Deadlift,116
+Chris Brown,57,52 kg,Deadlift,286
+Sarah Thomas,54,105 kg,Deadlift,227
+Michael Johnson,56,120 kg,Squat,300
+Jane Smith,45,74 kg,Squat,288
+Daniel Lee,52,59 kg,Bench Press,304
+Jane Smith,63,Open,Deadlift,135
+Laura Taylor,56,Open,Bench Press,173
+Jessica Wilson,43,93 kg,Bench Press,293
+Daniel Lee,34,52 kg,Deadlift,241
+Jane Smith,27,59 kg,Bench Press,386
+Daniel Lee,43,83 kg,Deadlift,257
+Daniel Lee,18,59 kg,Bench Press,288
+Daniel Lee,33,59 kg,Squat,378
+Daniel Lee,34,83 kg,Squat,218
+Michael Johnson,60,52 kg,Deadlift,290
+Jessica Wilson,54,74 kg,Deadlift,164
+Michael Johnson,25,120 kg,Deadlift,332
+Michael Johnson,41,105 kg,Bench Press,217
+Emily Davis,58,74 kg,Bench Press,380
+Michael Johnson,56,83 kg,Deadlift,395
+Sarah Thomas,63,59 kg,Bench Press,398
+Emily Davis,55,74 kg,Bench Press,334
+Matthew Anderson,55,Open,Bench Press,198
+Jessica Wilson,22,59 kg,Squat,374
+Chris Brown,52,59 kg,Bench Press,369
+Jessica Wilson,40,120 kg,Squat,225
+Jane Smith,48,105 kg,Bench Press,127
+Jessica Wilson,51,Open,Deadlift,279
+Matthew Anderson,45,74 kg,Squat,252
+Michael Johnson,25,Open,Deadlift,123
+Sarah Thomas,31,83 kg,Squat,330
+Sarah Thomas,43,Open,Squat,246
+Jessica Wilson,55,66 kg,Bench Press,265
+Daniel Lee,49,52 kg,Deadlift,373
+Chris Brown,54,93 kg,Bench Press,242
+John Doe,57,120 kg,Deadlift,223
+Matthew Anderson,26,105 kg,Bench Press,332
+Jessica Wilson,36,59 kg,Squat,161
+Jessica Wilson,38,105 kg,Bench Press,299
+Jessica Wilson,43,105 kg,Bench Press,138
+Jane Smith,57,59 kg,Deadlift,155
+John Doe,47,83 kg,Squat,237
+John Doe,20,83 kg,Deadlift,271
+John Doe,58,Open,Squat,362
+John Doe,35,93 kg,Squat,298
+John Doe,58,74 kg,Squat,144
+Laura Taylor,57,74 kg,Squat,143
+Daniel Lee,51,66 kg,Bench Press,339
+Emily Davis,21,83 kg,Deadlift,226
+Jessica Wilson,44,Open,Deadlift,106
+Chris Brown,42,74 kg,Bench Press,341
+Emily Davis,48,59 kg,Bench Press,234
+Chris Brown,19,105 kg,Squat,279
+Jessica Wilson,60,52 kg,Bench Press,303
+Jane Smith,36,74 kg,Bench Press,353
+Emily Davis,25,83 kg,Squat,318
+Daniel Lee,61,93 kg,Deadlift,113
+Laura Taylor,23,105 kg,Squat,179
+Chris Brown,58,105 kg,Bench Press,130
+John Doe,55,105 kg,Bench Press,112
+John Doe,37,74 kg,Deadlift,227
+Laura Taylor,52,74 kg,Squat,142
+Emily Davis,39,93 kg,Deadlift,277
+Emily Davis,54,59 kg,Bench Press,370
+John Doe,42,93 kg,Deadlift,158
+John Doe,48,120 kg,Deadlift,238
+Sarah Thomas,19,74 kg,Squat,157
+Chris Brown,18,52 kg,Bench Press,284
+Chris Brown,42,66 kg,Deadlift,350
+Jessica Wilson,63,93 kg,Squat,167
+Matthew Anderson,22,83 kg,Deadlift,113
+Matthew Anderson,18,Open,Bench Press,235
+John Doe,54,52 kg,Bench Press,343
+Jane Smith,38,59 kg,Squat,331
+Jessica Wilson,22,120 kg,Squat,116
+Sarah Thomas,23,52 kg,Deadlift,129
+Sarah Thomas,32,59 kg,Bench Press,170
+Daniel Lee,40,120 kg,Deadlift,153
+Jane Smith,33,120 kg,Bench Press,143
+Chris Brown,37,105 kg,Squat,229
+John Doe,30,93 kg,Deadlift,327
+Chris Brown,57,52 kg,Deadlift,159
+Laura Taylor,50,105 kg,Squat,233
+Laura Taylor,48,66 kg,Deadlift,250
+Laura Taylor,38,66 kg,Deadlift,351
+Daniel Lee,38,66 kg,Bench Press,352
+Michael Johnson,23,83 kg,Bench Press,306
+Daniel Lee,28,93 kg,Deadlift,376
+John Doe,42,105 kg,Bench Press,370
+Michael Johnson,29,93 kg,Deadlift,146
+Laura Taylor,39,66 kg,Deadlift,175
+Laura Taylor,24,93 kg,Deadlift,146
+Michael Johnson,19,93 kg,Deadlift,235
+Daniel Lee,31,105 kg,Bench Press,233
+Jane Smith,33,105 kg,Bench Press,376
+Emily Davis,61,59 kg,Bench Press,373
+Laura Taylor,39,Open,Bench Press,391
+John Doe,21,59 kg,Squat,118
+Jessica Wilson,47,93 kg,Bench Press,196
+Chris Brown,27,74 kg,Bench Press,328
+Jessica Wilson,42,66 kg,Bench Press,227
+Jessica Wilson,54,52 kg,Deadlift,152
+Emily Davis,38,52 kg,Bench Press,287
+Matthew Anderson,55,74 kg,Squat,245
+John Doe,64,52 kg,Deadlift,395
+Jane Smith,37,59 kg,Bench Press,387
+Jessica Wilson,58,93 kg,Bench Press,270
+Chris Brown,21,105 kg,Deadlift,166
+Jane Smith,55,59 kg,Squat,138
+Jessica Wilson,21,83 kg,Bench Press,228
+John Doe,38,105 kg,Squat,112
+Daniel Lee,56,83 kg,Bench Press,281
+Matthew Anderson,48,59 kg,Squat,389
+Matthew Anderson,51,52 kg,Bench Press,317
+Daniel Lee,43,59 kg,Squat,267
+Emily Davis,59,52 kg,Squat,334
+Chris Brown,62,66 kg,Squat,208
+Chris Brown,40,120 kg,Deadlift,369
+Emily Davis,55,66 kg,Deadlift,363
+Daniel Lee,20,66 kg,Squat,229
+Jessica Wilson,45,74 kg,Bench Press,119
+Sarah Thomas,64,59 kg,Bench Press,171
+Matthew Anderson,55,105 kg,Deadlift,250
+Jane Smith,46,83 kg,Bench Press,131
+Emily Davis,53,74 kg,Bench Press,262
+Matthew Anderson,51,74 kg,Squat,139
+Jane Smith,43,83 kg,Bench Press,320
+Jessica Wilson,28,66 kg,Squat,237
+Matthew Anderson,57,93 kg,Squat,194
+John Doe,26,105 kg,Squat,379
+Emily Davis,35,59 kg,Squat,203
+Laura Taylor,43,83 kg,Bench Press,223
+Jane Smith,25,52 kg,Squat,134
+Laura Taylor,47,105 kg,Bench Press,138
+Matthew Anderson,57,52 kg,Bench Press,299
+John Doe,59,93 kg,Bench Press,200
+Laura Taylor,38,Open,Squat,379
+Jessica Wilson,51,Open,Deadlift,200
+Sarah Thomas,28,66 kg,Squat,271
+Sarah Thomas,30,Open,Bench Press,138
+Daniel Lee,20,83 kg,Squat,333
+Matthew Anderson,50,66 kg,Bench Press,337
+Laura Taylor,42,93 kg,Deadlift,265
+Jessica Wilson,23,Open,Squat,174
+Sarah Thomas,37,Open,Deadlift,292
+Jane Smith,18,83 kg,Deadlift,322
+John Doe,35,105 kg,Deadlift,314
+John Doe,41,59 kg,Squat,177
+Jessica Wilson,64,83 kg,Bench Press,129
+Daniel Lee,38,83 kg,Deadlift,257
+Emily Davis,54,105 kg,Squat,257
+Daniel Lee,54,74 kg,Bench Press,214
+Jane Smith,30,66 kg,Deadlift,159
+Laura Taylor,62,93 kg,Deadlift,339
+Laura Taylor,54,105 kg,Bench Press,313
+John Doe,33,66 kg,Bench Press,135
+Laura Taylor,55,74 kg,Deadlift,336
+Daniel Lee,42,120 kg,Bench Press,317
+John Doe,63,Open,Deadlift,290
+Chris Brown,38,59 kg,Squat,384
+Michael Johnson,25,105 kg,Deadlift,360
+Laura Taylor,64,Open,Bench Press,190
+Jessica Wilson,41,93 kg,Deadlift,131
+Michael Johnson,38,83 kg,Deadlift,191
+Matthew Anderson,23,66 kg,Bench Press,143
+Jessica Wilson,25,59 kg,Squat,150
+Daniel Lee,54,83 kg,Squat,240
+Daniel Lee,27,Open,Deadlift,306
+Chris Brown,23,120 kg,Bench Press,355
+Jane Smith,43,66 kg,Deadlift,154
+Jessica Wilson,51,93 kg,Squat,182
+Chris Brown,38,66 kg,Bench Press,362
+Jessica Wilson,18,59 kg,Deadlift,385
+Jessica Wilson,51,83 kg,Squat,144
+Daniel Lee,37,66 kg,Deadlift,118
+Emily Davis,27,59 kg,Deadlift,390
+Matthew Anderson,20,74 kg,Deadlift,203
+Jane Smith,34,120 kg,Squat,317
+Chris Brown,41,52 kg,Deadlift,292
+Michael Johnson,43,93 kg,Bench Press,256
+Sarah Thomas,60,105 kg,Squat,374
+Laura Taylor,34,74 kg,Deadlift,189
+Chris Brown,35,59 kg,Deadlift,255
+Jane Smith,58,93 kg,Squat,210
+Matthew Anderson,35,83 kg,Squat,353
+Michael Johnson,55,93 kg,Deadlift,107
+Emily Davis,59,Open,Deadlift,270
+Emily Davis,56,59 kg,Deadlift,392
+Chris Brown,30,52 kg,Squat,182
+Jane Smith,24,120 kg,Deadlift,389
+Daniel Lee,42,83 kg,Squat,169
+Michael Johnson,51,74 kg,Squat,306
+Jessica Wilson,32,66 kg,Squat,171
+Chris Brown,23,52 kg,Deadlift,234
+Sarah Thomas,27,74 kg,Bench Press,332
+Jane Smith,55,66 kg,Squat,100
+Jessica Wilson,56,74 kg,Bench Press,353
+Sarah Thomas,29,59 kg,Deadlift,334
+Chris Brown,43,66 kg,Bench Press,347
+Jessica Wilson,34,105 kg,Squat,367
+Laura Taylor,37,105 kg,Squat,108
+Chris Brown,41,93 kg,Deadlift,320
+Chris Brown,27,59 kg,Deadlift,226
+Michael Johnson,60,120 kg,Bench Press,347
+Michael Johnson,59,93 kg,Bench Press,181
+Jane Smith,59,66 kg,Bench Press,265
+Emily Davis,57,105 kg,Squat,136
+John Doe,44,120 kg,Bench Press,394
+Jane Smith,60,83 kg,Squat,328
+Sarah Thomas,29,59 kg,Deadlift,167
+Jane Smith,25,74 kg,Deadlift,292
+Daniel Lee,45,83 kg,Bench Press,361
+Sarah Thomas,50,66 kg,Squat,311
+Matthew Anderson,48,105 kg,Bench Press,270
+Daniel Lee,40,52 kg,Deadlift,100
+Emily Davis,47,66 kg,Deadlift,188
+John Doe,50,93 kg,Squat,112
+Laura Taylor,20,93 kg,Deadlift,155
+Emily Davis,40,93 kg,Squat,159
+Michael Johnson,58,93 kg,Squat,302
+Jessica Wilson,42,83 kg,Deadlift,134
+Sarah Thomas,32,52 kg,Squat,186
+Laura Taylor,20,120 kg,Deadlift,278
+Emily Davis,21,83 kg,Deadlift,178
+Chris Brown,51,74 kg,Squat,388
+Laura Taylor,60,66 kg,Squat,319
+Daniel Lee,54,120 kg,Bench Press,380
+Laura Taylor,18,66 kg,Deadlift,387
+Emily Davis,42,59 kg,Squat,176
+Daniel Lee,56,52 kg,Squat,148
+Sarah Thomas,30,105 kg,Deadlift,366
+Emily Davis,33,83 kg,Deadlift,385
+Laura Taylor,44,52 kg,Bench Press,261
+Jane Smith,41,Open,Bench Press,121
+Emily Davis,47,59 kg,Deadlift,300
+Laura Taylor,34,66 kg,Bench Press,251
+Matthew Anderson,36,59 kg,Bench Press,347
+Matthew Anderson,63,120 kg,Deadlift,380
+Chris Brown,51,52 kg,Deadlift,382
+Jessica Wilson,21,59 kg,Squat,128
+Emily Davis,56,Open,Deadlift,178
+Daniel Lee,25,83 kg,Bench Press,223
+Sarah Thomas,38,59 kg,Deadlift,394
+Daniel Lee,42,93 kg,Squat,379
+Michael Johnson,20,83 kg,Deadlift,354
+Sarah Thomas,28,Open,Deadlift,289
+Emily Davis,52,Open,Bench Press,316
+Jessica Wilson,42,66 kg,Squat,245
+Laura Taylor,18,74 kg,Bench Press,266
+Sarah Thomas,24,66 kg,Squat,180
+John Doe,31,59 kg,Bench Press,147
+Laura Taylor,56,105 kg,Bench Press,366
+Jane Smith,43,Open,Bench Press,294
+Michael Johnson,45,Open,Squat,370
+Jessica Wilson,23,93 kg,Bench Press,329
+John Doe,63,Open,Squat,129
+Jessica Wilson,59,59 kg,Bench Press,359
+Matthew Anderson,41,120 kg,Squat,361
+Sarah Thomas,42,83 kg,Squat,167
+Matthew Anderson,31,105 kg,Bench Press,368
+Michael Johnson,39,83 kg,Deadlift,100
+Jessica Wilson,31,66 kg,Squat,260
+Emily Davis,20,52 kg,Deadlift,138
+Jane Smith,59,120 kg,Bench Press,224
+Laura Taylor,19,59 kg,Bench Press,296
+Emily Davis,63,52 kg,Squat,322
+Matthew Anderson,18,59 kg,Squat,396
+Jessica Wilson,32,59 kg,Bench Press,226
+Jessica Wilson,54,66 kg,Squat,168
+Jane Smith,25,59 kg,Squat,320
+Sarah Thomas,27,59 kg,Deadlift,385
+Laura Taylor,62,93 kg,Squat,244
+Michael Johnson,22,93 kg,Deadlift,116
+Jane Smith,34,93 kg,Deadlift,237
+John Doe,34,120 kg,Squat,249
+Jane Smith,34,Open,Bench Press,226
+John Doe,21,105 kg,Squat,182
+Jane Smith,58,120 kg,Deadlift,178
+Jane Smith,20,Open,Squat,127
+Daniel Lee,50,120 kg,Deadlift,227
+Matthew Anderson,24,93 kg,Squat,391
+Matthew Anderson,39,105 kg,Squat,183
+Emily Davis,46,Open,Deadlift,110
+Michael Johnson,40,52 kg,Bench Press,153
+John Doe,45,Open,Bench Press,292
+Laura Taylor,22,93 kg,Squat,250
+Chris Brown,22,74 kg,Deadlift,303
+Daniel Lee,49,Open,Squat,193
+John Doe,20,59 kg,Deadlift,256
+Jessica Wilson,43,66 kg,Deadlift,280
+Emily Davis,48,83 kg,Squat,228
+Emily Davis,29,74 kg,Squat,181
+Sarah Thomas,28,83 kg,Squat,112
+Chris Brown,20,105 kg,Deadlift,144
+Sarah Thomas,29,93 kg,Deadlift,279
+John Doe,30,83 kg,Bench Press,327
+Daniel Lee,38,93 kg,Squat,366
+Jessica Wilson,27,52 kg,Bench Press,349
+Emily Davis,53,93 kg,Deadlift,288
+John Doe,24,66 kg,Deadlift,205
+John Doe,49,59 kg,Deadlift,272
+Jane Smith,45,59 kg,Squat,247
+Michael Johnson,28,59 kg,Deadlift,161
+John Doe,26,120 kg,Deadlift,217
+Michael Johnson,43,66 kg,Squat,208
+Michael Johnson,55,52 kg,Deadlift,330
+Sarah Thomas,33,93 kg,Squat,301
+Daniel Lee,44,93 kg,Squat,369
+Laura Taylor,23,66 kg,Squat,178
+Matthew Anderson,36,83 kg,Squat,343
+Sarah Thomas,18,105 kg,Squat,343
+Matthew Anderson,54,105 kg,Squat,341
+Michael Johnson,50,74 kg,Deadlift,286
+Chris Brown,55,93 kg,Deadlift,216
+Laura Taylor,36,Open,Squat,311
+Laura Taylor,31,66 kg,Squat,271
+Jessica Wilson,37,74 kg,Deadlift,224
+Laura Taylor,20,74 kg,Bench Press,197
+Michael Johnson,58,66 kg,Squat,392
+Chris Brown,59,52 kg,Bench Press,327
+Jane Smith,18,74 kg,Squat,258
+Jane Smith,56,74 kg,Bench Press,284
+Jane Smith,18,83 kg,Squat,348
+Laura Taylor,27,93 kg,Deadlift,100
+Sarah Thomas,21,52 kg,Deadlift,351
+John Doe,23,52 kg,Deadlift,205
+Sarah Thomas,35,83 kg,Bench Press,111
+John Doe,36,93 kg,Deadlift,142
+Michael Johnson,63,83 kg,Deadlift,361
+Jane Smith,29,66 kg,Deadlift,274
+Chris Brown,18,120 kg,Deadlift,271
+Daniel Lee,56,120 kg,Deadlift,115
+John Doe,62,93 kg,Squat,110
+Daniel Lee,59,52 kg,Squat,114
+Daniel Lee,35,74 kg,Deadlift,180
+Michael Johnson,62,59 kg,Squat,263
+Matthew Anderson,36,52 kg,Deadlift,238
+Daniel Lee,24,93 kg,Deadlift,234
+Daniel Lee,33,66 kg,Bench Press,127
+Jessica Wilson,57,83 kg,Squat,341
+Michael Johnson,18,52 kg,Squat,339
+Jessica Wilson,55,74 kg,Bench Press,346
+John Doe,54,52 kg,Bench Press,323
+Emily Davis,25,93 kg,Deadlift,150
+Sarah Thomas,63,Open,Deadlift,240
+Sarah Thomas,29,59 kg,Deadlift,227
+Laura Taylor,22,105 kg,Deadlift,390
+John Doe,24,120 kg,Deadlift,398
+Chris Brown,56,83 kg,Bench Press,308
+Jane Smith,58,74 kg,Deadlift,210
+Emily Davis,24,120 kg,Bench Press,277
+Jessica Wilson,34,74 kg,Bench Press,248
+Laura Taylor,52,93 kg,Bench Press,253
+Daniel Lee,34,83 kg,Deadlift,372
+Michael Johnson,50,52 kg,Bench Press,342
+Laura Taylor,46,52 kg,Squat,274
+Emily Davis,54,105 kg,Deadlift,292
+Chris Brown,50,59 kg,Bench Press,302
+Sarah Thomas,26,120 kg,Squat,348
+Laura Taylor,39,59 kg,Deadlift,351
+John Doe,42,93 kg,Bench Press,232
+John Doe,34,105 kg,Squat,351
+Jane Smith,39,74 kg,Deadlift,297
+Matthew Anderson,28,59 kg,Deadlift,184
+Emily Davis,50,59 kg,Squat,296
+Jessica Wilson,26,105 kg,Squat,118
+John Doe,55,Open,Squat,204
+Jane Smith,24,83 kg,Deadlift,102
+Jane Smith,44,83 kg,Deadlift,193
+Emily Davis,60,74 kg,Deadlift,275
+Laura Taylor,45,66 kg,Bench Press,297
+Sarah Thomas,63,Open,Deadlift,270
+Emily Davis,43,59 kg,Squat,184
+Laura Taylor,38,105 kg,Deadlift,268
+John Doe,38,74 kg,Bench Press,361
+Michael Johnson,31,120 kg,Squat,200
+Chris Brown,52,66 kg,Squat,123
+Chris Brown,22,66 kg,Bench Press,257
+Daniel Lee,32,Open,Bench Press,390
+John Doe,42,Open,Bench Press,315
+Jane Smith,19,74 kg,Deadlift,289
+Laura Taylor,57,93 kg,Bench Press,138
+Daniel Lee,61,74 kg,Bench Press,155
+Jessica Wilson,31,74 kg,Deadlift,196
+Jessica Wilson,54,59 kg,Bench Press,180
+Laura Taylor,51,Open,Deadlift,381
+Emily Davis,30,93 kg,Squat,276
+Daniel Lee,34,74 kg,Squat,168
+Matthew Anderson,23,93 kg,Squat,232
+Matthew Anderson,51,105 kg,Deadlift,255
+Michael Johnson,49,105 kg,Squat,353
+Jane Smith,26,74 kg,Deadlift,168
+John Doe,51,74 kg,Bench Press,234
+Matthew Anderson,18,83 kg,Deadlift,252
+Laura Taylor,50,120 kg,Bench Press,147
+Laura Taylor,49,74 kg,Squat,259
+John Doe,20,120 kg,Bench Press,124
+Chris Brown,60,59 kg,Bench Press,312
+Matthew Anderson,45,74 kg,Bench Press,339
+John Doe,34,52 kg,Deadlift,202
+Chris Brown,41,120 kg,Deadlift,232
+Jessica Wilson,20,Open,Squat,222
+Laura Taylor,25,66 kg,Bench Press,162
+Michael Johnson,55,66 kg,Deadlift,200
+Chris Brown,63,66 kg,Squat,278
+Sarah Thomas,38,52 kg,Deadlift,330
+Laura Taylor,18,93 kg,Deadlift,257
+Jessica Wilson,25,66 kg,Squat,329
+John Doe,43,Open,Squat,252
+Chris Brown,42,83 kg,Deadlift,251
+Sarah Thomas,19,52 kg,Bench Press,396
+Chris Brown,53,74 kg,Squat,383
+John Doe,48,52 kg,Squat,230
+Michael Johnson,52,93 kg,Squat,216
+Jessica Wilson,46,74 kg,Squat,295
+Jessica Wilson,52,74 kg,Deadlift,218
+Emily Davis,39,59 kg,Deadlift,138
+John Doe,41,52 kg,Deadlift,228
+John Doe,35,105 kg,Squat,149
+Jane Smith,23,Open,Deadlift,213
+Sarah Thomas,21,66 kg,Bench Press,388
+Sarah Thomas,43,74 kg,Bench Press,225
+Michael Johnson,39,120 kg,Deadlift,342
+Jane Smith,24,52 kg,Deadlift,282
+John Doe,37,83 kg,Deadlift,100
+Jane Smith,40,74 kg,Squat,286
+Daniel Lee,41,59 kg,Bench Press,127
+Emily Davis,39,74 kg,Squat,151
+Chris Brown,30,93 kg,Squat,210
+Emily Davis,40,59 kg,Bench Press,194
+Daniel Lee,28,93 kg,Deadlift,176
+Chris Brown,32,93 kg,Bench Press,138
+Michael Johnson,62,59 kg,Deadlift,387
+Emily Davis,59,66 kg,Bench Press,346
+Daniel Lee,23,120 kg,Deadlift,278
+Emily Davis,57,74 kg,Deadlift,137
+Emily Davis,28,93 kg,Squat,395
+Matthew Anderson,44,59 kg,Deadlift,208
+Jane Smith,44,105 kg,Deadlift,215
+Emily Davis,37,120 kg,Bench Press,277
+Emily Davis,64,120 kg,Deadlift,228
+Jane Smith,34,105 kg,Deadlift,288
+Jessica Wilson,19,Open,Deadlift,207
+Emily Davis,37,105 kg,Deadlift,126
+Daniel Lee,32,52 kg,Deadlift,328
+Chris Brown,27,59 kg,Deadlift,205
+Matthew Anderson,62,52 kg,Squat,147
+Jessica Wilson,53,Open,Squat,152
+Laura Taylor,53,120 kg,Bench Press,136
+Jane Smith,26,93 kg,Squat,315
+Matthew Anderson,44,59 kg,Bench Press,333
+Michael Johnson,58,59 kg,Bench Press,157
+John Doe,63,59 kg,Deadlift,199
+John Doe,31,Open,Bench Press,155
+Chris Brown,43,93 kg,Deadlift,249
+Michael Johnson,62,105 kg,Bench Press,353
+Jane Smith,32,120 kg,Squat,199
+Michael Johnson,31,83 kg,Deadlift,154
+Michael Johnson,24,59 kg,Squat,184
+Emily Davis,61,59 kg,Deadlift,249
+Chris Brown,26,120 kg,Deadlift,184
+Laura Taylor,56,83 kg,Deadlift,215
+Jessica Wilson,32,93 kg,Squat,114
+Jane Smith,64,Open,Squat,169
+Emily Davis,46,83 kg,Deadlift,332
+Jane Smith,47,120 kg,Bench Press,246
+John Doe,49,120 kg,Bench Press,262
+Jane Smith,48,Open,Bench Press,124
+Chris Brown,26,59 kg,Deadlift,370
+John Doe,61,93 kg,Deadlift,302
+Michael Johnson,20,105 kg,Deadlift,371
+Jane Smith,33,120 kg,Deadlift,251
+Emily Davis,46,105 kg,Squat,290
+Jane Smith,52,59 kg,Squat,131
+Chris Brown,55,74 kg,Squat,144
+Laura Taylor,60,105 kg,Deadlift,282
+Jessica Wilson,56,93 kg,Bench Press,167
+Daniel Lee,55,105 kg,Squat,346
+Sarah Thomas,42,74 kg,Deadlift,396
+Michael Johnson,23,66 kg,Deadlift,223
+Jessica Wilson,32,66 kg,Deadlift,124
+Michael Johnson,52,52 kg,Squat,195
+Michael Johnson,29,59 kg,Deadlift,127
+Jane Smith,34,Open,Squat,138
+Emily Davis,49,105 kg,Bench Press,311
+Matthew Anderson,30,105 kg,Deadlift,240
+Emily Davis,18,83 kg,Squat,261
+John Doe,52,93 kg,Bench Press,256
+Laura Taylor,18,120 kg,Deadlift,314
+Emily Davis,34,66 kg,Squat,175
+Matthew Anderson,22,66 kg,Deadlift,103
+Michael Johnson,54,52 kg,Deadlift,338
+Chris Brown,21,83 kg,Deadlift,279
+Emily Davis,23,59 kg,Bench Press,330
+Jane Smith,48,Open,Deadlift,350
+Daniel Lee,60,74 kg,Bench Press,327
+Jessica Wilson,38,Open,Squat,166
+Matthew Anderson,63,83 kg,Deadlift,165
+Chris Brown,33,74 kg,Bench Press,348
+Emily Davis,55,74 kg,Squat,208
+Daniel Lee,59,52 kg,Squat,291
+Jessica Wilson,46,52 kg,Bench Press,328
+Emily Davis,45,83 kg,Squat,381
+Laura Taylor,63,105 kg,Deadlift,318
+Matthew Anderson,51,52 kg,Deadlift,155
+Matthew Anderson,29,66 kg,Squat,302
+Emily Davis,45,66 kg,Squat,345
+Laura Taylor,52,120 kg,Deadlift,295
+Matthew Anderson,42,120 kg,Squat,332
+Jessica Wilson,31,83 kg,Bench Press,339
+Laura Taylor,25,66 kg,Squat,126
+Michael Johnson,42,105 kg,Squat,282
+Laura Taylor,19,52 kg,Squat,280
+Matthew Anderson,53,66 kg,Deadlift,227
+John Doe,36,105 kg,Deadlift,181
+Laura Taylor,64,Open,Squat,333
+Chris Brown,58,93 kg,Deadlift,267
+Matthew Anderson,19,52 kg,Squat,113
+Chris Brown,60,59 kg,Deadlift,286
+Chris Brown,45,120 kg,Deadlift,288
+John Doe,33,83 kg,Bench Press,194
+Chris Brown,33,Open,Bench Press,189
+Matthew Anderson,59,52 kg,Squat,199
+John Doe,31,105 kg,Squat,285
+John Doe,24,59 kg,Squat,212
+Chris Brown,50,74 kg,Squat,262
+Laura Taylor,46,52 kg,Deadlift,272
+Emily Davis,24,105 kg,Deadlift,101
+Laura Taylor,32,52 kg,Deadlift,350
+Laura Taylor,49,83 kg,Squat,228
+Michael Johnson,24,74 kg,Bench Press,364
+Michael Johnson,51,93 kg,Bench Press,399
+Jane Smith,64,83 kg,Squat,320
+Laura Taylor,44,105 kg,Bench Press,321
+John Doe,50,Open,Bench Press,388
+Laura Taylor,64,59 kg,Bench Press,219
+Jessica Wilson,49,93 kg,Squat,228
+Sarah Thomas,25,93 kg,Deadlift,159
+Laura Taylor,57,120 kg,Bench Press,142
+Jane Smith,19,83 kg,Deadlift,100
+Jane Smith,23,83 kg,Squat,388
+Michael Johnson,55,74 kg,Squat,353
+Chris Brown,45,Open,Deadlift,265
+Jane Smith,56,66 kg,Squat,206
+Chris Brown,63,120 kg,Squat,224
+Jessica Wilson,41,74 kg,Bench Press,376
+Matthew Anderson,30,52 kg,Squat,236
+Michael Johnson,27,83 kg,Bench Press,269
+Jane Smith,47,105 kg,Squat,180
+Daniel Lee,47,52 kg,Bench Press,371
+Emily Davis,31,105 kg,Bench Press,156
+John Doe,41,83 kg,Bench Press,218
+Emily Davis,42,120 kg,Deadlift,243
+Sarah Thomas,27,59 kg,Deadlift,117
+Jessica Wilson,22,59 kg,Deadlift,123
+Jane Smith,55,66 kg,Squat,177
+Emily Davis,29,59 kg,Bench Press,389
+Laura Taylor,40,105 kg,Bench Press,173
+Jane Smith,42,52 kg,Deadlift,299
+Jane Smith,55,52 kg,Deadlift,281
+Laura Taylor,58,83 kg,Squat,389
+Sarah Thomas,58,105 kg,Squat,388
+Chris Brown,52,52 kg,Deadlift,115
+Michael Johnson,64,52 kg,Squat,359
+John Doe,51,93 kg,Squat,383
+Emily Davis,31,66 kg,Squat,265
+Michael Johnson,51,Open,Deadlift,147
+Chris Brown,25,66 kg,Deadlift,221
+John Doe,30,66 kg,Deadlift,319
+John Doe,27,93 kg,Bench Press,317
+Sarah Thomas,64,52 kg,Deadlift,335
+Emily Davis,47,Open,Deadlift,358
+Matthew Anderson,30,105 kg,Deadlift,111
+Emily Davis,53,59 kg,Bench Press,336
+John Doe,52,93 kg,Squat,368
+Chris Brown,19,66 kg,Deadlift,302
+Chris Brown,35,74 kg,Deadlift,207
+John Doe,61,66 kg,Deadlift,307
+Michael Johnson,27,Open,Deadlift,303
+Jessica Wilson,34,120 kg,Bench Press,111
+Jessica Wilson,21,59 kg,Squat,115
+Matthew Anderson,59,52 kg,Squat,182
+Michael Johnson,40,59 kg,Bench Press,161
+Laura Taylor,38,74 kg,Bench Press,212
+Emily Davis,42,66 kg,Bench Press,339
+Daniel Lee,51,59 kg,Bench Press,342
+Jane Smith,38,Open,Bench Press,350
+John Doe,39,59 kg,Bench Press,387
+Michael Johnson,54,52 kg,Deadlift,164
+Michael Johnson,62,59 kg,Bench Press,348
+Jessica Wilson,30,120 kg,Deadlift,135
+Jessica Wilson,44,Open,Squat,322
+Jane Smith,20,120 kg,Squat,391
+Michael Johnson,40,Open,Squat,146
+Matthew Anderson,64,105 kg,Deadlift,190
+Laura Taylor,37,66 kg,Squat,170
+Emily Davis,36,52 kg,Bench Press,190
+Laura Taylor,52,59 kg,Deadlift,154
+Emily Davis,49,83 kg,Squat,167
+Jane Smith,21,74 kg,Squat,254
+John Doe,18,74 kg,Bench Press,397
+Jane Smith,45,93 kg,Squat,168
+John Doe,64,52 kg,Deadlift,335
+Matthew Anderson,40,52 kg,Bench Press,215
+Matthew Anderson,21,105 kg,Squat,131
+Jessica Wilson,50,66 kg,Squat,300
+Emily Davis,29,74 kg,Bench Press,394
+Emily Davis,42,105 kg,Bench Press,375
+Jane Smith,46,59 kg,Bench Press,244
+John Doe,58,74 kg,Bench Press,199
+Daniel Lee,27,83 kg,Bench Press,371
+Jane Smith,20,83 kg,Squat,339
+Daniel Lee,32,93 kg,Deadlift,170
+Sarah Thomas,28,93 kg,Bench Press,370
+Jessica Wilson,22,105 kg,Deadlift,266
+Laura Taylor,27,120 kg,Squat,374
+John Doe,63,74 kg,Deadlift,381
+Jane Smith,44,105 kg,Deadlift,269
+Chris Brown,61,83 kg,Deadlift,394
+Sarah Thomas,26,105 kg,Squat,223
+Jessica Wilson,55,83 kg,Bench Press,276
+Jane Smith,58,105 kg,Bench Press,141
+Daniel Lee,52,83 kg,Bench Press,312
+Jessica Wilson,62,52 kg,Deadlift,319
+Chris Brown,56,52 kg,Squat,186
+Chris Brown,45,74 kg,Squat,342
+Chris Brown,37,105 kg,Squat,325
+Laura Taylor,53,83 kg,Squat,276
+Michael Johnson,54,59 kg,Deadlift,281
+Michael Johnson,28,120 kg,Deadlift,338
+Daniel Lee,36,66 kg,Bench Press,156
+Jessica Wilson,22,74 kg,Squat,192
+Emily Davis,42,52 kg,Squat,385
+John Doe,33,93 kg,Deadlift,230
+Matthew Anderson,48,120 kg,Bench Press,130
+Matthew Anderson,31,83 kg,Bench Press,390
+Jane Smith,34,66 kg,Bench Press,158
+Matthew Anderson,58,83 kg,Bench Press,341
+Laura Taylor,63,120 kg,Bench Press,185
+Jessica Wilson,29,59 kg,Bench Press,180
+Laura Taylor,52,74 kg,Deadlift,187
+Sarah Thomas,35,52 kg,Deadlift,302
+Chris Brown,24,83 kg,Squat,185
+John Doe,42,120 kg,Deadlift,189
+Laura Taylor,47,120 kg,Squat,119
+Michael Johnson,47,66 kg,Bench Press,244
+Emily Davis,20,105 kg,Deadlift,260
+Sarah Thomas,29,74 kg,Bench Press,165
+Jessica Wilson,64,93 kg,Deadlift,113
+Chris Brown,58,Open,Deadlift,386
+John Doe,35,66 kg,Squat,263
+Chris Brown,57,74 kg,Deadlift,131
+Jessica Wilson,27,52 kg,Bench Press,269
+Matthew Anderson,61,93 kg,Deadlift,101
+Jane Smith,44,52 kg,Bench Press,355
+Chris Brown,38,83 kg,Squat,226
+Matthew Anderson,22,74 kg,Deadlift,305
+John Doe,60,Open,Deadlift,100
+Jane Smith,20,120 kg,Deadlift,356
+Jane Smith,57,52 kg,Deadlift,110
+Matthew Anderson,37,74 kg,Squat,372
+Sarah Thomas,25,59 kg,Deadlift,348
+Chris Brown,49,93 kg,Deadlift,111
+Sarah Thomas,50,59 kg,Bench Press,378
+John Doe,22,105 kg,Squat,355
+Emily Davis,45,93 kg,Deadlift,163
+John Doe,42,Open,Deadlift,210
+Laura Taylor,60,93 kg,Squat,352
+John Doe,26,120 kg,Deadlift,375
+Matthew Anderson,62,66 kg,Squat,170
+Jane Smith,44,93 kg,Bench Press,282
+Michael Johnson,56,66 kg,Squat,269
+Matthew Anderson,45,120 kg,Squat,366
+Jessica Wilson,52,52 kg,Deadlift,214
+Matthew Anderson,61,105 kg,Squat,382
+Michael Johnson,30,59 kg,Bench Press,155
+Jane Smith,26,52 kg,Squat,347
+Emily Davis,58,120 kg,Bench Press,200
+Jessica Wilson,63,120 kg,Deadlift,322
+John Doe,50,83 kg,Bench Press,310
+Michael Johnson,18,52 kg,Squat,228
+Jessica Wilson,35,74 kg,Squat,103
+Matthew Anderson,30,93 kg,Bench Press,290
+Daniel Lee,34,66 kg,Bench Press,198
+Michael Johnson,29,52 kg,Squat,384
+Laura Taylor,33,74 kg,Squat,355
+Laura Taylor,46,120 kg,Squat,181
+Jane Smith,18,120 kg,Squat,172
+Matthew Anderson,64,93 kg,Bench Press,191
+Chris Brown,46,Open,Squat,178
+Sarah Thomas,54,120 kg,Bench Press,390
+Emily Davis,36,66 kg,Deadlift,192
+Emily Davis,35,74 kg,Squat,310
+Michael Johnson,43,52 kg,Bench Press,334
+Sarah Thomas,58,59 kg,Squat,145
+John Doe,43,66 kg,Squat,392
+Chris Brown,22,120 kg,Squat,101
+Daniel Lee,28,52 kg,Squat,140
+Chris Brown,51,66 kg,Bench Press,195
+Emily Davis,40,74 kg,Deadlift,213
+Michael Johnson,51,66 kg,Bench Press,292
+Emily Davis,64,Open,Bench Press,257
+Jane Smith,36,52 kg,Squat,208
+Jane Smith,53,66 kg,Squat,326
+Michael Johnson,38,83 kg,Deadlift,272
+Laura Taylor,23,83 kg,Deadlift,118
+Michael Johnson,53,52 kg,Bench Press,305
+Laura Taylor,31,93 kg,Deadlift,300
+John Doe,58,52 kg,Deadlift,104
+Jane Smith,57,Open,Bench Press,375
+Matthew Anderson,48,59 kg,Bench Press,193
+John Doe,29,Open,Bench Press,164
+Jessica Wilson,26,52 kg,Deadlift,394
+Michael Johnson,44,66 kg,Squat,122
+Matthew Anderson,58,93 kg,Squat,127
+John Doe,49,74 kg,Deadlift,245
+Chris Brown,44,Open,Bench Press,289
+John Doe,55,120 kg,Squat,286
+Emily Davis,37,Open,Deadlift,346
+Matthew Anderson,49,105 kg,Deadlift,218
+Jane Smith,24,83 kg,Bench Press,218
+Daniel Lee,55,83 kg,Squat,207
+Chris Brown,29,120 kg,Squat,258
+Daniel Lee,33,120 kg,Deadlift,236
+Sarah Thomas,62,83 kg,Bench Press,243
+Daniel Lee,22,74 kg,Deadlift,119
+Chris Brown,53,83 kg,Deadlift,244
+Laura Taylor,35,120 kg,Deadlift,366
+Michael Johnson,62,105 kg,Bench Press,286
+Sarah Thomas,43,66 kg,Deadlift,257
+Matthew Anderson,30,120 kg,Bench Press,305
+John Doe,18,83 kg,Deadlift,267
+Matthew Anderson,50,59 kg,Bench Press,215
+Daniel Lee,24,66 kg,Squat,399
+Michael Johnson,53,105 kg,Deadlift,234
+Daniel Lee,59,83 kg,Deadlift,206
+Sarah Thomas,58,66 kg,Deadlift,106
+Jessica Wilson,37,120 kg,Deadlift,141
+Emily Davis,53,74 kg,Deadlift,305
+Laura Taylor,47,52 kg,Deadlift,328
+Matthew Anderson,60,120 kg,Deadlift,266
+Emily Davis,41,59 kg,Squat,341
+Matthew Anderson,43,66 kg,Bench Press,248
+Matthew Anderson,38,Open,Bench Press,213
+Sarah Thomas,62,83 kg,Squat,383
+Sarah Thomas,26,52 kg,Bench Press,199
+Chris Brown,56,120 kg,Bench Press,370
+Chris Brown,40,Open,Squat,370
+Jane Smith,57,83 kg,Bench Press,261
+John Doe,33,Open,Bench Press,154
+Laura Taylor,22,93 kg,Bench Press,194
+Daniel Lee,29,59 kg,Deadlift,398
+Michael Johnson,44,59 kg,Bench Press,242
+Jane Smith,29,120 kg,Deadlift,363
+John Doe,44,Open,Bench Press,285
+Daniel Lee,30,74 kg,Bench Press,285
+Jane Smith,46,Open,Squat,261
+Daniel Lee,18,83 kg,Deadlift,365
+Laura Taylor,23,Open,Deadlift,357
+Jane Smith,56,120 kg,Deadlift,210
+Jessica Wilson,31,105 kg,Deadlift,144
+Michael Johnson,40,83 kg,Bench Press,255
+John Doe,42,59 kg,Deadlift,250
+Michael Johnson,44,93 kg,Deadlift,359
+Daniel Lee,23,66 kg,Bench Press,348
+Daniel Lee,36,66 kg,Bench Press,275
+Emily Davis,62,83 kg,Bench Press,151
+Jessica Wilson,64,83 kg,Bench Press,335
+Chris Brown,46,66 kg,Squat,168
+Laura Taylor,21,93 kg,Squat,236
+Emily Davis,41,66 kg,Bench Press,200
+Michael Johnson,27,66 kg,Bench Press,263
+Daniel Lee,23,93 kg,Deadlift,153
+Sarah Thomas,44,93 kg,Bench Press,117
+Jane Smith,51,74 kg,Bench Press,159
+Jessica Wilson,19,93 kg,Squat,171
+Jane Smith,50,52 kg,Squat,100
+Sarah Thomas,38,74 kg,Deadlift,196
+Emily Davis,45,105 kg,Deadlift,364
+Jane Smith,60,52 kg,Bench Press,171
+John Doe,30,66 kg,Squat,192
+Laura Taylor,49,93 kg,Squat,383
+Emily Davis,63,105 kg,Deadlift,291
+Sarah Thomas,45,93 kg,Deadlift,245
+Daniel Lee,21,120 kg,Squat,188
+Chris Brown,38,120 kg,Bench Press,168
+Chris Brown,28,120 kg,Squat,112
+Emily Davis,27,Open,Deadlift,111
+Jessica Wilson,23,59 kg,Bench Press,110
+Chris Brown,31,52 kg,Squat,156
+Chris Brown,58,Open,Squat,158
+Sarah Thomas,35,66 kg,Squat,111
+John Doe,63,120 kg,Squat,260
+John Doe,43,93 kg,Deadlift,320
+Sarah Thomas,21,66 kg,Squat,341
+Jessica Wilson,18,Open,Bench Press,215
+John Doe,32,105 kg,Deadlift,328
+Daniel Lee,32,120 kg,Deadlift,289
+Emily Davis,41,93 kg,Deadlift,261
+Matthew Anderson,24,59 kg,Deadlift,106
+Sarah Thomas,33,93 kg,Bench Press,258
+Daniel Lee,23,83 kg,Squat,197
+Michael Johnson,18,66 kg,Deadlift,295
+Jane Smith,57,66 kg,Squat,369
+Laura Taylor,25,66 kg,Squat,259
+Laura Taylor,35,105 kg,Bench Press,343
+Daniel Lee,50,59 kg,Squat,307
+Laura Taylor,47,74 kg,Bench Press,181
+Jessica Wilson,49,105 kg,Deadlift,215
+Sarah Thomas,33,120 kg,Deadlift,373
+Matthew Anderson,29,Open,Squat,223
+Matthew Anderson,61,74 kg,Deadlift,290
+Jane Smith,49,59 kg,Bench Press,207
+Chris Brown,36,Open,Deadlift,273
+Daniel Lee,61,74 kg,Squat,282
+Chris Brown,56,120 kg,Bench Press,291
+Michael Johnson,40,93 kg,Deadlift,287
+Laura Taylor,25,83 kg,Deadlift,313
+Matthew Anderson,53,105 kg,Squat,386
+Jessica Wilson,37,83 kg,Deadlift,152
+Laura Taylor,23,74 kg,Bench Press,378
+Sarah Thomas,18,93 kg,Squat,153
+Sarah Thomas,61,120 kg,Bench Press,190
+Daniel Lee,19,66 kg,Bench Press,364
+Sarah Thomas,32,Open,Deadlift,251
+Sarah Thomas,36,93 kg,Squat,214
+Emily Davis,59,120 kg,Bench Press,393
+Sarah Thomas,24,74 kg,Deadlift,109
+Emily Davis,54,52 kg,Squat,389
+Laura Taylor,61,66 kg,Squat,192
+Michael Johnson,50,Open,Bench Press,238
+Matthew Anderson,29,93 kg,Deadlift,319
+Jane Smith,41,59 kg,Bench Press,242
+Emily Davis,42,105 kg,Bench Press,359
+Michael Johnson,26,Open,Squat,119
+Jane Smith,37,59 kg,Squat,304
+Laura Taylor,20,74 kg,Deadlift,155
+Matthew Anderson,46,120 kg,Squat,318
+Laura Taylor,56,52 kg,Bench Press,284
+Jessica Wilson,64,66 kg,Deadlift,103
+Laura Taylor,61,52 kg,Deadlift,109
+Laura Taylor,51,93 kg,Bench Press,205
+Jane Smith,31,83 kg,Squat,263
+Jessica Wilson,63,93 kg,Deadlift,206
+Daniel Lee,51,105 kg,Deadlift,231
+Jessica Wilson,28,120 kg,Squat,178
+Matthew Anderson,41,52 kg,Squat,380
+Matthew Anderson,31,120 kg,Squat,396
+Jane Smith,64,120 kg,Squat,172
+Jessica Wilson,48,83 kg,Bench Press,268
+Michael Johnson,18,Open,Squat,242
+Sarah Thomas,61,Open,Squat,364
+Jessica Wilson,25,83 kg,Deadlift,332
+Jane Smith,21,74 kg,Bench Press,212
+Matthew Anderson,64,74 kg,Squat,135
+Jane Smith,18,59 kg,Deadlift,249
+Laura Taylor,49,105 kg,Deadlift,231
+Matthew Anderson,26,66 kg,Bench Press,266
+Jessica Wilson,21,83 kg,Bench Press,314
+John Doe,29,105 kg,Bench Press,297
+Jane Smith,41,66 kg,Squat,225
+Sarah Thomas,38,93 kg,Bench Press,100
+Jessica Wilson,19,Open,Squat,148
+Jane Smith,24,Open,Deadlift,249
+Chris Brown,64,93 kg,Bench Press,147
+Sarah Thomas,22,52 kg,Squat,196
+Matthew Anderson,60,83 kg,Deadlift,130
+Michael Johnson,53,Open,Deadlift,278
+Matthew Anderson,40,66 kg,Squat,341
+Emily Davis,48,93 kg,Deadlift,103
+Emily Davis,56,52 kg,Bench Press,296
+Laura Taylor,29,83 kg,Bench Press,270
+Chris Brown,52,74 kg,Deadlift,253
+Matthew Anderson,21,120 kg,Squat,128
+Emily Davis,60,66 kg,Deadlift,149
+Emily Davis,18,66 kg,Bench Press,207
+Jane Smith,24,52 kg,Bench Press,302
+Laura Taylor,51,52 kg,Bench Press,162
+Jessica Wilson,47,Open,Squat,189
+Jessica Wilson,39,105 kg,Squat,345
+Laura Taylor,32,66 kg,Squat,216
+Laura Taylor,40,93 kg,Squat,341
+Emily Davis,45,59 kg,Deadlift,214
+Michael Johnson,21,120 kg,Deadlift,348
+Jane Smith,48,83 kg,Bench Press,397
+Michael Johnson,57,52 kg,Bench Press,286
+Sarah Thomas,64,74 kg,Bench Press,313
+Jessica Wilson,41,93 kg,Squat,355
+Matthew Anderson,42,105 kg,Deadlift,150
+Matthew Anderson,61,93 kg,Bench Press,202
+Matthew Anderson,31,93 kg,Deadlift,125
+Michael Johnson,50,59 kg,Squat,106
+Michael Johnson,50,52 kg,Squat,262
+Matthew Anderson,43,120 kg,Bench Press,393
+Chris Brown,27,74 kg,Squat,341
+Jane Smith,55,74 kg,Bench Press,202
+Jane Smith,62,59 kg,Deadlift,195
+John Doe,35,83 kg,Deadlift,298
+Michael Johnson,41,Open,Bench Press,364
+Jane Smith,53,93 kg,Bench Press,225
+Laura Taylor,53,Open,Squat,258
+John Doe,52,105 kg,Bench Press,266
+Michael Johnson,38,120 kg,Bench Press,102
+Sarah Thomas,23,93 kg,Squat,226
+Emily Davis,38,52 kg,Squat,222
+Chris Brown,24,83 kg,Deadlift,312
+Sarah Thomas,26,74 kg,Deadlift,182
+Emily Davis,18,Open,Squat,344
+John Doe,62,93 kg,Deadlift,319
+John Doe,43,105 kg,Deadlift,132
+Daniel Lee,56,93 kg,Deadlift,265
+Chris Brown,25,93 kg,Deadlift,165
+Emily Davis,27,52 kg,Squat,354
+Emily Davis,24,52 kg,Squat,266
+Jane Smith,47,120 kg,Squat,113
+John Doe,23,120 kg,Deadlift,269
+Laura Taylor,54,Open,Bench Press,361
+Matthew Anderson,47,66 kg,Deadlift,347
+Daniel Lee,57,59 kg,Bench Press,151
+Michael Johnson,37,120 kg,Squat,202
+Matthew Anderson,40,105 kg,Squat,367
+Matthew Anderson,21,52 kg,Squat,220
+Sarah Thomas,25,52 kg,Bench Press,164
+Daniel Lee,47,105 kg,Deadlift,337
+Chris Brown,38,93 kg,Bench Press,394
+Jane Smith,26,93 kg,Squat,206
+Matthew Anderson,36,120 kg,Squat,215
+Jessica Wilson,40,52 kg,Squat,244
+Chris Brown,40,52 kg,Bench Press,281
+Emily Davis,39,93 kg,Bench Press,284
+Jessica Wilson,64,93 kg,Deadlift,354
+Laura Taylor,57,59 kg,Squat,370
+Daniel Lee,52,93 kg,Squat,192
+Daniel Lee,52,59 kg,Bench Press,183
+Sarah Thomas,34,93 kg,Bench Press,236
+Emily Davis,31,120 kg,Squat,226
+Emily Davis,46,83 kg,Bench Press,183
+Michael Johnson,31,120 kg,Deadlift,352
+Laura Taylor,51,66 kg,Squat,260
+Emily Davis,44,52 kg,Bench Press,250
+Sarah Thomas,31,74 kg,Squat,372
+Sarah Thomas,28,Open,Deadlift,141
+Jessica Wilson,41,66 kg,Deadlift,259
+Sarah Thomas,39,66 kg,Squat,296
+Matthew Anderson,45,52 kg,Bench Press,120
+Emily Davis,63,74 kg,Squat,210
+Matthew Anderson,39,52 kg,Squat,177
+Jessica Wilson,49,120 kg,Bench Press,162
+Sarah Thomas,56,74 kg,Squat,372
+John Doe,36,120 kg,Squat,318
+Laura Taylor,45,59 kg,Deadlift,132
+John Doe,44,93 kg,Deadlift,298
+Jane Smith,41,93 kg,Bench Press,329
+Daniel Lee,25,120 kg,Deadlift,316
+Daniel Lee,31,52 kg,Bench Press,365
+Chris Brown,38,74 kg,Bench Press,376
+Jessica Wilson,48,74 kg,Bench Press,256
+Laura Taylor,53,105 kg,Squat,115
+Daniel Lee,28,52 kg,Deadlift,112
+John Doe,53,59 kg,Bench Press,144
+Jane Smith,23,120 kg,Bench Press,219
+Daniel Lee,55,105 kg,Squat,177
+Daniel Lee,40,Open,Deadlift,364
+Chris Brown,51,120 kg,Deadlift,330
+Michael Johnson,36,66 kg,Deadlift,230
+Michael Johnson,18,105 kg,Deadlift,390
+Chris Brown,49,59 kg,Deadlift,134
+Chris Brown,62,Open,Deadlift,103
+Emily Davis,48,83 kg,Squat,158
+Jane Smith,63,93 kg,Squat,334
+John Doe,20,Open,Squat,157
+Daniel Lee,39,66 kg,Deadlift,351
+Daniel Lee,36,59 kg,Deadlift,392
+John Doe,34,74 kg,Deadlift,286
+Sarah Thomas,53,59 kg,Squat,170
+Matthew Anderson,30,74 kg,Deadlift,185
+Sarah Thomas,26,Open,Deadlift,370
+Jessica Wilson,44,Open,Deadlift,114
+Michael Johnson,53,120 kg,Bench Press,309
+Sarah Thomas,27,83 kg,Bench Press,159
+Matthew Anderson,49,120 kg,Deadlift,198
+Chris Brown,62,59 kg,Squat,196
+Chris Brown,61,74 kg,Deadlift,154
+John Doe,18,52 kg,Squat,123
+Michael Johnson,63,52 kg,Bench Press,155
+Jessica Wilson,38,74 kg,Bench Press,148
+Laura Taylor,46,Open,Deadlift,250
+Laura Taylor,56,74 kg,Bench Press,186
+Jane Smith,54,59 kg,Deadlift,248
+Emily Davis,48,83 kg,Deadlift,241
+Michael Johnson,51,105 kg,Squat,162
+John Doe,53,105 kg,Squat,276
+Emily Davis,59,105 kg,Bench Press,390
+Michael Johnson,44,59 kg,Bench Press,329
+Michael Johnson,64,59 kg,Deadlift,134
+Michael Johnson,36,Open,Deadlift,238
+Emily Davis,42,120 kg,Bench Press,185
+Jessica Wilson,42,52 kg,Squat,270
+Jane Smith,32,105 kg,Squat,106
+Laura Taylor,46,105 kg,Bench Press,256
+Jessica Wilson,59,74 kg,Bench Press,291
+Emily Davis,37,74 kg,Bench Press,334
+Sarah Thomas,20,Open,Bench Press,280
+Emily Davis,60,66 kg,Bench Press,176
+John Doe,47,Open,Deadlift,339
+Daniel Lee,19,59 kg,Bench Press,148
+Emily Davis,39,74 kg,Deadlift,347
+Daniel Lee,35,83 kg,Bench Press,115
+Sarah Thomas,43,83 kg,Deadlift,116
+Jessica Wilson,32,74 kg,Bench Press,291
+Jane Smith,40,74 kg,Deadlift,137
+Sarah Thomas,33,74 kg,Squat,385
+Emily Davis,36,83 kg,Deadlift,190
+Emily Davis,29,120 kg,Squat,234
+Sarah Thomas,42,74 kg,Squat,314
+Laura Taylor,23,66 kg,Bench Press,325
+Matthew Anderson,61,59 kg,Deadlift,385
+Chris Brown,24,66 kg,Bench Press,175
+Laura Taylor,59,74 kg,Bench Press,236
+Matthew Anderson,61,66 kg,Bench Press,260
+Sarah Thomas,30,105 kg,Bench Press,371
+Chris Brown,30,93 kg,Squat,278
+Jane Smith,63,120 kg,Squat,308
+Jessica Wilson,55,105 kg,Deadlift,228
+John Doe,36,120 kg,Squat,173
+Emily Davis,27,59 kg,Deadlift,204
+Daniel Lee,26,66 kg,Squat,321
+Emily Davis,58,74 kg,Bench Press,150
+John Doe,26,Open,Squat,171
+Emily Davis,18,59 kg,Deadlift,198
+Daniel Lee,50,120 kg,Bench Press,380
+Sarah Thomas,30,66 kg,Deadlift,390
+Jessica Wilson,38,66 kg,Bench Press,244
+Jane Smith,33,120 kg,Deadlift,366
+Laura Taylor,41,Open,Deadlift,154
+Emily Davis,62,52 kg,Bench Press,342
+Chris Brown,35,74 kg,Deadlift,109
+Laura Taylor,41,105 kg,Bench Press,248
+John Doe,27,105 kg,Squat,119
+Emily Davis,63,120 kg,Deadlift,342
+Jessica Wilson,52,83 kg,Bench Press,378
+Daniel Lee,50,83 kg,Deadlift,341
+Daniel Lee,59,74 kg,Bench Press,163
+Laura Taylor,24,Open,Squat,217
+Chris Brown,45,120 kg,Deadlift,283
+Laura Taylor,53,66 kg,Bench Press,242
+Michael Johnson,37,Open,Deadlift,175
+John Doe,56,59 kg,Bench Press,126
+Jane Smith,19,66 kg,Bench Press,304
+Daniel Lee,51,93 kg,Bench Press,394
+Jessica Wilson,55,74 kg,Deadlift,133
+Sarah Thomas,51,59 kg,Deadlift,399
+Chris Brown,51,105 kg,Deadlift,143
+Matthew Anderson,21,59 kg,Bench Press,392
+Laura Taylor,40,Open,Bench Press,204
+Matthew Anderson,55,93 kg,Squat,145
+Daniel Lee,51,74 kg,Deadlift,260
+Jane Smith,21,74 kg,Squat,230
+Chris Brown,31,120 kg,Squat,358
+Matthew Anderson,52,105 kg,Deadlift,304
+Jessica Wilson,33,83 kg,Deadlift,379
+Jane Smith,61,93 kg,Bench Press,185
+Daniel Lee,51,93 kg,Deadlift,198
+Michael Johnson,48,66 kg,Bench Press,396
+Laura Taylor,59,74 kg,Squat,152
+Jessica Wilson,46,Open,Squat,304
+Laura Taylor,27,93 kg,Squat,293
+Sarah Thomas,29,74 kg,Deadlift,241
+Daniel Lee,43,83 kg,Bench Press,130
+Daniel Lee,27,105 kg,Bench Press,307
+Emily Davis,50,66 kg,Squat,156
+Sarah Thomas,39,Open,Deadlift,149
+Sarah Thomas,54,93 kg,Squat,329
+Emily Davis,29,93 kg,Bench Press,196
+Chris Brown,53,Open,Bench Press,383
+Chris Brown,62,Open,Squat,321
+Jane Smith,20,120 kg,Bench Press,264
+Emily Davis,50,59 kg,Squat,239
+Sarah Thomas,46,105 kg,Deadlift,182
+Jessica Wilson,54,Open,Deadlift,304
+Jane Smith,28,120 kg,Deadlift,313
+Sarah Thomas,53,Open,Bench Press,143
+Laura Taylor,47,93 kg,Deadlift,356
+Jessica Wilson,61,120 kg,Deadlift,205
+Chris Brown,59,52 kg,Bench Press,136
+Michael Johnson,41,Open,Bench Press,114
+John Doe,55,Open,Squat,151
+Matthew Anderson,47,74 kg,Squat,139
+Laura Taylor,51,66 kg,Deadlift,160
+Jane Smith,53,93 kg,Bench Press,246
+Jane Smith,60,120 kg,Deadlift,354
+Jane Smith,34,120 kg,Bench Press,314
+Sarah Thomas,38,105 kg,Bench Press,218
+Laura Taylor,51,52 kg,Squat,364
+Chris Brown,21,74 kg,Deadlift,348
+Matthew Anderson,49,66 kg,Bench Press,327
+Daniel Lee,63,83 kg,Bench Press,370
+Jane Smith,54,93 kg,Bench Press,279
+Michael Johnson,26,59 kg,Bench Press,205
+Matthew Anderson,42,59 kg,Deadlift,244
+Chris Brown,43,52 kg,Bench Press,206
+Laura Taylor,43,83 kg,Deadlift,374
+Sarah Thomas,55,83 kg,Bench Press,392
+Matthew Anderson,28,52 kg,Squat,350
+Matthew Anderson,50,66 kg,Bench Press,391
+Emily Davis,21,74 kg,Squat,296
+Michael Johnson,39,52 kg,Squat,346
+Jessica Wilson,58,Open,Bench Press,121
+Daniel Lee,31,66 kg,Bench Press,387
+Chris Brown,50,Open,Bench Press,234
+Jessica Wilson,60,Open,Squat,102
+Laura Taylor,23,93 kg,Deadlift,243
+Sarah Thomas,39,66 kg,Bench Press,287
+John Doe,58,105 kg,Bench Press,286
+Emily Davis,31,52 kg,Bench Press,350
+Jessica Wilson,45,83 kg,Squat,139
+Jessica Wilson,52,105 kg,Bench Press,388
+Laura Taylor,18,93 kg,Squat,316
+Matthew Anderson,62,120 kg,Squat,298
+John Doe,57,105 kg,Bench Press,344
+Michael Johnson,35,Open,Squat,332
+Daniel Lee,50,59 kg,Squat,237
+Jessica Wilson,50,52 kg,Squat,143
+Jane Smith,29,Open,Bench Press,113
+Jessica Wilson,60,83 kg,Deadlift,301
+Jane Smith,24,83 kg,Deadlift,220
+Sarah Thomas,36,93 kg,Bench Press,346
+Michael Johnson,51,83 kg,Deadlift,241
+Emily Davis,23,59 kg,Bench Press,304
+John Doe,35,74 kg,Deadlift,222
+Emily Davis,28,93 kg,Bench Press,393
+John Doe,30,74 kg,Bench Press,304
+Jane Smith,59,120 kg,Bench Press,178
+Michael Johnson,35,Open,Bench Press,383
+Michael Johnson,49,59 kg,Squat,375
+Emily Davis,21,59 kg,Squat,377
+Chris Brown,58,66 kg,Bench Press,106
+Jessica Wilson,52,66 kg,Deadlift,199
+Matthew Anderson,60,120 kg,Bench Press,345
+Jessica Wilson,48,93 kg,Squat,394
+Jane Smith,24,105 kg,Deadlift,119
+Daniel Lee,18,52 kg,Deadlift,360
+Jane Smith,22,Open,Squat,308
+Sarah Thomas,22,93 kg,Bench Press,309
+Daniel Lee,62,83 kg,Squat,266
+Jane Smith,18,93 kg,Bench Press,177
+Jessica Wilson,53,66 kg,Squat,335
+Daniel Lee,40,105 kg,Bench Press,265
+Michael Johnson,48,93 kg,Bench Press,381
+Michael Johnson,57,105 kg,Bench Press,113
+Sarah Thomas,47,105 kg,Deadlift,393
+Michael Johnson,40,59 kg,Deadlift,398
+Matthew Anderson,41,66 kg,Squat,332
+Daniel Lee,44,74 kg,Squat,360
+Emily Davis,29,66 kg,Deadlift,190
+Chris Brown,20,93 kg,Deadlift,341
+Jane Smith,39,66 kg,Bench Press,142
+Daniel Lee,30,66 kg,Squat,311
+Daniel Lee,34,74 kg,Bench Press,276
+Matthew Anderson,20,52 kg,Squat,136
+Matthew Anderson,45,52 kg,Bench Press,322
+Matthew Anderson,30,93 kg,Deadlift,158
+Jessica Wilson,59,120 kg,Deadlift,122
+Michael Johnson,53,74 kg,Bench Press,165
+Michael Johnson,18,52 kg,Deadlift,216
+Jessica Wilson,31,93 kg,Bench Press,244
+Sarah Thomas,55,83 kg,Bench Press,324
+Jessica Wilson,36,59 kg,Squat,308
+Chris Brown,53,52 kg,Deadlift,238
+Jane Smith,28,52 kg,Squat,121
+Jane Smith,37,52 kg,Deadlift,328
+Matthew Anderson,62,83 kg,Squat,340
+Matthew Anderson,45,83 kg,Bench Press,160
+Emily Davis,27,52 kg,Squat,314
+John Doe,56,Open,Bench Press,117
+Sarah Thomas,30,120 kg,Bench Press,177
+Michael Johnson,56,59 kg,Bench Press,347
+Sarah Thomas,56,Open,Squat,334
+Emily Davis,23,105 kg,Bench Press,168
+Daniel Lee,40,83 kg,Deadlift,188
+Chris Brown,30,Open,Squat,142
+Laura Taylor,20,105 kg,Deadlift,174
+Jessica Wilson,18,83 kg,Squat,357
+Jessica Wilson,42,120 kg,Bench Press,378
+Emily Davis,60,52 kg,Squat,237
+Matthew Anderson,47,83 kg,Bench Press,320
+Laura Taylor,46,74 kg,Squat,351
+Jane Smith,50,83 kg,Deadlift,333
+Laura Taylor,22,105 kg,Bench Press,350
+Jessica Wilson,26,59 kg,Bench Press,203
+Chris Brown,36,74 kg,Bench Press,190
+John Doe,63,66 kg,Bench Press,364
+Jessica Wilson,46,Open,Deadlift,157
+Laura Taylor,25,93 kg,Bench Press,144
+Matthew Anderson,26,52 kg,Deadlift,185
+Jane Smith,34,105 kg,Bench Press,245
+Daniel Lee,40,120 kg,Deadlift,233
+Daniel Lee,60,Open,Squat,393
+Sarah Thomas,33,66 kg,Bench Press,255
+John Doe,38,Open,Squat,161
+Michael Johnson,39,105 kg,Bench Press,288
+Matthew Anderson,41,83 kg,Deadlift,284
+Daniel Lee,51,Open,Bench Press,304
+Daniel Lee,20,93 kg,Squat,175
+Emily Davis,44,83 kg,Deadlift,255
+Chris Brown,29,120 kg,Deadlift,216
+Chris Brown,42,52 kg,Squat,309
+Chris Brown,33,83 kg,Squat,310
+Jane Smith,43,Open,Deadlift,307
+Chris Brown,23,59 kg,Deadlift,360
+Emily Davis,40,59 kg,Squat,116
+Matthew Anderson,52,120 kg,Bench Press,172
+Sarah Thomas,47,Open,Squat,239
+Michael Johnson,30,120 kg,Squat,142
+Jane Smith,62,93 kg,Bench Press,368
+Laura Taylor,38,93 kg,Bench Press,225
+Matthew Anderson,64,83 kg,Deadlift,392
+Emily Davis,51,Open,Bench Press,122
+Emily Davis,29,59 kg,Squat,224
+Sarah Thomas,64,120 kg,Deadlift,271
+John Doe,48,59 kg,Squat,224
+Laura Taylor,64,93 kg,Bench Press,227
+Laura Taylor,29,59 kg,Squat,223
+Jessica Wilson,24,74 kg,Bench Press,315
+Emily Davis,49,52 kg,Deadlift,280
+Laura Taylor,52,66 kg,Squat,155
+Matthew Anderson,59,120 kg,Bench Press,243
+Jessica Wilson,39,83 kg,Bench Press,158
+Jessica Wilson,28,59 kg,Deadlift,353
+Jane Smith,45,66 kg,Squat,289
+Laura Taylor,35,74 kg,Bench Press,239
+Daniel Lee,56,105 kg,Deadlift,206
+Jane Smith,24,Open,Squat,243
+Matthew Anderson,29,93 kg,Squat,193
+Jane Smith,47,105 kg,Bench Press,116
+Michael Johnson,31,59 kg,Deadlift,129
+John Doe,64,52 kg,Squat,193
+Michael Johnson,37,52 kg,Squat,161
+Chris Brown,25,59 kg,Squat,347
+Chris Brown,34,93 kg,Bench Press,395
+Matthew Anderson,24,120 kg,Deadlift,358
+Chris Brown,58,120 kg,Bench Press,276
+Laura Taylor,33,52 kg,Bench Press,354
+Jessica Wilson,20,83 kg,Deadlift,375
+Michael Johnson,28,83 kg,Squat,299
+Emily Davis,59,74 kg,Bench Press,174
+John Doe,60,Open,Bench Press,220
+Laura Taylor,58,120 kg,Bench Press,336
+Sarah Thomas,47,120 kg,Squat,122
+Daniel Lee,28,83 kg,Deadlift,334
+Sarah Thomas,28,66 kg,Bench Press,338
+Matthew Anderson,49,66 kg,Squat,227
+Jane Smith,35,66 kg,Deadlift,173
+Laura Taylor,53,83 kg,Deadlift,133
+Daniel Lee,54,59 kg,Squat,318
+Matthew Anderson,54,66 kg,Squat,236
+Chris Brown,35,83 kg,Deadlift,257
+Emily Davis,39,83 kg,Squat,277
+Jessica Wilson,45,66 kg,Bench Press,345
+Michael Johnson,43,120 kg,Deadlift,282
+John Doe,26,74 kg,Bench Press,246
+Jane Smith,51,66 kg,Bench Press,358
+Chris Brown,27,59 kg,Deadlift,238
+John Doe,29,120 kg,Deadlift,317
+Jessica Wilson,46,52 kg,Deadlift,256
+Matthew Anderson,34,83 kg,Bench Press,153
+Emily Davis,20,83 kg,Bench Press,331
+Sarah Thomas,26,93 kg,Bench Press,185
+Jane Smith,51,83 kg,Squat,186
+Jessica Wilson,32,74 kg,Deadlift,161
+Sarah Thomas,58,66 kg,Squat,310
+John Doe,19,59 kg,Squat,228
+Matthew Anderson,64,93 kg,Squat,287
+Jane Smith,49,74 kg,Squat,109
+Daniel Lee,40,93 kg,Deadlift,391
+Sarah Thomas,63,120 kg,Deadlift,192
+Laura Taylor,18,74 kg,Deadlift,100
+Jane Smith,30,Open,Squat,311
+Chris Brown,58,93 kg,Deadlift,390
+Sarah Thomas,18,120 kg,Squat,188
+Matthew Anderson,46,Open,Squat,209
+Daniel Lee,49,74 kg,Deadlift,361
+Laura Taylor,46,93 kg,Bench Press,269
+Jessica Wilson,37,93 kg,Bench Press,172
+Laura Taylor,50,83 kg,Squat,294
+Matthew Anderson,60,74 kg,Bench Press,219
+Jessica Wilson,61,Open,Bench Press,342
+Jane Smith,22,Open,Bench Press,316
+Chris Brown,35,52 kg,Bench Press,333
+Laura Taylor,47,83 kg,Bench Press,254
+Matthew Anderson,56,66 kg,Bench Press,182
+Laura Taylor,44,93 kg,Bench Press,137
+Laura Taylor,43,66 kg,Deadlift,142
+Sarah Thomas,36,93 kg,Bench Press,354
+Sarah Thomas,38,59 kg,Squat,307
+John Doe,59,Open,Bench Press,245
+Daniel Lee,25,Open,Bench Press,243
+Emily Davis,52,74 kg,Squat,341
+Laura Taylor,46,105 kg,Deadlift,228
+Michael Johnson,50,66 kg,Squat,205
+Daniel Lee,56,93 kg,Squat,314
+Emily Davis,30,Open,Bench Press,263
+Jessica Wilson,42,66 kg,Deadlift,225
+Matthew Anderson,64,93 kg,Squat,132
+Sarah Thomas,64,52 kg,Deadlift,388
+Jessica Wilson,25,120 kg,Squat,305
+John Doe,27,52 kg,Bench Press,249
+Daniel Lee,57,Open,Bench Press,250
+Sarah Thomas,63,66 kg,Squat,110
+Jane Smith,51,83 kg,Deadlift,121
+Chris Brown,48,59 kg,Squat,229
+Laura Taylor,53,52 kg,Deadlift,327
+Jessica Wilson,52,59 kg,Deadlift,103
+Michael Johnson,57,83 kg,Deadlift,218
+Daniel Lee,20,59 kg,Squat,313
+Chris Brown,47,Open,Squat,371
+Laura Taylor,57,Open,Squat,124
+Emily Davis,40,66 kg,Bench Press,336
+Daniel Lee,53,59 kg,Squat,291
+Laura Taylor,18,105 kg,Squat,133
+John Doe,44,66 kg,Bench Press,235
+Daniel Lee,22,93 kg,Deadlift,255
+Chris Brown,61,74 kg,Bench Press,190
+Michael Johnson,27,59 kg,Deadlift,313
+Emily Davis,24,120 kg,Squat,153
+Michael Johnson,47,Open,Squat,151
+John Doe,23,59 kg,Bench Press,189
+Sarah Thomas,19,52 kg,Squat,319
+Jessica Wilson,40,66 kg,Bench Press,365
+Matthew Anderson,44,52 kg,Squat,157
+Jane Smith,47,52 kg,Deadlift,282
+John Doe,23,59 kg,Squat,276
+Sarah Thomas,34,93 kg,Squat,276
+Jessica Wilson,44,83 kg,Squat,271
+Sarah Thomas,62,93 kg,Bench Press,286
+Michael Johnson,44,83 kg,Bench Press,372
+Jane Smith,32,66 kg,Bench Press,201
+Emily Davis,42,93 kg,Squat,272
+John Doe,26,83 kg,Squat,366
+Daniel Lee,37,105 kg,Bench Press,267
+John Doe,47,83 kg,Squat,145
+Laura Taylor,29,59 kg,Deadlift,193
+Sarah Thomas,64,Open,Bench Press,223
+Emily Davis,39,105 kg,Deadlift,233
+Matthew Anderson,20,105 kg,Squat,230
+Chris Brown,44,120 kg,Deadlift,118
+Chris Brown,61,105 kg,Deadlift,202
+Jessica Wilson,22,52 kg,Bench Press,195
+Jane Smith,40,83 kg,Squat,148
+Daniel Lee,36,74 kg,Deadlift,236
+Matthew Anderson,56,120 kg,Squat,119
+Daniel Lee,19,66 kg,Deadlift,350
+Jane Smith,22,105 kg,Squat,187
+Chris Brown,57,52 kg,Squat,233
+Chris Brown,37,66 kg,Squat,290
+Sarah Thomas,45,105 kg,Squat,384
+Matthew Anderson,25,Open,Deadlift,389
+Daniel Lee,47,120 kg,Bench Press,293
+Michael Johnson,52,59 kg,Squat,158
+Emily Davis,42,59 kg,Deadlift,167
+Matthew Anderson,30,52 kg,Deadlift,306
+John Doe,23,59 kg,Deadlift,234
+Jessica Wilson,62,83 kg,Bench Press,345
+Matthew Anderson,31,59 kg,Deadlift,255
+Laura Taylor,56,52 kg,Bench Press,246
+Jessica Wilson,33,74 kg,Deadlift,193
+Daniel Lee,18,Open,Bench Press,277
+Jessica Wilson,22,83 kg,Squat,175
+Laura Taylor,63,59 kg,Bench Press,273
+Chris Brown,40,83 kg,Bench Press,355
+Michael Johnson,48,105 kg,Bench Press,111
+Daniel Lee,50,83 kg,Bench Press,122
+Daniel Lee,49,66 kg,Deadlift,254
+Matthew Anderson,63,120 kg,Bench Press,263
+Jane Smith,54,83 kg,Deadlift,186
+John Doe,21,66 kg,Bench Press,188
+Jessica Wilson,53,93 kg,Deadlift,177
+John Doe,37,66 kg,Bench Press,370
+Jane Smith,52,105 kg,Squat,383
+Chris Brown,35,93 kg,Squat,171
+Jane Smith,62,Open,Bench Press,252
+Sarah Thomas,21,Open,Bench Press,222
+John Doe,26,120 kg,Bench Press,225
+Emily Davis,19,Open,Bench Press,215
+Sarah Thomas,33,Open,Squat,393
+Emily Davis,59,52 kg,Bench Press,152
+John Doe,26,59 kg,Squat,101
+Matthew Anderson,40,120 kg,Deadlift,271
+Michael Johnson,28,Open,Squat,231
+Jessica Wilson,62,93 kg,Bench Press,131
+Chris Brown,30,66 kg,Deadlift,120
+Michael Johnson,21,Open,Squat,116
+Chris Brown,40,Open,Squat,170
+Michael Johnson,30,120 kg,Bench Press,109
+John Doe,43,74 kg,Deadlift,394
+Jane Smith,44,105 kg,Squat,386
+Jessica Wilson,58,52 kg,Deadlift,252
+Jessica Wilson,59,93 kg,Bench Press,269
+Matthew Anderson,18,52 kg,Bench Press,150
+John Doe,56,59 kg,Bench Press,172
+John Doe,45,Open,Bench Press,395
+Jessica Wilson,58,74 kg,Bench Press,222
+Laura Taylor,54,105 kg,Deadlift,293
+Emily Davis,39,83 kg,Deadlift,215
+Daniel Lee,39,52 kg,Deadlift,319
+John Doe,24,74 kg,Bench Press,332
+Michael Johnson,30,74 kg,Deadlift,137
+John Doe,25,93 kg,Bench Press,261
+Jessica Wilson,21,105 kg,Deadlift,132
+Jane Smith,28,52 kg,Bench Press,232
+Laura Taylor,45,93 kg,Deadlift,385
+Emily Davis,42,83 kg,Deadlift,229
+Michael Johnson,64,52 kg,Squat,290
+Emily Davis,27,66 kg,Squat,153
+Michael Johnson,62,83 kg,Squat,110
+Emily Davis,62,93 kg,Bench Press,298
+Laura Taylor,54,59 kg,Deadlift,190
+Laura Taylor,26,52 kg,Deadlift,141
+Jane Smith,27,120 kg,Squat,386
+Chris Brown,53,105 kg,Squat,216
+Daniel Lee,19,74 kg,Squat,304
+Laura Taylor,56,Open,Deadlift,233
+John Doe,38,59 kg,Deadlift,123
+John Doe,63,66 kg,Deadlift,324
+Daniel Lee,43,105 kg,Deadlift,169
+Chris Brown,62,52 kg,Bench Press,326
+Chris Brown,43,93 kg,Deadlift,252
+Jessica Wilson,23,83 kg,Bench Press,381
+Jane Smith,18,52 kg,Squat,233
+Michael Johnson,57,93 kg,Squat,399
+Daniel Lee,24,Open,Deadlift,248
+Matthew Anderson,24,105 kg,Bench Press,329
+Michael Johnson,57,66 kg,Bench Press,112
+Sarah Thomas,35,66 kg,Bench Press,393
+Sarah Thomas,29,74 kg,Deadlift,308
+Jessica Wilson,35,105 kg,Squat,274
+Jessica Wilson,55,66 kg,Bench Press,206
+Matthew Anderson,48,66 kg,Deadlift,328
+Jessica Wilson,27,120 kg,Bench Press,326
+Sarah Thomas,30,Open,Squat,164
+Jane Smith,35,105 kg,Bench Press,278
+Sarah Thomas,54,52 kg,Squat,189
+Chris Brown,50,Open,Bench Press,146
+Daniel Lee,21,52 kg,Squat,233
+Sarah Thomas,30,Open,Deadlift,128
+Matthew Anderson,55,52 kg,Deadlift,304
+John Doe,25,83 kg,Bench Press,276
+Jessica Wilson,64,120 kg,Squat,330
+Daniel Lee,23,120 kg,Deadlift,311
+John Doe,35,120 kg,Bench Press,141
+Daniel Lee,36,52 kg,Deadlift,268
+John Doe,36,74 kg,Squat,355
+Daniel Lee,35,66 kg,Bench Press,125
+Laura Taylor,51,83 kg,Deadlift,186
+Jane Smith,28,93 kg,Squat,399
+Jane Smith,27,93 kg,Deadlift,138
+Jessica Wilson,44,66 kg,Bench Press,345
+John Doe,22,83 kg,Bench Press,125
+Daniel Lee,58,Open,Bench Press,156
+Chris Brown,43,52 kg,Deadlift,357
+Chris Brown,55,52 kg,Bench Press,294
+Chris Brown,25,59 kg,Bench Press,238
+Laura Taylor,51,83 kg,Squat,337
+Michael Johnson,35,59 kg,Squat,282
+Jane Smith,57,74 kg,Bench Press,399
+Chris Brown,35,Open,Deadlift,369
+Sarah Thomas,56,Open,Deadlift,337
+Matthew Anderson,26,74 kg,Deadlift,101
+Chris Brown,56,93 kg,Squat,355
+Chris Brown,41,Open,Bench Press,352
+Laura Taylor,52,66 kg,Deadlift,393
+John Doe,55,74 kg,Deadlift,328
+Laura Taylor,45,Open,Bench Press,221
+Matthew Anderson,22,52 kg,Deadlift,396
+Sarah Thomas,20,93 kg,Deadlift,339
+Sarah Thomas,63,Open,Bench Press,254
+Jessica Wilson,43,52 kg,Squat,335
+Michael Johnson,24,52 kg,Squat,317
+Daniel Lee,28,52 kg,Squat,189
+Sarah Thomas,37,93 kg,Deadlift,157
+Jessica Wilson,63,93 kg,Squat,290
+Daniel Lee,33,120 kg,Deadlift,234
+Jessica Wilson,38,120 kg,Squat,158
+Emily Davis,33,Open,Squat,146
+Emily Davis,53,52 kg,Squat,305
+John Doe,25,120 kg,Bench Press,315
+Emily Davis,58,66 kg,Deadlift,336
+Chris Brown,54,83 kg,Deadlift,127
+Jane Smith,46,59 kg,Deadlift,253
+John Doe,62,105 kg,Deadlift,325
+Sarah Thomas,64,120 kg,Squat,283
+Sarah Thomas,27,66 kg,Squat,387
+Emily Davis,54,105 kg,Squat,221
+Sarah Thomas,41,74 kg,Bench Press,110
+Emily Davis,53,74 kg,Deadlift,283
+Chris Brown,46,105 kg,Squat,300
+Daniel Lee,36,59 kg,Deadlift,266
+Jessica Wilson,32,93 kg,Bench Press,236
+Laura Taylor,57,83 kg,Squat,152
+Jane Smith,38,74 kg,Squat,167
+Jessica Wilson,54,83 kg,Deadlift,205
+Laura Taylor,26,59 kg,Bench Press,290
+Daniel Lee,57,52 kg,Bench Press,373
+Daniel Lee,31,59 kg,Deadlift,245
+Daniel Lee,61,52 kg,Squat,238
+Jane Smith,58,52 kg,Deadlift,296
+Matthew Anderson,39,93 kg,Bench Press,321
+Chris Brown,50,83 kg,Squat,132
+Michael Johnson,50,93 kg,Deadlift,284
+John Doe,48,66 kg,Bench Press,177
+Michael Johnson,27,52 kg,Bench Press,257
+Matthew Anderson,45,105 kg,Deadlift,311
+Emily Davis,46,83 kg,Squat,336
+Laura Taylor,61,83 kg,Deadlift,111
+Michael Johnson,41,66 kg,Deadlift,265
+Jane Smith,46,Open,Bench Press,359
+Chris Brown,20,105 kg,Squat,166
+Chris Brown,38,120 kg,Squat,222
+Chris Brown,40,120 kg,Deadlift,373
+Michael Johnson,50,105 kg,Bench Press,293
+Chris Brown,25,105 kg,Squat,357
+Matthew Anderson,39,52 kg,Squat,367
+Laura Taylor,38,120 kg,Deadlift,230
+Sarah Thomas,37,93 kg,Squat,380
+Matthew Anderson,43,Open,Bench Press,283
+Sarah Thomas,55,Open,Bench Press,385
+Jessica Wilson,42,52 kg,Deadlift,272
+Sarah Thomas,37,Open,Squat,296
+Jane Smith,60,120 kg,Deadlift,386
+Matthew Anderson,31,83 kg,Bench Press,380
+Matthew Anderson,62,52 kg,Squat,120
+Daniel Lee,45,52 kg,Deadlift,216
+John Doe,40,120 kg,Squat,367
+John Doe,45,93 kg,Squat,193
+Michael Johnson,21,52 kg,Bench Press,338
+Emily Davis,51,120 kg,Deadlift,261
+Michael Johnson,47,66 kg,Squat,103
+Jane Smith,39,66 kg,Deadlift,271
+Sarah Thomas,20,52 kg,Deadlift,124
+Jessica Wilson,56,105 kg,Deadlift,341
+Daniel Lee,42,105 kg,Squat,345
+Jane Smith,35,120 kg,Deadlift,115
+Matthew Anderson,31,66 kg,Bench Press,217
+Laura Taylor,27,59 kg,Deadlift,250
+Laura Taylor,59,93 kg,Deadlift,180
+Emily Davis,43,83 kg,Squat,208
+Chris Brown,55,74 kg,Squat,225
+Sarah Thomas,32,120 kg,Squat,347
+Daniel Lee,47,93 kg,Bench Press,292
+Sarah Thomas,25,93 kg,Squat,296
+Daniel Lee,45,83 kg,Squat,106
+Chris Brown,46,83 kg,Bench Press,350
+Jane Smith,40,74 kg,Bench Press,311
+Michael Johnson,22,93 kg,Deadlift,116
+John Doe,21,93 kg,Deadlift,181
+John Doe,42,74 kg,Deadlift,176
+Laura Taylor,57,74 kg,Deadlift,282
+Daniel Lee,44,74 kg,Squat,396
+Michael Johnson,27,105 kg,Squat,127
+Sarah Thomas,59,66 kg,Deadlift,134
+Matthew Anderson,25,105 kg,Deadlift,370
+Matthew Anderson,38,120 kg,Squat,364
+Michael Johnson,29,83 kg,Deadlift,152
+Jane Smith,24,105 kg,Squat,318
+Michael Johnson,46,83 kg,Squat,315
+Laura Taylor,63,Open,Squat,121
+Daniel Lee,20,52 kg,Squat,304
+Daniel Lee,57,Open,Bench Press,202
+Michael Johnson,45,Open,Bench Press,250
+Jane Smith,49,66 kg,Deadlift,267
+Jessica Wilson,53,105 kg,Bench Press,389
+Daniel Lee,30,74 kg,Bench Press,345
+Sarah Thomas,18,105 kg,Squat,351
+Sarah Thomas,41,66 kg,Squat,283
+Emily Davis,23,83 kg,Squat,187
+Sarah Thomas,18,66 kg,Deadlift,320
+Chris Brown,53,93 kg,Bench Press,370
+Michael Johnson,28,52 kg,Deadlift,289
+Jane Smith,47,93 kg,Deadlift,267
+Daniel Lee,35,83 kg,Squat,345
+John Doe,58,Open,Deadlift,162
+Michael Johnson,36,93 kg,Squat,214
+Daniel Lee,28,59 kg,Bench Press,346
+Emily Davis,37,120 kg,Deadlift,243
+Laura Taylor,55,52 kg,Deadlift,364
+Jessica Wilson,31,105 kg,Bench Press,115
+Michael Johnson,21,66 kg,Deadlift,182
+Daniel Lee,54,66 kg,Bench Press,287
+Daniel Lee,21,105 kg,Squat,164
+Jane Smith,53,52 kg,Squat,155
+Sarah Thomas,25,66 kg,Bench Press,277
+John Doe,28,93 kg,Deadlift,322
+Jane Smith,38,59 kg,Bench Press,102
+Emily Davis,46,Open,Deadlift,357
+Emily Davis,26,52 kg,Squat,212
+Jane Smith,26,105 kg,Deadlift,136
+Emily Davis,35,105 kg,Deadlift,113
+Chris Brown,35,93 kg,Deadlift,263
+Emily Davis,23,74 kg,Bench Press,345
+Sarah Thomas,49,74 kg,Deadlift,371
+Sarah Thomas,47,105 kg,Squat,278
+Jessica Wilson,34,59 kg,Squat,141
+Daniel Lee,40,83 kg,Deadlift,104
+Matthew Anderson,53,105 kg,Deadlift,352
+Sarah Thomas,53,66 kg,Squat,208
+Jessica Wilson,34,105 kg,Bench Press,208
+Jessica Wilson,45,66 kg,Squat,142
+Matthew Anderson,50,66 kg,Squat,177
+Chris Brown,20,74 kg,Squat,196
+Jessica Wilson,29,66 kg,Squat,276
+John Doe,36,59 kg,Squat,129
+Emily Davis,42,52 kg,Bench Press,167
+Jane Smith,42,120 kg,Squat,169
+Daniel Lee,18,59 kg,Bench Press,255
+Matthew Anderson,63,83 kg,Bench Press,152
+Daniel Lee,26,120 kg,Bench Press,338
+Emily Davis,41,59 kg,Bench Press,362
+Chris Brown,19,59 kg,Squat,368
+Jessica Wilson,47,59 kg,Squat,291
+Matthew Anderson,56,120 kg,Bench Press,108
+Michael Johnson,56,83 kg,Deadlift,134
+Sarah Thomas,62,105 kg,Squat,359
+Emily Davis,35,93 kg,Deadlift,261
+Michael Johnson,37,Open,Bench Press,247
+Sarah Thomas,43,93 kg,Bench Press,231
+Jane Smith,23,93 kg,Squat,337
+Jane Smith,64,Open,Deadlift,193
+Matthew Anderson,39,Open,Squat,382
+Daniel Lee,52,93 kg,Squat,319
+Emily Davis,51,59 kg,Squat,250
+Michael Johnson,56,66 kg,Deadlift,177
+Michael Johnson,45,52 kg,Bench Press,318
+Chris Brown,59,Open,Bench Press,342
+Laura Taylor,55,120 kg,Deadlift,138
+Michael Johnson,22,Open,Squat,277
+Chris Brown,37,105 kg,Bench Press,330
+Chris Brown,51,93 kg,Deadlift,237
+Sarah Thomas,39,83 kg,Bench Press,331
+Jane Smith,22,105 kg,Squat,284
+Jessica Wilson,43,66 kg,Deadlift,289
+Emily Davis,25,59 kg,Bench Press,236
+Laura Taylor,54,66 kg,Bench Press,244
+Chris Brown,49,Open,Bench Press,323
+Michael Johnson,20,Open,Squat,207
+John Doe,43,83 kg,Bench Press,348
+Sarah Thomas,30,105 kg,Bench Press,342
+Michael Johnson,23,66 kg,Deadlift,231
+Michael Johnson,53,83 kg,Squat,159
+Sarah Thomas,48,83 kg,Deadlift,188
+Daniel Lee,27,93 kg,Deadlift,111
+Matthew Anderson,35,93 kg,Deadlift,221
+Sarah Thomas,47,93 kg,Squat,336
+Jane Smith,29,120 kg,Bench Press,135
+Jane Smith,52,74 kg,Squat,347
+Jane Smith,61,59 kg,Bench Press,126
+John Doe,61,52 kg,Deadlift,215
+Jane Smith,51,120 kg,Squat,276
+Laura Taylor,46,52 kg,Deadlift,230
+John Doe,40,105 kg,Squat,211
+Daniel Lee,43,120 kg,Bench Press,111
+Jessica Wilson,45,59 kg,Bench Press,142
+Sarah Thomas,35,105 kg,Bench Press,121
+Matthew Anderson,51,Open,Deadlift,226
+Jessica Wilson,51,66 kg,Deadlift,377
+Daniel Lee,43,66 kg,Deadlift,180
+Matthew Anderson,38,93 kg,Squat,364
+Jane Smith,25,93 kg,Deadlift,315
+Chris Brown,18,74 kg,Deadlift,313
+Jessica Wilson,30,Open,Deadlift,339
+Sarah Thomas,25,59 kg,Bench Press,111
+John Doe,62,105 kg,Deadlift,263
+Jessica Wilson,41,83 kg,Squat,326
+Daniel Lee,56,66 kg,Bench Press,132
+Sarah Thomas,20,93 kg,Squat,197
+Jane Smith,27,120 kg,Bench Press,207
+Jane Smith,48,105 kg,Bench Press,352
+Emily Davis,44,59 kg,Deadlift,153
+Jane Smith,30,Open,Bench Press,332
+Daniel Lee,36,59 kg,Deadlift,156
+John Doe,57,Open,Bench Press,289
+Laura Taylor,47,52 kg,Squat,166
+Daniel Lee,64,52 kg,Squat,192
+Chris Brown,56,74 kg,Bench Press,132
+Sarah Thomas,24,120 kg,Deadlift,363
+Michael Johnson,20,Open,Bench Press,353
+Emily Davis,31,93 kg,Bench Press,243
+Daniel Lee,34,105 kg,Deadlift,207
+Daniel Lee,49,83 kg,Bench Press,322
+Michael Johnson,26,105 kg,Squat,309
+Jane Smith,59,120 kg,Deadlift,305
+Laura Taylor,57,59 kg,Squat,300
+Matthew Anderson,49,83 kg,Bench Press,264
+Matthew Anderson,43,83 kg,Deadlift,200
+Chris Brown,36,59 kg,Bench Press,254
+Michael Johnson,37,74 kg,Bench Press,137
+Sarah Thomas,46,52 kg,Deadlift,278
+Matthew Anderson,19,59 kg,Squat,208
+John Doe,44,93 kg,Squat,262
+Emily Davis,48,74 kg,Squat,110
+John Doe,39,Open,Squat,323
+Jessica Wilson,29,52 kg,Bench Press,371
+Laura Taylor,53,93 kg,Bench Press,145
+Laura Taylor,52,120 kg,Deadlift,270
+Chris Brown,18,66 kg,Squat,379
+Matthew Anderson,42,83 kg,Bench Press,367
+Michael Johnson,64,Open,Bench Press,110
+Sarah Thomas,50,59 kg,Deadlift,167
+Jessica Wilson,58,66 kg,Squat,392
+Jane Smith,22,105 kg,Bench Press,300
+Laura Taylor,47,105 kg,Bench Press,268
+Laura Taylor,36,93 kg,Squat,389
+Jane Smith,55,66 kg,Deadlift,118
+Jessica Wilson,57,83 kg,Bench Press,227
+John Doe,20,120 kg,Bench Press,121
+Laura Taylor,51,105 kg,Deadlift,284
+Matthew Anderson,43,59 kg,Squat,151
+Chris Brown,45,66 kg,Deadlift,337
+Jessica Wilson,63,66 kg,Deadlift,314
+Michael Johnson,40,93 kg,Squat,306
+John Doe,60,66 kg,Bench Press,317
+Matthew Anderson,24,120 kg,Squat,113
+Daniel Lee,47,120 kg,Bench Press,350
+Jessica Wilson,50,120 kg,Squat,129
+Emily Davis,57,66 kg,Squat,274
+Matthew Anderson,41,83 kg,Squat,273
+Sarah Thomas,55,52 kg,Deadlift,317
+John Doe,28,74 kg,Bench Press,108
+Laura Taylor,27,105 kg,Deadlift,349
+Michael Johnson,19,59 kg,Squat,276
+Matthew Anderson,18,59 kg,Deadlift,350
+Laura Taylor,21,120 kg,Squat,292
+Daniel Lee,43,120 kg,Squat,166
+John Doe,58,74 kg,Deadlift,161
+Jessica Wilson,30,74 kg,Bench Press,111
+Michael Johnson,21,Open,Squat,387
+Daniel Lee,52,Open,Squat,389
+Matthew Anderson,45,Open,Squat,184
+Chris Brown,19,66 kg,Squat,301
+John Doe,26,93 kg,Deadlift,247
+Emily Davis,56,59 kg,Squat,285
+Chris Brown,51,83 kg,Bench Press,352
+Jane Smith,61,105 kg,Deadlift,317
+Matthew Anderson,49,59 kg,Deadlift,214
+Michael Johnson,47,Open,Squat,298
+Matthew Anderson,63,59 kg,Bench Press,391
+Sarah Thomas,31,74 kg,Bench Press,180
+Matthew Anderson,32,Open,Deadlift,133
+Laura Taylor,46,74 kg,Deadlift,288
+Sarah Thomas,34,83 kg,Deadlift,367
+Emily Davis,53,Open,Deadlift,271
+Daniel Lee,42,83 kg,Deadlift,310
+Emily Davis,63,83 kg,Bench Press,290
+Laura Taylor,24,120 kg,Squat,219
+Laura Taylor,36,Open,Deadlift,244
+Michael Johnson,51,59 kg,Bench Press,356
+Laura Taylor,26,93 kg,Bench Press,369
+Matthew Anderson,32,93 kg,Bench Press,148
+Chris Brown,36,105 kg,Bench Press,356
+Emily Davis,59,66 kg,Deadlift,173
+John Doe,57,59 kg,Deadlift,253
+Michael Johnson,42,105 kg,Deadlift,204
+Jessica Wilson,30,Open,Deadlift,158
+Chris Brown,27,83 kg,Deadlift,114
+Michael Johnson,51,59 kg,Bench Press,313
+Laura Taylor,51,120 kg,Bench Press,300
+Emily Davis,42,52 kg,Deadlift,339
+Laura Taylor,33,59 kg,Deadlift,391
+Emily Davis,64,93 kg,Squat,235
+Jane Smith,57,93 kg,Deadlift,193
+Chris Brown,24,120 kg,Squat,171
+Jessica Wilson,35,Open,Squat,235
+Emily Davis,26,74 kg,Deadlift,305
+Michael Johnson,19,83 kg,Squat,292
+Jane Smith,25,Open,Bench Press,397
+Emily Davis,38,59 kg,Bench Press,272
+Chris Brown,58,Open,Squat,247
+Chris Brown,26,52 kg,Squat,267
+Daniel Lee,18,66 kg,Deadlift,217
+Sarah Thomas,59,Open,Bench Press,181
+Sarah Thomas,20,93 kg,Bench Press,159
+Emily Davis,50,52 kg,Squat,346
+Laura Taylor,40,105 kg,Squat,326
+Chris Brown,28,120 kg,Deadlift,206
+John Doe,48,120 kg,Bench Press,361
+John Doe,26,83 kg,Squat,163
+John Doe,39,59 kg,Bench Press,335
+John Doe,63,120 kg,Deadlift,232
+Chris Brown,21,66 kg,Deadlift,388
+Jessica Wilson,23,Open,Bench Press,311
+Jessica Wilson,45,Open,Bench Press,168
+Sarah Thomas,44,93 kg,Bench Press,259
+Michael Johnson,30,74 kg,Bench Press,319
+John Doe,18,66 kg,Squat,161
+Laura Taylor,21,74 kg,Bench Press,305
+Jane Smith,61,52 kg,Deadlift,258
+Sarah Thomas,50,120 kg,Deadlift,182
+Sarah Thomas,58,Open,Squat,282
+John Doe,38,Open,Bench Press,367
+Laura Taylor,32,105 kg,Squat,182
+Daniel Lee,42,74 kg,Bench Press,212
+Laura Taylor,21,120 kg,Deadlift,320
+Sarah Thomas,50,59 kg,Bench Press,118
+John Doe,27,83 kg,Deadlift,313
+Sarah Thomas,24,83 kg,Squat,133
+Chris Brown,21,66 kg,Squat,220
+Matthew Anderson,46,74 kg,Bench Press,142
+Jessica Wilson,21,120 kg,Squat,321
+Michael Johnson,33,93 kg,Deadlift,303
+Jessica Wilson,50,105 kg,Squat,156
+Chris Brown,56,74 kg,Squat,135
+Jane Smith,62,59 kg,Deadlift,273
+John Doe,46,52 kg,Deadlift,275
+Michael Johnson,23,105 kg,Squat,358
+Jessica Wilson,19,52 kg,Bench Press,231
+Chris Brown,35,74 kg,Squat,158
+Michael Johnson,26,66 kg,Deadlift,266
+Laura Taylor,27,74 kg,Squat,372
+Emily Davis,31,66 kg,Bench Press,195
+Jessica Wilson,59,74 kg,Bench Press,241
+Daniel Lee,42,Open,Squat,367
+Chris Brown,22,Open,Squat,321
+Sarah Thomas,25,59 kg,Bench Press,182
+Matthew Anderson,23,52 kg,Bench Press,209
+John Doe,57,120 kg,Squat,188
+John Doe,38,105 kg,Deadlift,294
+Michael Johnson,21,93 kg,Bench Press,181
+Daniel Lee,19,66 kg,Squat,256
+Jane Smith,27,120 kg,Bench Press,320
+Jessica Wilson,44,52 kg,Bench Press,343
+Sarah Thomas,19,Open,Deadlift,201
+Jessica Wilson,58,120 kg,Bench Press,232
+Michael Johnson,56,Open,Bench Press,320
+Emily Davis,64,93 kg,Deadlift,272
+Emily Davis,39,Open,Squat,368
+Emily Davis,30,52 kg,Bench Press,294
+Matthew Anderson,24,120 kg,Deadlift,195
+Jessica Wilson,50,Open,Deadlift,268
+Sarah Thomas,60,93 kg,Deadlift,216
+Jessica Wilson,38,Open,Squat,159
+Jane Smith,30,83 kg,Squat,172
+Matthew Anderson,40,59 kg,Deadlift,258
+Laura Taylor,38,74 kg,Bench Press,125
+Laura Taylor,63,52 kg,Deadlift,113
+Jane Smith,51,Open,Squat,378
+Sarah Thomas,50,120 kg,Squat,328
+John Doe,27,93 kg,Squat,181
+Sarah Thomas,54,120 kg,Deadlift,296
+Chris Brown,21,105 kg,Deadlift,100
+Daniel Lee,59,120 kg,Bench Press,122
+John Doe,26,66 kg,Bench Press,152
+Emily Davis,46,93 kg,Bench Press,218
+Emily Davis,31,74 kg,Squat,232
+Chris Brown,41,59 kg,Bench Press,294
+Jane Smith,25,105 kg,Deadlift,176
+John Doe,30,83 kg,Squat,355
+Chris Brown,20,59 kg,Bench Press,243
+Daniel Lee,54,83 kg,Deadlift,380
+Matthew Anderson,63,105 kg,Squat,102
+Michael Johnson,31,93 kg,Squat,197
+Jane Smith,41,59 kg,Squat,309
+Michael Johnson,57,52 kg,Squat,212
+Jane Smith,27,66 kg,Squat,135
+John Doe,57,93 kg,Deadlift,370
+Jane Smith,33,Open,Bench Press,351
+Daniel Lee,29,120 kg,Bench Press,211
+Chris Brown,27,Open,Bench Press,276
+Chris Brown,19,74 kg,Bench Press,332
+Jessica Wilson,44,83 kg,Deadlift,171
+Sarah Thomas,29,105 kg,Deadlift,174
+Emily Davis,49,52 kg,Deadlift,161
+Daniel Lee,29,105 kg,Deadlift,259
+John Doe,19,52 kg,Deadlift,307
+Michael Johnson,26,120 kg,Deadlift,373
+John Doe,43,83 kg,Bench Press,346
+Laura Taylor,48,105 kg,Deadlift,159
+Laura Taylor,51,93 kg,Bench Press,244
+Jane Smith,62,Open,Deadlift,330
+Chris Brown,41,83 kg,Deadlift,377
+Sarah Thomas,38,59 kg,Deadlift,349
+Matthew Anderson,26,93 kg,Bench Press,298
+John Doe,18,59 kg,Bench Press,339
+Emily Davis,52,120 kg,Bench Press,158
+Chris Brown,48,59 kg,Deadlift,320
+Daniel Lee,56,59 kg,Bench Press,180
+Jane Smith,38,120 kg,Bench Press,279
+Emily Davis,55,Open,Squat,289
+Emily Davis,40,83 kg,Squat,363
+Michael Johnson,60,52 kg,Bench Press,297
+Chris Brown,40,Open,Squat,229
+Chris Brown,59,Open,Squat,100
+Chris Brown,38,52 kg,Deadlift,327
+Sarah Thomas,61,66 kg,Squat,111
+Jessica Wilson,25,120 kg,Deadlift,212
+Matthew Anderson,19,66 kg,Squat,151
+Emily Davis,63,83 kg,Squat,197
+Daniel Lee,48,105 kg,Bench Press,303
+Jessica Wilson,30,66 kg,Deadlift,155
+Emily Davis,23,83 kg,Deadlift,336
+Emily Davis,39,59 kg,Squat,320
+Laura Taylor,23,Open,Squat,152
+John Doe,34,59 kg,Bench Press,207
+Sarah Thomas,61,93 kg,Deadlift,122
+Laura Taylor,41,120 kg,Deadlift,217
+Chris Brown,58,105 kg,Deadlift,104
+John Doe,55,83 kg,Bench Press,394
+Jessica Wilson,57,59 kg,Bench Press,328
+Emily Davis,58,120 kg,Squat,296
+Daniel Lee,56,66 kg,Squat,344
+Laura Taylor,61,59 kg,Bench Press,221
+John Doe,18,105 kg,Deadlift,142
+Emily Davis,27,120 kg,Bench Press,257
+Michael Johnson,33,105 kg,Squat,355
+John Doe,62,120 kg,Deadlift,159
+Laura Taylor,22,Open,Bench Press,323
+John Doe,46,83 kg,Squat,153
+Laura Taylor,53,59 kg,Deadlift,362
+Michael Johnson,38,Open,Squat,204
+John Doe,24,66 kg,Squat,250
+Michael Johnson,59,52 kg,Bench Press,214
+Daniel Lee,49,74 kg,Deadlift,372
+John Doe,43,66 kg,Deadlift,115
+Matthew Anderson,34,66 kg,Bench Press,138
+Emily Davis,22,105 kg,Bench Press,256
+Emily Davis,64,59 kg,Bench Press,155
+Daniel Lee,31,93 kg,Squat,154
+Daniel Lee,51,74 kg,Squat,143
+Daniel Lee,35,120 kg,Squat,286
+Chris Brown,19,52 kg,Bench Press,282
+Michael Johnson,43,Open,Squat,206
+Jessica Wilson,40,52 kg,Deadlift,223
+Chris Brown,60,105 kg,Deadlift,218
+Michael Johnson,40,59 kg,Squat,165
+John Doe,35,52 kg,Deadlift,190
+Sarah Thomas,21,74 kg,Deadlift,334
+Jane Smith,37,93 kg,Squat,257
+Jessica Wilson,64,93 kg,Squat,335
+Sarah Thomas,47,66 kg,Squat,197
+Jessica Wilson,22,59 kg,Bench Press,209
+Matthew Anderson,38,120 kg,Deadlift,372
+Chris Brown,63,66 kg,Deadlift,193
+Sarah Thomas,48,59 kg,Squat,103
+John Doe,62,83 kg,Squat,151
+Daniel Lee,33,74 kg,Bench Press,310
+Jane Smith,51,120 kg,Bench Press,239
+Jane Smith,22,66 kg,Deadlift,196
+Emily Davis,37,93 kg,Squat,169
+John Doe,55,Open,Deadlift,396
+Emily Davis,18,120 kg,Deadlift,278
+Jane Smith,35,Open,Squat,316
+Emily Davis,35,74 kg,Squat,174
+Jane Smith,57,74 kg,Deadlift,334
+Chris Brown,58,105 kg,Deadlift,198
+Laura Taylor,36,74 kg,Bench Press,333
+Daniel Lee,23,Open,Bench Press,265
+Chris Brown,52,59 kg,Squat,327
+Jessica Wilson,21,74 kg,Deadlift,127
+Daniel Lee,18,74 kg,Bench Press,297
+John Doe,53,105 kg,Squat,338
+Chris Brown,43,83 kg,Deadlift,327
+Sarah Thomas,38,74 kg,Squat,182
+Emily Davis,47,83 kg,Squat,115
+Laura Taylor,19,66 kg,Deadlift,190
+John Doe,32,66 kg,Bench Press,110
+John Doe,62,66 kg,Squat,112
+Matthew Anderson,56,83 kg,Deadlift,180
+Emily Davis,22,93 kg,Deadlift,199
+Daniel Lee,24,66 kg,Bench Press,194
+Jessica Wilson,35,120 kg,Squat,145
+Laura Taylor,47,120 kg,Bench Press,232
+Emily Davis,19,105 kg,Bench Press,176
+Michael Johnson,34,120 kg,Squat,278
+Matthew Anderson,20,83 kg,Deadlift,303
+Jane Smith,32,74 kg,Squat,260
+Emily Davis,60,52 kg,Bench Press,131
+Matthew Anderson,42,66 kg,Deadlift,371
+Emily Davis,23,105 kg,Deadlift,395
+Jessica Wilson,39,66 kg,Bench Press,313
+Jane Smith,26,59 kg,Deadlift,338
+Michael Johnson,26,120 kg,Squat,150
+Daniel Lee,51,74 kg,Squat,223
+Emily Davis,23,Open,Deadlift,241
+Michael Johnson,50,52 kg,Bench Press,116
+Jessica Wilson,18,83 kg,Bench Press,319
+Emily Davis,61,74 kg,Bench Press,306
+Jessica Wilson,24,66 kg,Bench Press,107
+Jane Smith,32,93 kg,Deadlift,119
+Sarah Thomas,55,66 kg,Bench Press,394
+Jane Smith,46,66 kg,Bench Press,343
+Jessica Wilson,34,59 kg,Deadlift,290
+Sarah Thomas,47,52 kg,Deadlift,349
+Matthew Anderson,36,52 kg,Deadlift,189
+Sarah Thomas,47,93 kg,Squat,130
+Emily Davis,55,66 kg,Squat,387
+Michael Johnson,21,93 kg,Bench Press,234
+Michael Johnson,60,59 kg,Squat,165
+Chris Brown,28,120 kg,Squat,173
+Laura Taylor,59,120 kg,Bench Press,296
+Matthew Anderson,57,66 kg,Bench Press,122
+Matthew Anderson,50,Open,Squat,199
+Jessica Wilson,50,Open,Deadlift,114
+Jessica Wilson,46,74 kg,Squat,138
+Emily Davis,32,66 kg,Squat,109
+Laura Taylor,49,105 kg,Deadlift,215
+Daniel Lee,52,93 kg,Bench Press,397
+John Doe,55,74 kg,Deadlift,276
+Matthew Anderson,53,120 kg,Bench Press,113
+Jessica Wilson,21,52 kg,Deadlift,155
+Jessica Wilson,31,59 kg,Squat,235
+Emily Davis,36,74 kg,Squat,381
+Matthew Anderson,35,66 kg,Bench Press,285
+Sarah Thomas,52,52 kg,Deadlift,115
+Sarah Thomas,52,52 kg,Deadlift,222
+Laura Taylor,37,93 kg,Squat,356
+Chris Brown,22,83 kg,Bench Press,264
+Laura Taylor,29,Open,Deadlift,263
+Jane Smith,39,93 kg,Squat,302
+Emily Davis,21,Open,Bench Press,361
+Jessica Wilson,52,52 kg,Deadlift,130
+Matthew Anderson,37,120 kg,Squat,216
+Sarah Thomas,44,105 kg,Deadlift,295
+Jessica Wilson,26,66 kg,Bench Press,207
+Matthew Anderson,59,120 kg,Squat,278
+Laura Taylor,32,93 kg,Squat,149
+Emily Davis,53,74 kg,Squat,399
+Jessica Wilson,30,93 kg,Bench Press,337
+Sarah Thomas,35,66 kg,Squat,127
+Daniel Lee,60,83 kg,Squat,347
+Jessica Wilson,41,52 kg,Bench Press,316
+Emily Davis,35,120 kg,Squat,215
+Michael Johnson,50,52 kg,Bench Press,340
+Emily Davis,29,74 kg,Deadlift,332
+Sarah Thomas,58,93 kg,Bench Press,396
+Jane Smith,20,59 kg,Bench Press,353
+Daniel Lee,40,120 kg,Squat,376
+Sarah Thomas,22,52 kg,Deadlift,379
+Emily Davis,59,83 kg,Bench Press,389
+Laura Taylor,60,Open,Bench Press,374
+Laura Taylor,33,74 kg,Bench Press,136
+Jessica Wilson,35,74 kg,Squat,331
+Michael Johnson,57,120 kg,Deadlift,158
+Jane Smith,31,Open,Deadlift,205
+Laura Taylor,49,93 kg,Squat,194
+Jessica Wilson,53,83 kg,Bench Press,102
+John Doe,21,83 kg,Deadlift,135
+Emily Davis,63,93 kg,Squat,392
+Laura Taylor,43,83 kg,Bench Press,247
+Jane Smith,46,66 kg,Deadlift,236
+John Doe,36,74 kg,Bench Press,342
+Matthew Anderson,62,120 kg,Squat,123
+Jane Smith,49,74 kg,Squat,143
+Laura Taylor,41,74 kg,Bench Press,235
+Laura Taylor,64,59 kg,Squat,120
+Daniel Lee,28,120 kg,Bench Press,342
+John Doe,31,105 kg,Squat,363
+Jessica Wilson,31,59 kg,Squat,343
+Jessica Wilson,31,Open,Squat,227
+Daniel Lee,37,74 kg,Bench Press,284
+Jessica Wilson,19,105 kg,Deadlift,276
+Emily Davis,21,Open,Deadlift,351
+Emily Davis,30,66 kg,Deadlift,354
+Matthew Anderson,26,83 kg,Squat,292
+Emily Davis,28,66 kg,Bench Press,295
+Sarah Thomas,24,105 kg,Squat,395
+Emily Davis,49,Open,Bench Press,307
+Emily Davis,61,83 kg,Squat,164
+Daniel Lee,49,66 kg,Deadlift,206
+Chris Brown,39,120 kg,Deadlift,399
+Michael Johnson,31,52 kg,Deadlift,265
+Jessica Wilson,25,83 kg,Deadlift,176
+Jane Smith,63,83 kg,Bench Press,194
+Matthew Anderson,46,66 kg,Squat,285
+Sarah Thomas,36,105 kg,Deadlift,269
+Matthew Anderson,47,83 kg,Squat,174
+Jessica Wilson,44,Open,Squat,107
+Matthew Anderson,33,52 kg,Squat,175
+Emily Davis,64,83 kg,Deadlift,169
+John Doe,19,59 kg,Deadlift,106
+Daniel Lee,63,105 kg,Bench Press,205
+Emily Davis,43,120 kg,Bench Press,142
+Jane Smith,36,105 kg,Bench Press,319
+Laura Taylor,57,83 kg,Deadlift,317
+Matthew Anderson,63,59 kg,Deadlift,392
+Emily Davis,40,83 kg,Squat,399
+Laura Taylor,45,Open,Deadlift,276
+Daniel Lee,29,93 kg,Deadlift,232
+Laura Taylor,62,66 kg,Deadlift,137
+Sarah Thomas,56,52 kg,Squat,172
+Daniel Lee,18,105 kg,Bench Press,186
+Sarah Thomas,27,105 kg,Deadlift,285
+Daniel Lee,40,66 kg,Deadlift,392
+Laura Taylor,23,66 kg,Deadlift,346
+Matthew Anderson,41,105 kg,Deadlift,355
+Jessica Wilson,24,59 kg,Deadlift,152
+Daniel Lee,40,120 kg,Bench Press,395
+Emily Davis,41,93 kg,Deadlift,164
+Laura Taylor,19,Open,Bench Press,169
+Michael Johnson,44,Open,Deadlift,374
+Laura Taylor,49,74 kg,Bench Press,217
+Matthew Anderson,37,83 kg,Squat,282
+Michael Johnson,43,120 kg,Deadlift,365
+Emily Davis,58,83 kg,Bench Press,250
+Jane Smith,25,93 kg,Squat,141
+Matthew Anderson,29,66 kg,Bench Press,399
+Jane Smith,35,105 kg,Squat,283
+John Doe,58,Open,Squat,389
+John Doe,18,93 kg,Bench Press,185
+Jessica Wilson,29,105 kg,Squat,174
+Jane Smith,54,93 kg,Bench Press,277
+Jessica Wilson,53,74 kg,Bench Press,179
+John Doe,31,83 kg,Squat,252
+Emily Davis,26,93 kg,Bench Press,387
+Matthew Anderson,56,66 kg,Bench Press,136
+John Doe,28,120 kg,Bench Press,120
+Matthew Anderson,43,105 kg,Deadlift,280
+Sarah Thomas,59,66 kg,Bench Press,163
+Chris Brown,27,74 kg,Deadlift,225
+Daniel Lee,38,Open,Squat,280
+Sarah Thomas,22,Open,Deadlift,199
+John Doe,57,74 kg,Deadlift,106
+Jane Smith,34,52 kg,Deadlift,399
+Laura Taylor,36,Open,Deadlift,344
+Michael Johnson,64,105 kg,Deadlift,387
+Daniel Lee,32,120 kg,Squat,358
+Emily Davis,41,83 kg,Deadlift,380
+Chris Brown,64,52 kg,Bench Press,143
+Chris Brown,53,59 kg,Squat,290
+Jessica Wilson,48,105 kg,Deadlift,165
+John Doe,21,66 kg,Squat,257
+John Doe,28,83 kg,Squat,386
+Matthew Anderson,50,83 kg,Deadlift,326
+Daniel Lee,39,52 kg,Bench Press,206
+Daniel Lee,59,66 kg,Squat,305
+Chris Brown,64,52 kg,Squat,241
+Matthew Anderson,51,74 kg,Bench Press,166
+Sarah Thomas,36,93 kg,Bench Press,314
+John Doe,51,105 kg,Bench Press,272
+Laura Taylor,30,83 kg,Bench Press,281
+Jessica Wilson,20,120 kg,Bench Press,349
+Daniel Lee,43,93 kg,Bench Press,245
+Emily Davis,60,105 kg,Squat,161
+Sarah Thomas,48,120 kg,Bench Press,285
+John Doe,46,120 kg,Bench Press,274
+Chris Brown,59,83 kg,Bench Press,188
+Michael Johnson,35,52 kg,Squat,119
+Jane Smith,32,83 kg,Squat,100
+Laura Taylor,31,120 kg,Deadlift,331
+Jane Smith,51,105 kg,Bench Press,335
+John Doe,40,74 kg,Bench Press,220
+Michael Johnson,42,120 kg,Squat,193
+Laura Taylor,48,74 kg,Squat,237
+Matthew Anderson,28,Open,Squat,239
+Matthew Anderson,21,74 kg,Deadlift,312
+John Doe,49,83 kg,Deadlift,165
+Daniel Lee,50,Open,Squat,367
+Jessica Wilson,31,Open,Deadlift,105
+Chris Brown,57,59 kg,Bench Press,241
+Laura Taylor,18,66 kg,Deadlift,103
+Chris Brown,64,93 kg,Deadlift,324
+John Doe,42,93 kg,Deadlift,196
+Daniel Lee,38,Open,Deadlift,360
+Chris Brown,61,120 kg,Squat,218
+Daniel Lee,59,93 kg,Squat,143
+Chris Brown,44,93 kg,Bench Press,121
+John Doe,45,105 kg,Deadlift,396
+Michael Johnson,41,105 kg,Squat,122
+Matthew Anderson,44,59 kg,Deadlift,306
+Laura Taylor,27,Open,Squat,303
+Matthew Anderson,51,120 kg,Squat,283
+Daniel Lee,44,93 kg,Deadlift,115
+Chris Brown,59,93 kg,Squat,294
+Chris Brown,49,93 kg,Bench Press,182
+Sarah Thomas,58,59 kg,Bench Press,322
+Matthew Anderson,49,66 kg,Bench Press,315
+Chris Brown,26,66 kg,Bench Press,381
+Jessica Wilson,54,Open,Bench Press,346
+Emily Davis,35,52 kg,Deadlift,238
+Chris Brown,48,59 kg,Bench Press,187
+Michael Johnson,19,66 kg,Deadlift,168
+Michael Johnson,47,59 kg,Deadlift,152
+Laura Taylor,34,93 kg,Squat,372
+Sarah Thomas,38,120 kg,Bench Press,388
+Jessica Wilson,26,59 kg,Squat,299
+Michael Johnson,54,93 kg,Deadlift,387
+Jane Smith,47,66 kg,Squat,354
+Chris Brown,61,Open,Bench Press,286
+Chris Brown,62,120 kg,Squat,343
+Jane Smith,33,105 kg,Deadlift,125
+Matthew Anderson,31,83 kg,Deadlift,187
+Sarah Thomas,43,52 kg,Deadlift,106
+Michael Johnson,55,105 kg,Squat,130
+Jessica Wilson,34,59 kg,Bench Press,239
+Matthew Anderson,29,93 kg,Squat,213
+Michael Johnson,64,74 kg,Deadlift,123
+Sarah Thomas,20,74 kg,Squat,171
+Chris Brown,51,59 kg,Bench Press,338
+Sarah Thomas,46,83 kg,Deadlift,223
+Daniel Lee,44,66 kg,Bench Press,362
+Jane Smith,59,105 kg,Bench Press,167
+Michael Johnson,19,93 kg,Squat,320
+Daniel Lee,44,93 kg,Deadlift,265
+Michael Johnson,26,66 kg,Bench Press,201
+John Doe,37,52 kg,Deadlift,171
+John Doe,45,105 kg,Deadlift,300
+Daniel Lee,53,105 kg,Squat,341
+Sarah Thomas,40,83 kg,Squat,360
+Daniel Lee,43,59 kg,Squat,297
+Michael Johnson,42,52 kg,Deadlift,247
+Emily Davis,62,93 kg,Deadlift,388
+Michael Johnson,38,59 kg,Deadlift,141
+John Doe,54,120 kg,Squat,340
+Sarah Thomas,42,74 kg,Deadlift,298
+Daniel Lee,48,74 kg,Squat,350
+Jane Smith,30,83 kg,Deadlift,130
+Chris Brown,60,93 kg,Bench Press,224
+Chris Brown,46,74 kg,Squat,217
+Michael Johnson,22,Open,Bench Press,293
+Jessica Wilson,19,59 kg,Squat,334
+Michael Johnson,23,Open,Bench Press,165
+Emily Davis,62,105 kg,Squat,118
+Michael Johnson,39,59 kg,Deadlift,285
+Emily Davis,42,74 kg,Squat,305
+Matthew Anderson,26,52 kg,Squat,123
+Michael Johnson,62,74 kg,Deadlift,163
+Chris Brown,48,105 kg,Bench Press,116
+Laura Taylor,50,83 kg,Squat,107
+Emily Davis,39,Open,Bench Press,390
+Emily Davis,21,120 kg,Squat,262
+Emily Davis,38,52 kg,Squat,360
+Daniel Lee,35,93 kg,Bench Press,192
+Michael Johnson,35,66 kg,Bench Press,289
+Jessica Wilson,29,105 kg,Bench Press,140
+Matthew Anderson,36,93 kg,Bench Press,180
+Laura Taylor,53,105 kg,Deadlift,222
+Emily Davis,39,59 kg,Squat,120
+Emily Davis,63,83 kg,Bench Press,173
+Laura Taylor,61,93 kg,Bench Press,137
+Michael Johnson,52,105 kg,Deadlift,391
+Michael Johnson,51,Open,Deadlift,353
+John Doe,27,74 kg,Deadlift,393
+Laura Taylor,45,59 kg,Squat,278
+John Doe,41,52 kg,Bench Press,137
+Sarah Thomas,59,59 kg,Bench Press,211
+Jessica Wilson,54,59 kg,Deadlift,278
+Chris Brown,51,105 kg,Squat,330
+Matthew Anderson,29,105 kg,Deadlift,276
+Daniel Lee,63,120 kg,Bench Press,153
+Chris Brown,26,93 kg,Squat,391
+Jane Smith,61,74 kg,Squat,149
+Daniel Lee,64,59 kg,Bench Press,370
+Jessica Wilson,47,59 kg,Deadlift,140
+Matthew Anderson,51,52 kg,Deadlift,233
+Laura Taylor,32,Open,Bench Press,192
+Chris Brown,48,74 kg,Squat,190
+Michael Johnson,64,59 kg,Squat,165
+Michael Johnson,49,93 kg,Squat,330
+Sarah Thomas,41,52 kg,Squat,217
+John Doe,61,66 kg,Squat,312
+Jane Smith,39,59 kg,Squat,366
+Chris Brown,20,83 kg,Bench Press,169
+Sarah Thomas,44,83 kg,Deadlift,162
+Chris Brown,54,59 kg,Squat,202
+Emily Davis,64,52 kg,Deadlift,165
+John Doe,27,52 kg,Deadlift,212
+Jessica Wilson,19,66 kg,Deadlift,287
+Matthew Anderson,21,83 kg,Bench Press,206
+Matthew Anderson,35,Open,Squat,360
+Laura Taylor,19,59 kg,Squat,135
+Michael Johnson,48,105 kg,Deadlift,148
+Jessica Wilson,52,74 kg,Squat,179
+Jane Smith,51,66 kg,Squat,269
+Jessica Wilson,28,66 kg,Deadlift,295
+Michael Johnson,24,Open,Deadlift,183
+Jane Smith,23,120 kg,Deadlift,173
+Michael Johnson,60,105 kg,Squat,181
+Sarah Thomas,24,Open,Squat,121
+Daniel Lee,59,Open,Squat,277
+Laura Taylor,56,Open,Bench Press,184
+Chris Brown,23,105 kg,Deadlift,290
+Daniel Lee,48,52 kg,Bench Press,119
+Jane Smith,26,105 kg,Squat,202
+Jessica Wilson,35,Open,Squat,119
+Laura Taylor,40,59 kg,Bench Press,133
+Jessica Wilson,21,66 kg,Bench Press,211
+Chris Brown,33,93 kg,Bench Press,227
+Matthew Anderson,56,59 kg,Squat,248
+Michael Johnson,64,59 kg,Deadlift,209
+Sarah Thomas,48,Open,Bench Press,235
+Daniel Lee,24,93 kg,Bench Press,390
+Jane Smith,47,Open,Squat,241
+Matthew Anderson,40,Open,Bench Press,211
+Laura Taylor,28,59 kg,Bench Press,211
+Sarah Thomas,46,120 kg,Bench Press,251
+Jane Smith,25,93 kg,Squat,191
+Jane Smith,45,105 kg,Squat,391
+Jane Smith,37,Open,Squat,170
+Sarah Thomas,20,Open,Squat,214
+Laura Taylor,25,120 kg,Bench Press,316
+Sarah Thomas,30,93 kg,Bench Press,313
+Matthew Anderson,37,66 kg,Deadlift,168
+Sarah Thomas,48,83 kg,Bench Press,304
+Emily Davis,48,Open,Bench Press,399
+Jessica Wilson,45,Open,Squat,147
+Jane Smith,33,66 kg,Deadlift,258
+Jane Smith,41,Open,Bench Press,175
+John Doe,48,93 kg,Squat,250
+Laura Taylor,37,105 kg,Squat,231
+Daniel Lee,26,52 kg,Squat,250
+Michael Johnson,31,93 kg,Bench Press,166
+Daniel Lee,56,105 kg,Deadlift,137
+Chris Brown,56,93 kg,Bench Press,246
+Jane Smith,20,83 kg,Squat,284
+John Doe,60,105 kg,Bench Press,287
+Chris Brown,22,59 kg,Deadlift,139
+Chris Brown,56,52 kg,Deadlift,182
+Laura Taylor,23,Open,Deadlift,287
+John Doe,64,93 kg,Deadlift,263
+John Doe,51,52 kg,Bench Press,170
+Laura Taylor,42,66 kg,Squat,187
+Sarah Thomas,62,105 kg,Bench Press,191
+John Doe,46,74 kg,Bench Press,246
+Daniel Lee,39,Open,Deadlift,244
+Sarah Thomas,62,Open,Squat,148
+Chris Brown,32,93 kg,Bench Press,333
+Daniel Lee,22,83 kg,Deadlift,280
